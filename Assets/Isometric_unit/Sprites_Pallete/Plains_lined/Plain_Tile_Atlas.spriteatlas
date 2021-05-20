@@ -209,6 +209,12 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 6feaffb95601b4b4aaaafae1786cb932, type: 3}
   - {fileID: 21300000, guid: 27b1c5c94d242b5438ff771064e7d0c3, type: 3}
   - {fileID: 21300000, guid: 0b4b04ba48f55a64080d8fbefa52b34d, type: 3}
+  - {fileID: 7813006591575587430, guid: 0720c0ea309050f44b45dc04401e703e, type: 3}
+  - {fileID: 8116824346019610553, guid: 0720c0ea309050f44b45dc04401e703e, type: 3}
+  - {fileID: -4366961454078862742, guid: 0720c0ea309050f44b45dc04401e703e, type: 3}
+  - {fileID: 951110454885162105, guid: 0720c0ea309050f44b45dc04401e703e, type: 3}
+  - {fileID: -7148127612973870871, guid: 0720c0ea309050f44b45dc04401e703e, type: 3}
+  - {fileID: -8677408509163802190, guid: 0720c0ea309050f44b45dc04401e703e, type: 3}
   - {fileID: 21300000, guid: d42223ea6c5a1b64ea3c5d0423709b7e, type: 3}
   - {fileID: 21300000, guid: c757761b08f64df4b93244d5ef737b76, type: 3}
   - {fileID: 21300000, guid: 4731543be03881342b2829610a82921a, type: 3}
@@ -339,6 +345,12 @@ SpriteAtlas:
   - plains-sliced_02
   - plains-sliced_21
   - plains-sliced_46
+  - Skill_Range_Many_5
+  - Skill_Range_Many_4
+  - Skill_Range_Many_3
+  - Skill_Range_Many_2
+  - Skill_Range_Many_1
+  - Skill_Range_Many_0
   - plains-sliced_24
   - plains-sliced_45
   - plains-sliced_47
