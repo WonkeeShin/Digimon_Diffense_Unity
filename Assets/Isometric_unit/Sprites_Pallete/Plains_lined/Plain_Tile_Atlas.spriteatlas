@@ -147,6 +147,10 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 1e506aa101043a4489d18e6260eab976, type: 3}
   - {fileID: 21300000, guid: ea939fe16223a0b4ca960c87688fed50, type: 3}
   - {fileID: 21300000, guid: a71901f11b48de2459689a91e67f7dd3, type: 3}
+  - {fileID: -484523931135588352, guid: 9d009d023f1db12419391c67b120f3bb, type: 3}
+  - {fileID: -2758774862048462132, guid: 9d009d023f1db12419391c67b120f3bb, type: 3}
+  - {fileID: 1567149026625390447, guid: 9d009d023f1db12419391c67b120f3bb, type: 3}
+  - {fileID: 3742715210537763610, guid: 9d009d023f1db12419391c67b120f3bb, type: 3}
   - {fileID: 21300000, guid: 188981420f669284caa96a931b7de9dd, type: 3}
   - {fileID: 21300000, guid: c7f45372f89932f4cafa2227c620c42c, type: 3}
   - {fileID: 21300000, guid: 5249d05363536d54ab5e25b8c26019f0, type: 3}
@@ -283,6 +287,10 @@ SpriteAtlas:
   - plains-sliced_04
   - plains-sliced_09
   - plains-sliced_05
+  - HP_Bar_Blue_Red_1
+  - HP_Bar_Blue_Red_0
+  - HP_Bar_Blue_Red_3
+  - HP_Bar_Blue_Red_2
   - plains-sliced_42
   - plains-sliced_60
   - plains-sliced_55
