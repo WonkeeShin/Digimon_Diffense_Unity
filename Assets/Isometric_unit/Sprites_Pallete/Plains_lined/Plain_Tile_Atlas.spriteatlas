@@ -112,6 +112,14 @@ SpriteAtlas:
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: 32e921203e689254cbd121cdd3fe73d3, type: 3}
+  - {fileID: 37388687572987326, guid: 28b70e40262bc4d47a6d90baae9551e7, type: 3}
+  - {fileID: -4419192724689468039, guid: 28b70e40262bc4d47a6d90baae9551e7, type: 3}
+  - {fileID: 1599059488010774885, guid: 28b70e40262bc4d47a6d90baae9551e7, type: 3}
+  - {fileID: 7543880075637610056, guid: 28b70e40262bc4d47a6d90baae9551e7, type: 3}
+  - {fileID: -163622760532216732, guid: 28b70e40262bc4d47a6d90baae9551e7, type: 3}
+  - {fileID: 5421531248866304511, guid: 28b70e40262bc4d47a6d90baae9551e7, type: 3}
+  - {fileID: -5684019825154086439, guid: 28b70e40262bc4d47a6d90baae9551e7, type: 3}
+  - {fileID: -7062211445270144951, guid: 28b70e40262bc4d47a6d90baae9551e7, type: 3}
   - {fileID: -359198137477418600, guid: 593861501250bfd408d2df571c01e735, type: 3}
   - {fileID: -4298146228566479987, guid: 593861501250bfd408d2df571c01e735, type: 3}
   - {fileID: 4636433786185287938, guid: 593861501250bfd408d2df571c01e735, type: 3}
@@ -243,6 +251,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 076d425e4c09f194b953432a5bca20cb, type: 3}
   - {fileID: 21300000, guid: cafb786ece3350b4f8429c143af4659b, type: 3}
   - {fileID: 21300000, guid: c3f0b6dec2372bd4394a2827784ac5b0, type: 3}
+  - {fileID: 21300000, guid: 42fdd80f10d626f43b8eba626aaba010, type: 3}
   - {fileID: 21300000, guid: 20ba432f5a48c9644bfa97cc455bee96, type: 3}
   - {fileID: 21300000, guid: c136e63f4d472cb4087d99948c211288, type: 3}
   - {fileID: 21300000, guid: 47b5725ff292d4640b9d51ef4c74a00c, type: 3}
@@ -252,6 +261,14 @@ SpriteAtlas:
   - {fileID: 21300000, guid: df3719ff2d9cf7048a0254d8f6414e1a, type: 3}
   m_PackedSpriteNamesToIndex:
   - plains-sliced_43
+  - Botamon_Attack_3
+  - Botamon_Attack_2
+  - Botamon_Attack_1
+  - Botamon_Attack_0
+  - Botamon_Attack_7
+  - Botamon_Attack_6
+  - Botamon_Attack_5
+  - Botamon_Attack_4
   - Tokomon_Idle_Attack_Skill_7
   - Tokomon_Idle_Attack_Skill_6
   - Tokomon_Idle_Attack_Skill_5
@@ -383,6 +400,7 @@ SpriteAtlas:
   - plains-sliced_20
   - Palmon_thumbnail
   - plains-sliced_15
+  - "\uB514\uC9C0\uBAAC \uC5B4\uB4DC\uBCA4\uCCD0_\uBC30\uACBD"
   - plains-sliced_06
   - plains-sliced_37
   - plains-sliced_68
