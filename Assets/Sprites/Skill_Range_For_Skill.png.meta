@@ -1,19 +1,25 @@
 fileFormatVersion: 2
-guid: 0f26a2f485786db4bb7bd47de110dfb6
+guid: 6ffa9ae4583ba2740926ebb9da2b3ae3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8868761091211716206
-    second: Palmon_Idle_0
+      213: -6325316158490397443
+    second: Skill_Range_For_Skill_0
   - first:
-      213: -527499970918045689
-    second: Palmon_Idle_1
+      213: 4820536792549349835
+    second: Skill_Range_For_Skill_1
   - first:
-      213: 8684881741136229025
-    second: Palmon_Idle_2
+      213: 4122625582437477308
+    second: Skill_Range_For_Skill_2
   - first:
-      213: 4811203644899315721
-    second: Palmon_Idle_3
+      213: 3095577653994469292
+    second: Skill_Range_For_Skill_3
+  - first:
+      213: -8203871244064039714
+    second: Skill_Range_For_Skill_4
+  - first:
+      213: -6068941345044714208
+    second: Skill_Range_For_Skill_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -57,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 128
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -123,85 +129,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Palmon_Idle_0
+      name: Skill_Range_For_Skill_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 128
-        width: 128
-        height: 128
+        y: 512
+        width: 96
+        height: 48
       alignment: 9
-      pivot: {x: 0.5, y: 0.045}
+      pivot: {x: 0.33333334, y: 0.33333334}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2991588b6c4dbe480800000000000000
-      internalID: -8868761091211716206
+      spriteID: df434218776f738a0800000000000000
+      internalID: -6325316158490397443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Palmon_Idle_1
+      name: Skill_Range_For_Skill_1
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
+        x: 256
+        y: 512
         width: 128
-        height: 128
+        height: 64
       alignment: 9
-      pivot: {x: 0.5, y: 0.045}
+      pivot: {x: 0.25, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 708a66e3291fda8f0800000000000000
-      internalID: -527499970918045689
+      spriteID: bc9da9a2cacf5e240800000000000000
+      internalID: 4820536792549349835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Palmon_Idle_2
+      name: Skill_Range_For_Skill_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbaf17ef12863930800000000000000
+      internalID: 4122625582437477308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Range_For_Skill_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca73af8a973b5fa20800000000000000
+      internalID: 3095577653994469292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Range_For_Skill_4
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 128
-        height: 128
+        width: 160
+        height: 80
       alignment: 9
-      pivot: {x: 0.5, y: 0.045}
+      pivot: {x: 0.2, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a273b8dde5e68870800000000000000
-      internalID: 8684881741136229025
+      spriteID: edc558ac19ef52e80800000000000000
+      internalID: -8203871244064039714
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Palmon_Idle_3
+      name: Skill_Range_For_Skill_5
       rect:
         serializedVersion: 2
-        x: 128
+        x: 256
         y: 0
-        width: 128
-        height: 127
+        width: 192
+        height: 96
       alignment: 9
-      pivot: {x: 0.5, y: 0.045}
+      pivot: {x: 0.16666667, y: 0.16666667}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 900d9446934d4c240800000000000000
-      internalID: 4811203644899315721
+      spriteID: 02dade5500ac6cba0800000000000000
+      internalID: -6068941345044714208
       vertices: []
       indices: 
       edges: []

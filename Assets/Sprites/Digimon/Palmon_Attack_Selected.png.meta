@@ -1,19 +1,22 @@
 fileFormatVersion: 2
-guid: 0f26a2f485786db4bb7bd47de110dfb6
+guid: 108e57f133a20a5429a18bf49d2aacc1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8868761091211716206
-    second: Palmon_Idle_0
+      213: 6918702320531710702
+    second: Palmon_Attack_Selected_0
   - first:
-      213: -527499970918045689
-    second: Palmon_Idle_1
+      213: -1813683874673825104
+    second: Palmon_Attack_Selected_1
   - first:
-      213: 8684881741136229025
-    second: Palmon_Idle_2
+      213: -4340629157931723857
+    second: Palmon_Attack_Selected_2
   - first:
-      213: 4811203644899315721
-    second: Palmon_Idle_3
+      213: -8019621905997572374
+    second: Palmon_Attack_Selected_3
+  - first:
+      213: -9187259605977881734
+    second: Palmon_Attack_Selected_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -123,7 +126,49 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Palmon_Idle_0
+      name: Palmon_Attack_Selected_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2a6f98a1b240060800000000000000
+      internalID: 6918702320531710702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palmon_Attack_Selected_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba6633102084d6e0800000000000000
+      internalID: -1813683874673825104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palmon_Attack_Selected_2
       rect:
         serializedVersion: 2
         x: 0
@@ -137,14 +182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2991588b6c4dbe480800000000000000
-      internalID: -8868761091211716206
+      spriteID: fa3d6cb47ccf2c3c0800000000000000
+      internalID: -4340629157931723857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Palmon_Idle_1
+      name: Palmon_Attack_Selected_3
       rect:
         serializedVersion: 2
         x: 128
@@ -158,14 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 708a66e3291fda8f0800000000000000
-      internalID: -527499970918045689
+      spriteID: ae6d214cd5494b090800000000000000
+      internalID: -8019621905997572374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Palmon_Idle_2
+      name: Palmon_Attack_Selected_4
       rect:
         serializedVersion: 2
         x: 0
@@ -179,29 +224,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a273b8dde5e68870800000000000000
-      internalID: 8684881741136229025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Palmon_Idle_3
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 128
-        height: 127
-      alignment: 9
-      pivot: {x: 0.5, y: 0.045}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 900d9446934d4c240800000000000000
-      internalID: 4811203644899315721
+      spriteID: a73a466801c408080800000000000000
+      internalID: -9187259605977881734
       vertices: []
       indices: 
       edges: []
