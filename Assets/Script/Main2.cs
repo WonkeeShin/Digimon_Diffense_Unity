@@ -47,7 +47,18 @@ public class Main2 : MonoBehaviour
 		Digimon = GameObject.Find("Data_Loader");
 		Variables.Object(Digimon).Set("Tokomon", data[12]);
 
-
+		Digi_NO = (int)data[8]["Number"];
+		Digi_Name = (string)data[8]["Name"];
+		Digi_HP = (int)data[8]["HP"];
+		Digi_ATK = (int)data[8]["ATK"];
+		Digi_DF = (int)data[8]["DF"];
+		Digi_Cost = (int)data[8]["Cost"];
+		Digi_Colli_NO = (int)data[8]["Colli_No"];
+		Digi_ATK_Speed = (int)data[8]["ATK_Speed"];
+		Digi_Retime = (int)data[8]["ReTime"];
+		Digi_Speed = (int)data[8]["Speed"];
+		Digimon = GameObject.Find("Data_Loader");
+		Variables.Object(Digimon).Set("Tunomon", data[8]);
 	}
 
 	// Use this for initialization
