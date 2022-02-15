@@ -1,115 +1,91 @@
 fileFormatVersion: 2
-guid: 59a8f79084996b74788a2ba6651a5c2c
+guid: 1244b8025b0e2c742b03092abde906f4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8302334467566361227
-    second: Thumbnails_SpritesSheets_0
+      213: -7673270251884233268
+    second: Nyaromon_ALL_0
   - first:
-      213: -3875932911951651161
-    second: Thumbnails_SpritesSheets_1
+      213: 2966649436396279738
+    second: Nyaromon_ALL_1
   - first:
-      213: 5019745797360284373
-    second: Thumbnails_SpritesSheets_2
+      213: -8313535367092933197
+    second: Nyaromon_ALL_2
   - first:
-      213: 1016541649663228259
-    second: Thumbnails_SpritesSheets_3
+      213: 4756366282488677012
+    second: Nyaromon_ALL_3
   - first:
-      213: -7191690434358715305
-    second: Thumbnails_SpritesSheets_4
+      213: -711452516241264503
+    second: Nyaromon_ALL_4
   - first:
-      213: 6709208013321663614
-    second: Thumbnails_SpritesSheets_5
+      213: -7417289012859579057
+    second: Nyaromon_ALL_5
   - first:
-      213: 4111483178213258431
-    second: Thumbnails_SpritesSheets_6
+      213: 3111947244860165972
+    second: Nyaromon_ALL_6
   - first:
-      213: 3119153228760810364
-    second: Thumbnails_SpritesSheets_7
+      213: 5865931461328858894
+    second: Nyaromon_ALL_7
   - first:
-      213: -1465048547195792170
-    second: Thumbnails_SpritesSheets_8
+      213: -3282428305708637065
+    second: Nyaromon_ALL_8
   - first:
-      213: -3808630806935800316
-    second: Thumbnails_SpritesSheets_9
+      213: 3089800282692361992
+    second: Nyaromon_ALL_9
   - first:
-      213: 8347195403701901888
-    second: Thumbnails_SpritesSheets_10
+      213: -1237412238221077354
+    second: Nyaromon_ALL_10
   - first:
-      213: -2690209933429267959
-    second: Thumbnails_SpritesSheets_11
+      213: -7782828700021204353
+    second: Nyaromon_ALL_11
   - first:
-      213: 869858845989098640
-    second: Thumbnails_SpritesSheets_12
+      213: -6008503231596254104
+    second: Nyaromon_ALL_12
   - first:
-      213: -9019345175075704313
-    second: Thumbnails_SpritesSheets_13
+      213: -2566496692945887225
+    second: Nyaromon_ALL_13
   - first:
-      213: 2010355711210379446
-    second: Thumbnails_SpritesSheets_14
+      213: 1783989157178965818
+    second: Nyaromon_ALL_14
   - first:
-      213: -8740441264291211
-    second: Thumbnails_SpritesSheets_15
+      213: -208738110953480181
+    second: Nyaromon_ALL_15
   - first:
-      213: 4775278727047335331
-    second: Thumbnails_SpritesSheets_16
+      213: -604748189615107994
+    second: Nyaromon_ALL_16
   - first:
-      213: 6037150786293370564
-    second: Thumbnails_SpritesSheets_17
+      213: 1081880220658198300
+    second: Nyaromon_ALL_17
   - first:
-      213: 4604307530699401570
-    second: Thumbnails_SpritesSheets_18
+      213: -1424976963841823005
+    second: Nyaromon_ALL_18
   - first:
-      213: 8975644912742983916
-    second: Thumbnails_SpritesSheets_19
+      213: -7217847990211244443
+    second: Nyaromon_ALL_19
   - first:
-      213: -2561269175818713587
-    second: Thumbnails_SpritesSheets_20
+      213: -7030519434879036429
+    second: Nyaromon_ALL_20
   - first:
-      213: -4484247673766929031
-    second: Thumbnails_SpritesSheets_21
+      213: 3361128571697147858
+    second: Nyaromon_ALL_21
   - first:
-      213: 1536913419621074576
-    second: Thumbnails_SpritesSheets_22
+      213: -2051075201918333353
+    second: Nyaromon_ALL_22
   - first:
-      213: 1652357803085778444
-    second: Thumbnails_SpritesSheets_23
+      213: -6805341079953404989
+    second: Nyaromon_ALL_23
   - first:
-      213: -7423682778975195347
-    second: Thumbnails_SpritesSheets_24
+      213: -4162219278500282211
+    second: Nyaromon_ALL_24
   - first:
-      213: 6749812744225820972
-    second: Thumbnails_SpritesSheets_25
+      213: 2787025240318387436
+    second: Nyaromon_ALL_25
   - first:
-      213: 263257743077900307
-    second: Thumbnails_SpritesSheets_26
+      213: 1052875154165421185
+    second: Nyaromon_ALL_26
   - first:
-      213: -2756167167424435381
-    second: Thumbnails_SpritesSheets_27
-  - first:
-      213: 2098587935545304499
-    second: Thumbnails_SpritesSheets_28
-  - first:
-      213: 1305222293911960149
-    second: Thumbnails_SpritesSheets_29
-  - first:
-      213: 6266030767890122552
-    second: Thumbnails_SpritesSheets_30
-  - first:
-      213: 6845654229884536331
-    second: Thumbnails_SpritesSheets_31
-  - first:
-      213: -2374148773680293210
-    second: Thumbnails_SpritesSheets_32
-  - first:
-      213: -580837142268830605
-    second: Thumbnails_SpritesSheets_33
-  - first:
-      213: 8855717075337835632
-    second: Thumbnails_SpritesSheets_34
-  - first:
-      213: -7778664516827908823
-    second: Thumbnails_SpritesSheets_35
+      213: -7256397325088501524
+    second: Nyaromon_ALL_27
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -219,97 +195,55 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_0
+      name: Nyaromon_ALL_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 320
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.3101509, y: 0.1053705}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 575a9361ace28cc80800000000000000
-      internalID: -8302334467566361227
+      spriteID: ccd3ed25c51138590800000000000000
+      internalID: -7673270251884233268
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_1
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 320
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ae50e95d8be53ac0800000000000000
-      internalID: -3875932911951651161
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_2
+      name: Nyaromon_ALL_1
       rect:
         serializedVersion: 2
         x: 128
-        y: 320
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.3101509, y: 0.1053705}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d27b6af438b9a540800000000000000
-      internalID: 5019745797360284373
+      spriteID: ab75385c1f7ab2920800000000000000
+      internalID: 2966649436396279738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_3
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 320
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 369f0979e3b7b1e00800000000000000
-      internalID: 1016541649663228259
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_4
+      name: Nyaromon_ALL_2
       rect:
         serializedVersion: 2
         x: 256
-        y: 320
-        width: 64
-        height: 64
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -317,20 +251,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75c597537abf13c90800000000000000
-      internalID: -7191690434358715305
+      spriteID: 3bd67c071a360ac80800000000000000
+      internalID: -8313535367092933197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_5
+      name: Nyaromon_ALL_3
       rect:
         serializedVersion: 2
-        x: 320
-        y: 320
-        width: 64
-        height: 64
+        x: 384
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,20 +272,251 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e74fd362425eb1d50800000000000000
-      internalID: 6709208013321663614
+      spriteID: 49202610fe1020240800000000000000
+      internalID: 4756366282488677012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_6
+      name: Nyaromon_ALL_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980b1e6b4b96026f0800000000000000
+      internalID: -711452516241264503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyaromon_ALL_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45d818f0fe701990800000000000000
+      internalID: -7417289012859579057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyaromon_ALL_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f45a9088bdf2b20800000000000000
+      internalID: 3111947244860165972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyaromon_ALL_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f6b45c599f76150800000000000000
+      internalID: 5865931461328858894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyaromon_ALL_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774ac85d8d87272d0800000000000000
+      internalID: -3282428305708637065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyaromon_ALL_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f97c49cfc21ea20800000000000000
+      internalID: 3089800282692361992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyaromon_ALL_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6949c1c1024d3dee0800000000000000
+      internalID: -1237412238221077354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyaromon_ALL_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a55835886ddf390800000000000000
+      internalID: -7782828700021204353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyaromon_ALL_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c2be035228d9ca0800000000000000
+      internalID: -6008503231596254104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyaromon_ALL_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700eebb0bd8f16cd0800000000000000
+      internalID: -2566496692945887225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyaromon_ALL_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ffcccbfa002c810800000000000000
+      internalID: 1783989157178965818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyaromon_ALL_15
       rect:
         serializedVersion: 2
         x: 0
         y: 256
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,41 +524,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb43561ca2cee0930800000000000000
-      internalID: 4111483178213258431
+      spriteID: b0028854bc96a1df0800000000000000
+      internalID: -208738110953480181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_7
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c730d48e555794b20800000000000000
-      internalID: 3119153228760810364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_8
+      name: Nyaromon_ALL_16
       rect:
         serializedVersion: 2
         x: 128
         y: 256
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -401,41 +545,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d451b5cb1a1babe0800000000000000
-      internalID: -1465048547195792170
+      spriteID: 6605e63c9b08b97f0800000000000000
+      internalID: -604748189615107994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_9
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 256
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4067bf7c576052bc0800000000000000
-      internalID: -3808630806935800316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_10
+      name: Nyaromon_ALL_17
       rect:
         serializedVersion: 2
         x: 256
         y: 256
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,20 +566,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04adc6c8ef137d370800000000000000
-      internalID: 8347195403701901888
+      spriteID: c176ad1245c930f00800000000000000
+      internalID: 1081880220658198300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_11
+      name: Nyaromon_ALL_18
       rect:
         serializedVersion: 2
-        x: 320
+        x: 384
         y: 256
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -464,20 +587,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 902a8b2a1547aaad0800000000000000
-      internalID: -2690209933429267959
+      spriteID: 3eee7115007793ce0800000000000000
+      internalID: -1424976963841823005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_12
+      name: Nyaromon_ALL_19
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
-        width: 64
-        height: 64
+        x: 512
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,125 +608,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09459eff20c521c00800000000000000
-      internalID: 869858845989098640
+      spriteID: 56e01b4ae7d05db90800000000000000
+      internalID: -7217847990211244443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_13
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 702bafc8959d4d280800000000000000
-      internalID: -9019345175075704313
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_14
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6b85fd63ed736eb10800000000000000
-      internalID: 2010355711210379446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_15
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 572034f6d92f0eff0800000000000000
-      internalID: -8740441264291211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_16
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3adc225a3b2354240800000000000000
-      internalID: 4775278727047335331
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_17
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 192
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ce8c7867a448c350800000000000000
-      internalID: 6037150786293370564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_18
+      name: Nyaromon_ALL_20
       rect:
         serializedVersion: 2
         x: 0
         y: 128
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -611,41 +629,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2696ef3fd49c5ef30800000000000000
-      internalID: 4604307530699401570
+      spriteID: 3f31e81c2d39e6e90800000000000000
+      internalID: -7030519434879036429
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_19
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce8661e3e75ef8c70800000000000000
-      internalID: 8975644912742983916
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_20
+      name: Nyaromon_ALL_21
       rect:
         serializedVersion: 2
         x: 128
         y: 128
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,41 +650,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d060b29314b847cd0800000000000000
-      internalID: -2561269175818713587
+      spriteID: 2dfac60c0a025ae20800000000000000
+      internalID: 3361128571697147858
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_21
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97d1040df70c4c1c0800000000000000
-      internalID: -4484247673766929031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_22
+      name: Nyaromon_ALL_22
       rect:
         serializedVersion: 2
         x: 256
         y: 128
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -695,20 +671,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0968b0bbc96345510800000000000000
-      internalID: 1536913419621074576
+      spriteID: 75e8b0e88fd1983e0800000000000000
+      internalID: -2051075201918333353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_23
+      name: Nyaromon_ALL_23
       rect:
         serializedVersion: 2
-        x: 320
+        x: 384
         y: 128
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -716,20 +692,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0ec5c6daaa5ee610800000000000000
-      internalID: 1652357803085778444
+      spriteID: 3cb010218529e81a0800000000000000
+      internalID: -6805341079953404989
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_24
+      name: Nyaromon_ALL_24
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 64
-        height: 64
+        x: 512
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -737,125 +713,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2faff948d7c9f890800000000000000
-      internalID: -7423682778975195347
+      spriteID: d9045bb5e93dc36c0800000000000000
+      internalID: -4162219278500282211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_25
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c211cf7cde62cad50800000000000000
-      internalID: 6749812744225820972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_26
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3108784c58747a300800000000000000
-      internalID: 263257743077900307
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_27
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4b6214609020c9d0800000000000000
-      internalID: -2756167167424435381
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_28
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b5291ccb9eaf1d10800000000000000
-      internalID: 2098587935545304499
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_29
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55afa8dc2c41d1210800000000000000
-      internalID: 1305222293911960149
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_30
+      name: Nyaromon_ALL_25
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -863,41 +734,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83742c7d8c965f650800000000000000
-      internalID: 6266030767890122552
+      spriteID: ce4a93590b08da620800000000000000
+      internalID: 2787025240318387436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_31
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b060b639046a00f50800000000000000
-      internalID: 6845654229884536331
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_32
+      name: Nyaromon_ALL_26
       rect:
         serializedVersion: 2
         x: 128
         y: 0
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -905,41 +755,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6aa5bd4e4445d0fd0800000000000000
-      internalID: -2374148773680293210
+      spriteID: 1845dd4df509c9e00800000000000000
+      internalID: 1052875154165421185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_33
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37c96be42b370f7f0800000000000000
-      internalID: -580837142268830605
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_34
+      name: Nyaromon_ALL_27
       rect:
         serializedVersion: 2
         x: 256
         y: 0
-        width: 64
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -947,29 +776,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0747fdaa2c3d5ea70800000000000000
-      internalID: 8855717075337835632
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Thumbnails_SpritesSheets_35
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9257987c5d1ac0490800000000000000
-      internalID: -7778664516827908823
+      spriteID: ce0510134191c4b90800000000000000
+      internalID: -7256397325088501524
       vertices: []
       indices: 
       edges: []

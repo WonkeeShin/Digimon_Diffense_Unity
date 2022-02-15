@@ -16,49 +16,48 @@ public class Main2 : MonoBehaviour
 	public float Digi_ATK_Speed;
 	public int Digi_Retime;
 	public float Digi_Speed;
+	private List<string> list = new List<string>();
 
 	void Awake()
 	{
 
 		List<Dictionary<string, object>> data = CSVReader.Read("Digimon_Data");
-		Digi_NO = (int)data[16]["Number"];
-		Digi_Name = (string)data[16]["Name"];
-		Digi_HP = (int)data[16]["HP"];
-		Digi_ATK = (int)data[16]["ATK"];
-		Digi_DF = (int)data[16]["DF"];
-		Digi_Cost = (int)data[16]["Cost"];
-		Digi_Colli_NO = (int)data[16]["Colli_No"];
-		Digi_ATK_Speed = (int)data[16]["ATK_Speed"];
-		Digi_Retime = (int)data[16]["ReTime"];
-		Digi_Speed = (int)data[16]["Speed"];
-		Digimon = GameObject.Find("Data_Loader");
-		Variables.Object(Digimon).Set("Palmon", data[16]);
 
-		Digi_NO = (int)data[12]["Number"];
-		Digi_Name = (string)data[12]["Name"];
-		Digi_HP = (int)data[12]["HP"];
-		Digi_ATK = (int)data[12]["ATK"];
-		Digi_DF = (int)data[12]["DF"];
-		Digi_Cost = (int)data[12]["Cost"];
-		Digi_Colli_NO = (int)data[12]["Colli_No"];
-		Digi_ATK_Speed = (int)data[12]["ATK_Speed"];
-		Digi_Retime = (int)data[12]["ReTime"];
-		Digi_Speed = (int)data[12]["Speed"];
-		Digimon = GameObject.Find("Data_Loader");
-		Variables.Object(Digimon).Set("Tokomon", data[12]);
+		list.Add("Botamon");
+		list.Add("Bubbmon");
+		list.Add("Nyokimon");
+		list.Add("Yuramon");
+		list.Add("Punimon");
+		list.Add("Yukibotamon");
+		list.Add("Koromon");
+		list.Add("Mochimon");
+		list.Add("Tunomon");
+		list.Add("Tanemon");
+		list.Add("Nyaromon");
+		list.Add("Pyocomon");
+		list.Add("Tokomon");
+		list.Add("Agumon");
+		list.Add("Gabumon");
+		list.Add("Patamon");
+		list.Add("Palmon");
+		
+		for(int i = 0; i < 17; i++)
+        {
+			Digi_NO = (int)data[i]["Number"];
+			Digi_Name = (string)data[i]["Name"];
+			Digi_HP = (int)data[i]["HP"];
+			Digi_ATK = (int)data[i]["ATK"];
+			Digi_DF = (int)data[i]["DF"];
+			Digi_Cost = (int)data[i]["Cost"];
+			Digi_Colli_NO = (int)data[i]["Colli_No"];
+			Digi_ATK_Speed = (int)data[i]["ATK_Speed"];
+			Digi_Retime = (int)data[i]["ReTime"];
+			Digi_Speed = (int)data[i]["Speed"];
+			Digimon = GameObject.Find("Data_Loader");
+			Variables.Object(Digimon).Set(list[i] , data[i]);
+		}
 
-		Digi_NO = (int)data[8]["Number"];
-		Digi_Name = (string)data[8]["Name"];
-		Digi_HP = (int)data[8]["HP"];
-		Digi_ATK = (int)data[8]["ATK"];
-		Digi_DF = (int)data[8]["DF"];
-		Digi_Cost = (int)data[8]["Cost"];
-		Digi_Colli_NO = (int)data[8]["Colli_No"];
-		Digi_ATK_Speed = (int)data[8]["ATK_Speed"];
-		Digi_Retime = (int)data[8]["ReTime"];
-		Digi_Speed = (int)data[8]["Speed"];
-		Digimon = GameObject.Find("Data_Loader");
-		Variables.Object(Digimon).Set("Tunomon", data[8]);
+
 	}
 
 	// Use this for initialization
