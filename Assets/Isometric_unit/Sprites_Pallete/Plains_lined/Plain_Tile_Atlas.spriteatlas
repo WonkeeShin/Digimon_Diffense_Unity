@@ -269,11 +269,13 @@ SpriteAtlas:
   - {fileID: 7021763634980735243, guid: 1dddf8ab5bcd3d947a7c28941b55e698, type: 3}
   - {fileID: 21300000, guid: f061c2cbd62459249849b5bdeb0d0ae4, type: 3}
   - {fileID: 21300000, guid: 590fe3eb668153e44b21e0973c0555c9, type: 3}
+  - {fileID: 21300000, guid: 5736f20c965479e408fa4d4fc8f191f1, type: 3}
   - {fileID: 21300000, guid: ec8ccc2cf6da86f4ab9b11f4a2ab3d2d, type: 3}
   - {fileID: 21300000, guid: fc35b99c608814a459c8fcca6569bb7c, type: 3}
   - {fileID: 21300000, guid: ddba491d794068b46ba646e1efbf32a6, type: 3}
   - {fileID: 21300000, guid: ce68154d43b6dd04eaa9b8909ea4bbfa, type: 3}
   - {fileID: 21300000, guid: ddfdeb7d4a39c4847b48a9885dfb5a60, type: 3}
+  - {fileID: 21300000, guid: 17f074cd39f192642865ac933aea764e, type: 3}
   - {fileID: 21300000, guid: 4886fecd14fbb6147b942159fe2e4d37, type: 3}
   - {fileID: 21300000, guid: 46e3b9ddebcc3824da5d755980e56fab, type: 3}
   - {fileID: 21300000, guid: 6feb59edc9a9472498998aabbf40ee85, type: 3}
@@ -455,11 +457,13 @@ SpriteAtlas:
   - Palmon_Skill 1_5
   - plains-sliced_25
   - plains-sliced_32
+  - map_level0_thumbnail
   - plains-sliced_69
   - plains-sliced_66
   - plains-sliced_41
   - plains-sliced_40
   - plains-sliced_53
+  - map_level0_thumbnail256
   - plains-sliced_31
   - plains-sliced_51
   - plains-sliced_58
