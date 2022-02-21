@@ -12,7 +12,7 @@ public class SceneLoadTester : MonoBehaviour
 
     void OnMouseDown()
     {
-        SceneLoader.Instance.LoadScene("Map_01");
+        SceneLoader.Instance.LoadScene("Map_00");
     }
 
 

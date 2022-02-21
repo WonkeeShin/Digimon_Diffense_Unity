@@ -320,6 +320,8 @@ SpriteAtlas:
   - {fileID: 3007967902332942480, guid: bdc3c0d4128c59344a413c44ec62311d, type: 3}
   - {fileID: 540722224278878453, guid: bdc3c0d4128c59344a413c44ec62311d, type: 3}
   - {fileID: -157218627090334961, guid: bdc3c0d4128c59344a413c44ec62311d, type: 3}
+  - {fileID: -7076027680534818471, guid: 79b004d440398bc44915ea9c0aa429de, type: 3}
+  - {fileID: -2450077156906529064, guid: 79b004d440398bc44915ea9c0aa429de, type: 3}
   - {fileID: 21300000, guid: f77b6ad4814d7df4e87c18c6152477f4, type: 3}
   - {fileID: 3095577653994469292, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
   - {fileID: 4122625582437477308, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
@@ -682,6 +684,8 @@ SpriteAtlas:
   - Position_OK_3
   - Position_OK_0
   - Position_OK_1
+  - "\uB514\uC9C0\uBAAC \uC5B4\uB4DC\uBCA4\uCCD0_\uBC30\uACBD2_0"
+  - "\uB514\uC9C0\uBAAC \uC5B4\uB4DC\uBCA4\uCCD0_\uBC30\uACBD2_1"
   - Loading_Background
   - Skill_Range_For_Skill_3
   - Skill_Range_For_Skill_2
