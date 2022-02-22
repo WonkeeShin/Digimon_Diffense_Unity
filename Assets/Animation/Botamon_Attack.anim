@@ -100,7 +100,7 @@ AnimationClip:
   m_Events:
   - time: 0.9166667
     functionName: TriggerUnityEvent
-    data: Attack_Anim
+    data: Botamon_attack
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
