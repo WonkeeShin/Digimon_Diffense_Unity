@@ -474,6 +474,25 @@ SpriteAtlas:
   - {fileID: 21300000, guid: ccbd2d8f216976f4a95374a71a0fe624, type: 3}
   - {fileID: 21300000, guid: 958b56ffb75d3f7478feee28c6565159, type: 3}
   - {fileID: 21300000, guid: df3719ff2d9cf7048a0254d8f6414e1a, type: 3}
+  - {fileID: -6180338439174103002, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: 1171923530568627616, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: 4739598804548074704, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: 7361744548313279506, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: -5397932178782631901, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: 6367474484661207073, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: -3705476565769366232, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: -4808597554651131064, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: 5673881668358830833, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: 3050343770257237379, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: 2750136546617833517, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: 2692283105460158401, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: -4255450245281056962, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: 899205098226703489, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: 3471641172006518425, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: -6173815860440453660, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: -2820334556089536228, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: 4336945374769841458, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
+  - {fileID: 8373501815286838688, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
   m_PackedSpriteNamesToIndex:
   - plains-sliced_43
   - Botamon_Attack_3
@@ -838,5 +857,24 @@ SpriteAtlas:
   - plains-sliced_54
   - plains-sliced_30
   - plains-sliced_48
+  - Bubbmon_ALL_18
+  - Bubbmon_ALL_16
+  - Bubbmon_ALL_17
+  - Bubbmon_ALL_14
+  - Bubbmon_ALL_15
+  - Bubbmon_ALL_12
+  - Bubbmon_ALL_13
+  - Bubbmon_ALL_10
+  - Bubbmon_ALL_11
+  - Bubbmon_ALL_9
+  - Bubbmon_ALL_8
+  - Bubbmon_ALL_3
+  - Bubbmon_ALL_2
+  - Bubbmon_ALL_1
+  - Bubbmon_ALL_0
+  - Bubbmon_ALL_7
+  - Bubbmon_ALL_6
+  - Bubbmon_ALL_5
+  - Bubbmon_ALL_4
   m_Tag: Plain_Tile_Atlas
   m_IsVariant: 0
