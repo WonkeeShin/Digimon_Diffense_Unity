@@ -291,6 +291,10 @@ SpriteAtlas:
   - {fileID: 5853504991666682158, guid: 2bac6924c39ed1340bf080b898c8eb71, type: 3}
   - {fileID: -333293264957601796, guid: 2bac6924c39ed1340bf080b898c8eb71, type: 3}
   - {fileID: 21300000, guid: a6b9b2546cf107c458e797d96397a937, type: 3}
+  - {fileID: 2461001909835935965, guid: 257bd964ffa33fe448318b5cbaec5831, type: 3}
+  - {fileID: -8708644841138291754, guid: 257bd964ffa33fe448318b5cbaec5831, type: 3}
+  - {fileID: -1691730606654569074, guid: 257bd964ffa33fe448318b5cbaec5831, type: 3}
+  - {fileID: -1413700187542701725, guid: 257bd964ffa33fe448318b5cbaec5831, type: 3}
   - {fileID: 21300000, guid: e4a05284ff97e60419331430a50cb219, type: 3}
   - {fileID: 21300000, guid: 432494848cd5fa4488c8f90069b0982e, type: 3}
   - {fileID: 21300000, guid: 63e7ba8403b31f1479b52913048087c7, type: 3}
@@ -386,6 +390,14 @@ SpriteAtlas:
   - {fileID: -7965449854016038463, guid: 0bdfd837cb7874c448d7b869b427047e, type: 3}
   - {fileID: -5173207783320916298, guid: 0bdfd837cb7874c448d7b869b427047e, type: 3}
   - {fileID: 2473922792105084628, guid: 0bdfd837cb7874c448d7b869b427047e, type: 3}
+  - {fileID: 2663306418793682335, guid: 112a1d37349df0642bb064946ef77f27, type: 3}
+  - {fileID: 7886139690414054396, guid: 112a1d37349df0642bb064946ef77f27, type: 3}
+  - {fileID: 4907741891112785737, guid: 112a1d37349df0642bb064946ef77f27, type: 3}
+  - {fileID: 108353352005636422, guid: 112a1d37349df0642bb064946ef77f27, type: 3}
+  - {fileID: 5182303123783933953, guid: 112a1d37349df0642bb064946ef77f27, type: 3}
+  - {fileID: 3733953245889351413, guid: 112a1d37349df0642bb064946ef77f27, type: 3}
+  - {fileID: 7381679562404096355, guid: 112a1d37349df0642bb064946ef77f27, type: 3}
+  - {fileID: -4276427041017489574, guid: 112a1d37349df0642bb064946ef77f27, type: 3}
   - {fileID: 21300000, guid: c2a5db47a6072cb498764ff46857fe89, type: 3}
   - {fileID: 21300000, guid: 6199e367306afba4fb2b434ada112692, type: 3}
   - {fileID: 21300000, guid: 92e813087e0aa6c4fbddcf016a89438b, type: 3}
@@ -674,6 +686,10 @@ SpriteAtlas:
   - Character_Direction_Arrow_7
   - Character_Direction_Arrow_6
   - plains-sliced_72
+  - Position_OK2_2
+  - Position_OK2_3
+  - Position_OK2_0
+  - Position_OK2_1
   - plains-sliced_63
   - plains-sliced_65
   - plains-sliced_27
@@ -769,6 +785,14 @@ SpriteAtlas:
   - Mochimon_ALL_16
   - Mochimon_ALL_19
   - Mochimon_ALL_18
+  - Character_Direction_Arrow2_7
+  - Character_Direction_Arrow2_6
+  - Character_Direction_Arrow2_5
+  - Character_Direction_Arrow2_4
+  - Character_Direction_Arrow2_3
+  - Character_Direction_Arrow2_2
+  - Character_Direction_Arrow2_1
+  - Character_Direction_Arrow2_0
   - Palmon_thumbnail_selected
   - plains-sliced_67
   - map_level1_thumbnail

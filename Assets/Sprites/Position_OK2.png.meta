@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: bdc3c0d4128c59344a413c44ec62311d
+guid: 257bd964ffa33fe448318b5cbaec5831
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 540722224278878453
-    second: Position_OK_0
+      213: -1691730606654569074
+    second: Position_OK2_0
   - first:
-      213: -157218627090334961
-    second: Position_OK_1
+      213: -1413700187542701725
+    second: Position_OK2_1
   - first:
-      213: 6684689133230411900
-    second: Position_OK_2
+      213: 2461001909835935965
+    second: Position_OK2_2
   - first:
-      213: 3007967902332942480
-    second: Position_OK_3
+      213: -8708644841138291754
+    second: Position_OK2_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -123,85 +123,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Position_OK_0
+      name: Position_OK2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 64
-        height: 31
+        x: 20
+        y: 72
+        width: 23
+        height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 1
-      bones: []
-      spriteID: 5f83d448ff7018700800000000000000
-      internalID: 540722224278878453
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Position_OK_1
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0bb43cdd7271ddf0800000000000000
-      internalID: -157218627090334961
+      spriteID: e85c2b6f9f3c588e0800000000000000
+      internalID: -1691730606654569074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Position_OK_2
+      name: Position_OK2_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 64
-        height: 31
+        x: 84
+        y: 72
+        width: 23
+        height: 13
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c70dc148959c4cc50800000000000000
-      internalID: 6684689133230411900
+      spriteID: 3693d966b27816ce0800000000000000
+      internalID: -1413700187542701725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Position_OK_3
+      name: Position_OK2_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 31
+        x: 20
+        y: 8
+        width: 23
+        height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 098f45aced27eb920800000000000000
-      internalID: 3007967902332942480
+      spriteID: dd03453b23c372220800000000000000
+      internalID: 2461001909835935965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Position_OK2_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf9e848ada42780800000000000000
+      internalID: -8708644841138291754
       vertices: []
       indices: 
       edges: []
