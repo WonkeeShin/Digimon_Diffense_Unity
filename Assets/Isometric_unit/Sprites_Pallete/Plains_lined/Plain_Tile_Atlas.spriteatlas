@@ -33,6 +33,18 @@ SpriteAtlas:
       m_Overridden: 0
       m_AndroidETC2FallbackOverride: 0
       m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
     packingSettings:
       serializedVersion: 2
       padding: 2
@@ -459,6 +471,40 @@ SpriteAtlas:
   - {fileID: -2264304391778498216, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: 21300000, guid: 5736f20c965479e408fa4d4fc8f191f1, type: 3}
   - {fileID: 21300000, guid: ec8ccc2cf6da86f4ab9b11f4a2ab3d2d, type: 3}
+  - {fileID: -4351903193241551974, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -7523894590654354016, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 1442815264012704781, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -7363230152797393570, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -5480457624414125419, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 7040933233379626222, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 5427791039969194249, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 3264113173633189458, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 2365404077215620330, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -6082104204709929115, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -5272389169882030763, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -1450055615228765671, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 1824776669286882313, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 3748103218025175745, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -1168178907952434610, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -7235824988381679407, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -6809563469076354758, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 4094884405738963702, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -8869591117129723544, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 6642495270744479191, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 536264625543442189, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -6908120343145521996, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -4328567350678265987, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 5312773312389264929, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 7614927487254442888, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -2652833120763681166, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 4675727311048767390, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -3621176208483416337, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 2810137127119684353, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -4057461927882727429, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 5580900374168048687, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -6112756104296121228, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -3410547856047136884, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -5113874746934473267, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: 21300000, guid: fc35b99c608814a459c8fcca6569bb7c, type: 3}
   - {fileID: 21300000, guid: ddba491d794068b46ba646e1efbf32a6, type: 3}
   - {fileID: 21300000, guid: ce68154d43b6dd04eaa9b8909ea4bbfa, type: 3}
@@ -854,6 +900,40 @@ SpriteAtlas:
   - State_Show_4
   - map_level0_thumbnail
   - plains-sliced_69
+  - Koromon_ALL_27
+  - Koromon_ALL_30
+  - Koromon_ALL_26
+  - Koromon_ALL_31
+  - Koromon_ALL_25
+  - Koromon_ALL_32
+  - Koromon_ALL_24
+  - Koromon_ALL_33
+  - Koromon_ALL_23
+  - Koromon_ALL_22
+  - Koromon_ALL_18
+  - Koromon_ALL_21
+  - Koromon_ALL_19
+  - Koromon_ALL_20
+  - Koromon_ALL_12
+  - Koromon_ALL_13
+  - Koromon_ALL_10
+  - Koromon_ALL_29
+  - Koromon_ALL_11
+  - Koromon_ALL_28
+  - Koromon_ALL_16
+  - Koromon_ALL_17
+  - Koromon_ALL_14
+  - Koromon_ALL_15
+  - Koromon_ALL_9
+  - Koromon_ALL_8
+  - Koromon_ALL_7
+  - Koromon_ALL_6
+  - Koromon_ALL_5
+  - Koromon_ALL_4
+  - Koromon_ALL_3
+  - Koromon_ALL_2
+  - Koromon_ALL_1
+  - Koromon_ALL_0
   - plains-sliced_66
   - plains-sliced_41
   - plains-sliced_40
