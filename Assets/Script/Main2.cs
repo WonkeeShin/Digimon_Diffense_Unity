@@ -28,6 +28,7 @@ public class Main2 : MonoBehaviour
 		list.Add("Nyokimon");
 		list.Add("Yuramon");
 		list.Add("Punimon");
+		list.Add("Pichimon");
 		list.Add("Yukibotamon");
 		list.Add("Koromon");
 		list.Add("Mochimon");
@@ -41,7 +42,7 @@ public class Main2 : MonoBehaviour
 		list.Add("Patamon");
 		list.Add("Palmon");
 		
-		for(int i = 0; i < 17; i++)
+		for(int i = 0; i < 18; i++)
         {
 			Digi_NO = (int)data[i]["Number"];
 			Digi_Name = (string)data[i]["Name"];
