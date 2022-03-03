@@ -467,6 +467,10 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 27b1c5c94d242b5438ff771064e7d0c3, type: 3}
   - {fileID: 21300000, guid: de6c2c0a1700284469ff0540cf6f2784, type: 3}
   - {fileID: 21300000, guid: 6937df1a003f1c949a86762311c73c62, type: 3}
+  - {fileID: -665385646513685842, guid: c160ad3a3c79c4b429b91c6cfeeb752e, type: 3}
+  - {fileID: -7988846193634634776, guid: c160ad3a3c79c4b429b91c6cfeeb752e, type: 3}
+  - {fileID: 7069146740844448886, guid: c160ad3a3c79c4b429b91c6cfeeb752e, type: 3}
+  - {fileID: -2497649163206798505, guid: c160ad3a3c79c4b429b91c6cfeeb752e, type: 3}
   - {fileID: 8936406042280540602, guid: 9fa242ba269737d4cbe7b4a4ab6aee78, type: 3}
   - {fileID: -3520223981517752636, guid: 9fa242ba269737d4cbe7b4a4ab6aee78, type: 3}
   - {fileID: 4996938596776595919, guid: 9fa242ba269737d4cbe7b4a4ab6aee78, type: 3}
@@ -963,6 +967,10 @@ SpriteAtlas:
   - plains-sliced_21
   - plains-sliced_18
   - plains-sliced_23
+  - Digimon_On_Frame_3
+  - Digimon_On_Frame_2
+  - Digimon_On_Frame_1
+  - Digimon_On_Frame_0
   - Map_Select_5
   - Map_Select_4
   - Map_Select_3
