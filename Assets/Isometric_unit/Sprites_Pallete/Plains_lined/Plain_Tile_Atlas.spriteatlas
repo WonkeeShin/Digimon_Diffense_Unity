@@ -516,6 +516,8 @@ SpriteAtlas:
   - {fileID: -4022026552022318906, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: 8893409800820903194, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: 3152578968177079951, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
+  - {fileID: 6404110038250660919, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
+  - {fileID: 6398139651861265728, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: -2264304391778498216, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: 21300000, guid: 5736f20c965479e408fa4d4fc8f191f1, type: 3}
   - {fileID: 21300000, guid: ec8ccc2cf6da86f4ab9b11f4a2ab3d2d, type: 3}
@@ -1025,6 +1027,8 @@ SpriteAtlas:
   - State_Show_2
   - State_Show_1
   - State_Show_0
+  - State_Show_6
+  - State_Show_5
   - State_Show_4
   - map_level0_thumbnail
   - plains-sliced_69
