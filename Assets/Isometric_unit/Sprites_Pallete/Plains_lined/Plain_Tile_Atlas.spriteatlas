@@ -277,6 +277,8 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 559cfe0279a15f7458045773d59f8946, type: 3}
   - {fileID: -3120908901888593041, guid: 74c3633254a6cf54c883963aa24ecb56, type: 3}
   - {fileID: -8111967794206481599, guid: 74c3633254a6cf54c883963aa24ecb56, type: 3}
+  - {fileID: -8258144251412518906, guid: 74c3633254a6cf54c883963aa24ecb56, type: 3}
+  - {fileID: 8980641710402438518, guid: 74c3633254a6cf54c883963aa24ecb56, type: 3}
   - {fileID: 21300000, guid: 188981420f669284caa96a931b7de9dd, type: 3}
   - {fileID: 21300000, guid: b68f19622904ec049a457778e71b00ea, type: 3}
   - {fileID: 21300000, guid: c7f45372f89932f4cafa2227c620c42c, type: 3}
@@ -792,6 +794,8 @@ SpriteAtlas:
   - plains-sliced_28
   - Skill_Panel_0
   - Skill_Panel_1
+  - Skill_Panel_2
+  - Skill_Panel_3
   - plains-sliced_42
   - plains-sliced_35
   - plains-sliced_60

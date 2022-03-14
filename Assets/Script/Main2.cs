@@ -16,6 +16,7 @@ public class Main2 : MonoBehaviour
 	public float Digi_ATK_Speed;
 	public int Digi_Retime;
 	public float Digi_Speed;
+	public int Digi_Skill;
 	private List<string> list = new List<string>();
 
 	void Awake()
@@ -41,9 +42,9 @@ public class Main2 : MonoBehaviour
 		list.Add("Gabumon");
 		list.Add("Patamon");
 		list.Add("Palmon");
-		
-		for(int i = 0; i < 18; i++)
-        {
+
+		for (int i = 0; i < 18; i++)
+		{
 			Digi_NO = (int)data[i]["Number"];
 			Digi_Name = (string)data[i]["Name"];
 			Digi_HP = (int)data[i]["HP"];
@@ -54,21 +55,11 @@ public class Main2 : MonoBehaviour
 			Digi_ATK_Speed = (int)data[i]["ATK_Speed"];
 			Digi_Retime = (int)data[i]["ReTime"];
 			Digi_Speed = (int)data[i]["Speed"];
+			Digi_Skill = (int)data[i]["Skill"];
 			Digimon = GameObject.Find("Data_Loader");
-			Variables.Object(Digimon).Set(list[i] , data[i]);
+			Variables.Object(Digimon).Set(list[i], data[i]);
 		}
 
-
-	}
-
-	// Use this for initialization
-	void Start()
-	{
-	}
-
-	// Update is called once per frame
-	void Update()
-	{
 
 	}
 }

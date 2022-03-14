@@ -8,6 +8,12 @@ TextureImporter:
   - first:
       213: -8111967794206481599
     second: Skill_Panel_1
+  - first:
+      213: -8258144251412518906
+    second: Skill_Panel_2
+  - first:
+      213: 8980641710402438518
+    second: Skill_Panel_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -141,8 +147,8 @@ TextureImporter:
       name: Skill_Panel_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 64
+        y: 64
         width: 64
         height: 64
       alignment: 0
@@ -154,6 +160,48 @@ TextureImporter:
       bones: []
       spriteID: 143e9ec25408c6f80800000000000000
       internalID: -8111967794206481599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Panel_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6086f9e8e8d256d80800000000000000
+      internalID: -8258144251412518906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Panel_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675089bdd06a1ac70800000000000000
+      internalID: 8980641710402438518
       vertices: []
       indices: 
       edges: []
