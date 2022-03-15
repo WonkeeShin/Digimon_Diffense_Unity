@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Bolt;
 
-public class Main2 : MonoBehaviour
+public class Enemy_Data_Loader : MonoBehaviour
 {
 	private GameObject Digimon;
 	public int Digi_NO;
@@ -11,19 +11,18 @@ public class Main2 : MonoBehaviour
 	public int Digi_HP;
 	public int Digi_ATK;
 	public int Digi_DF;
-	public int Digi_Cost;
 	public int Digi_Colli_NO;
 	public float Digi_ATK_Speed;
-	public int Digi_Retime;
 	public float Digi_Speed;
+	public int Digi_Position;
 	public int Digi_Skill;
 	private List<string> list = new List<string>();
 
 	void Awake()
 	{
-		Digimon = GameObject.FindWithTag("Data_Loader");
+		Digimon = GameObject.FindWithTag("Enemy_Data_Loader");
 
-		List<Dictionary<string, object>> data = CSVReader.Read("Digimon_Data");
+		List<Dictionary<string, object>> data = CSVReader.Read("Enemy_Data2");
 
 		list.Add("Botamon");
 		list.Add("Bubbmon");
@@ -44,7 +43,6 @@ public class Main2 : MonoBehaviour
 		list.Add("Patamon");
 		list.Add("Palmon");
 
-
 		for (int i = 0; i < 18; i++)
 		{
 			Digi_NO = (int)data[i]["Number"];
@@ -52,11 +50,8 @@ public class Main2 : MonoBehaviour
 			Digi_HP = (int)data[i]["HP"];
 			Digi_ATK = (int)data[i]["ATK"];
 			Digi_DF = (int)data[i]["DF"];
-			Digi_Cost = (int)data[i]["Cost"];
 			Digi_Colli_NO = (int)data[i]["Colli_No"];
-			Digi_ATK_Speed = (int)data[i]["ATK_Speed"];
-			Digi_Retime = (int)data[i]["ReTime"];
-			Digi_Speed = (int)data[i]["Speed"];
+			Digi_Position = (int)data[i]["Position"];
 			Digi_Skill = (int)data[i]["Skill"];
 
 			Variables.Object(Digimon).Set(list[i], data[i]);
