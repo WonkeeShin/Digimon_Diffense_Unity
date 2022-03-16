@@ -522,9 +522,13 @@ SpriteAtlas:
   - {fileID: -4022026552022318906, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: 8893409800820903194, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: 3152578968177079951, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
+  - {fileID: 7270960699856597803, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: 6404110038250660919, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: 6398139651861265728, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: -2264304391778498216, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
+  - {fileID: -724668510228265594, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
+  - {fileID: 2824174860422327081, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
+  - {fileID: 8726670010516701119, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: 21300000, guid: 5736f20c965479e408fa4d4fc8f191f1, type: 3}
   - {fileID: 21300000, guid: ec8ccc2cf6da86f4ab9b11f4a2ab3d2d, type: 3}
   - {fileID: -4351903193241551974, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
@@ -1039,9 +1043,13 @@ SpriteAtlas:
   - State_Show_2
   - State_Show_1
   - State_Show_0
+  - State_Show_7
   - State_Show_6
   - State_Show_5
   - State_Show_4
+  - State_Show_9
+  - State_Show_8
+  - State_Show_10
   - map_level0_thumbnail
   - plains-sliced_69
   - Koromon_ALL_27
