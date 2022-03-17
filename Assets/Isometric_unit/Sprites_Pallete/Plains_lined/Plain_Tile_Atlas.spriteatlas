@@ -225,6 +225,27 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 2597bc81197fe7a45af010522f6615cb, type: 3}
   - {fileID: 21300000, guid: 1643d091c2db68940ad5dca669c44fa9, type: 3}
   - {fileID: 21300000, guid: 1e506aa101043a4489d18e6260eab976, type: 3}
+  - {fileID: -694073077289313485, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: 1215719063041826693, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: 6940640296305681753, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: 5836952671964414088, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: -5974544364034267245, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: -756435042973151622, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: -5520383110796644935, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: 3023406386990904958, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: 186162788449254757, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: 1966655872946923973, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: 959825559738873047, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: -2313715354754428657, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: 2655239225265479520, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: 6118737997738818307, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: 2605176233565049320, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: -2578826508240402565, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: 6333582546858868184, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: -7354783305051855354, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: -6439274324651537464, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: -3611466983944843865, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
+  - {fileID: 915568563225898607, guid: 82fa6fa1b59fe8c45bacad09d7dc49c1, type: 3}
   - {fileID: 21300000, guid: d9c457c16cd420a4e95e7ffbcf146483, type: 3}
   - {fileID: 6229454719775117269, guid: 04f9efc18a21b5a41bc0e8dbdba03f9c, type: 3}
   - {fileID: -6198537741088557339, guid: 04f9efc18a21b5a41bc0e8dbdba03f9c, type: 3}
@@ -746,6 +767,27 @@ SpriteAtlas:
   - plains-sliced_34
   - Cost_Loading-4
   - plains-sliced_04
+  - Nyokimon_ALL_15
+  - Nyokimon_ALL_14
+  - Nyokimon_ALL_17
+  - Nyokimon_ALL_16
+  - Nyokimon_ALL_11
+  - Nyokimon_ALL_10
+  - Nyokimon_ALL_13
+  - Nyokimon_ALL_12
+  - Nyokimon_ALL_19
+  - Nyokimon_ALL_18
+  - Nyokimon_ALL_6
+  - Nyokimon_ALL_7
+  - Nyokimon_ALL_4
+  - Nyokimon_ALL_5
+  - Nyokimon_ALL_2
+  - Nyokimon_ALL_3
+  - Nyokimon_ALL_0
+  - Nyokimon_ALL_1
+  - Nyokimon_ALL_20
+  - Nyokimon_ALL_8
+  - Nyokimon_ALL_9
   - plains-sliced_21
   - Palmon_Skill 1_Selected_4
   - Palmon_Skill 1_Selected_5
