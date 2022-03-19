@@ -213,6 +213,24 @@ SpriteAtlas:
   - {fileID: 4775278727047335331, guid: 59a8f79084996b74788a2ba6651a5c2c, type: 3}
   - {fileID: -2690209933429267959, guid: 59a8f79084996b74788a2ba6651a5c2c, type: 3}
   - {fileID: 8347195403701901888, guid: 59a8f79084996b74788a2ba6651a5c2c, type: 3}
+  - {fileID: 4748183602103909331, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: 2424566268736471044, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: 625210247705639251, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: -6715503933914060897, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: -7322413597150190834, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: 1931410549437409303, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: 5587530773503692761, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: 9190024278586784739, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: 2907006143998397901, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: -1952782568999050171, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: -6326543362826038710, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: -5402097486439469005, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: -3442820164403548797, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: -3777868058994728284, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: -4441797478751828415, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: -7441329122555541780, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: 392397862046829717, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
+  - {fileID: 1649371055674196232, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
   - {fileID: 21300000, guid: 24db3a90fe1f89647af1a1c14c8ff84f, type: 3}
   - {fileID: 21300000, guid: 6551e5b0d0ea09e4184e35443b2b8e92, type: 3}
   - {fileID: 21300000, guid: bb2649c0ced558045bad8f7afb0456d3, type: 3}
@@ -398,6 +416,23 @@ SpriteAtlas:
   - {fileID: 21300000, guid: ace33465ecfbe48418b172434b3ba327, type: 3}
   - {fileID: 21300000, guid: 23e19a7533432f44fadd57a590b3b5be, type: 3}
   - {fileID: 21300000, guid: 42d35e9566c7fd54da21ae5a4ea24b7e, type: 3}
+  - {fileID: -3147073210439054374, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: 8852676427771238223, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: 383350825295954312, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: -5496573385793550291, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: -1764650584906093424, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: 7483078207566248948, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: 2308798923947698717, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: 9046248133448628859, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: -8063383123163307969, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: 2143222190790733750, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: 3102026041464852402, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: -8309908655715162902, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: -5874316638688387319, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: 3866426574402872118, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: 7518781113939588681, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: 1461370288401090230, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
+  - {fileID: 2011835740575894066, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
   - {fileID: 21300000, guid: 47bc5da5257aeec4c83f3e63e642ea69, type: 3}
   - {fileID: 21300000, guid: 118036c5defc89e4fa5d5f49093e0702, type: 3}
   - {fileID: 21300000, guid: 142d9dd53225a7a49a24c45cc7250a8c, type: 3}
@@ -755,6 +790,24 @@ SpriteAtlas:
   - Thumbnails_SpritesSheets_16
   - Thumbnails_SpritesSheets_11
   - Thumbnails_SpritesSheets_10
+  - Pichimon_ALL_9
+  - Pichimon_ALL_8
+  - Pichimon_ALL_7
+  - Pichimon_ALL_6
+  - Pichimon_ALL_5
+  - Pichimon_ALL_4
+  - Pichimon_ALL_3
+  - Pichimon_ALL_2
+  - Pichimon_ALL_1
+  - Pichimon_ALL_0
+  - Pichimon_ALL_12
+  - Pichimon_ALL_13
+  - Pichimon_ALL_10
+  - Pichimon_ALL_11
+  - Pichimon_ALL_16
+  - Pichimon_ALL_17
+  - Pichimon_ALL_14
+  - Pichimon_ALL_15
   - map_level1_thumbnail256
   - plains-sliced_38
   - plains-sliced_28
@@ -940,6 +993,23 @@ SpriteAtlas:
   - plains-sliced_36
   - plains-sliced_74
   - plains-sliced_50
+  - Yuramon_ALL_14
+  - Yuramon_ALL_15
+  - Yuramon_ALL_16
+  - Yuramon_ALL_10
+  - Yuramon_ALL_11
+  - Yuramon_ALL_12
+  - Yuramon_ALL_13
+  - Yuramon_ALL_9
+  - Yuramon_ALL_8
+  - Yuramon_ALL_5
+  - Yuramon_ALL_4
+  - Yuramon_ALL_7
+  - Yuramon_ALL_6
+  - Yuramon_ALL_1
+  - Yuramon_ALL_0
+  - Yuramon_ALL_3
+  - Yuramon_ALL_2
   - plains-sliced_19
   - sketch_character_selection
   - sketch_character_selection
