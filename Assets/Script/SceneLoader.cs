@@ -6,6 +6,7 @@ using UnityEngine.UI;
 
 public class SceneLoader : MonoBehaviour
 {
+
     protected static SceneLoader instance;
     public static SceneLoader Instance
     {
