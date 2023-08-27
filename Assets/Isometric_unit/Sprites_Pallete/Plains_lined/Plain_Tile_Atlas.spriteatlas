@@ -416,6 +416,7 @@ SpriteAtlas:
   - {fileID: -527499970918045689, guid: 0f26a2f485786db4bb7bd47de110dfb6, type: 3}
   - {fileID: 8684881741136229025, guid: 0f26a2f485786db4bb7bd47de110dfb6, type: 3}
   - {fileID: 4811203644899315721, guid: 0f26a2f485786db4bb7bd47de110dfb6, type: 3}
+  - {fileID: 21300000, guid: fb95cef4fa6092646bc5214bf4b25be0, type: 3}
   - {fileID: 21300000, guid: 35e04215fe0a1f6408b4009aea4a6149, type: 3}
   - {fileID: 21300000, guid: 3bb9662545aa3434baa255bb19d88e29, type: 3}
   - {fileID: 21300000, guid: 35394165b800f3a46b8f387909cb310a, type: 3}
@@ -463,6 +464,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 68396746cff380d418e59ac494066b2d, type: 3}
   - {fileID: 8050656719150563664, guid: b2aabfc674f023c4fb264a4c92c5d790, type: 3}
   - {fileID: -2430245910594893007, guid: b2aabfc674f023c4fb264a4c92c5d790, type: 3}
+  - {fileID: 21300000, guid: b99a1717f0f3f33458800a9ca7120d80, type: 3}
   - {fileID: 21300000, guid: 455da817aedab144ea7cfa86b08801b6, type: 3}
   - {fileID: 21300000, guid: ab453227acb9e594d827b08033411d4b, type: 3}
   - {fileID: -8415769787427959530, guid: 0bdfd837cb7874c448d7b869b427047e, type: 3}
@@ -999,6 +1001,7 @@ SpriteAtlas:
   - Palmon_Idle_1
   - Palmon_Idle_2
   - Palmon_Idle_3
+  - sketch_Card_Selection2
   - plains-sliced_57
   - plains-sliced_03
   - plains-sliced_29
@@ -1046,6 +1049,7 @@ SpriteAtlas:
   - plains-sliced_26
   - map_thumbnail_frame_1
   - map_thumbnail_frame_0
+  - sketch_character_selection2
   - plains-sliced_39
   - plains-sliced_14
   - Mochimon_ALL_20
