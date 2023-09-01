@@ -372,6 +372,9 @@ SpriteAtlas:
   - {fileID: -8708644841138291754, guid: 257bd964ffa33fe448318b5cbaec5831, type: 3}
   - {fileID: -1691730606654569074, guid: 257bd964ffa33fe448318b5cbaec5831, type: 3}
   - {fileID: -1413700187542701725, guid: 257bd964ffa33fe448318b5cbaec5831, type: 3}
+  - {fileID: 5425396742906728521, guid: 239fdb6499c4f264fa49ab6294e3ffd9, type: 3}
+  - {fileID: -4380969343718820252, guid: 239fdb6499c4f264fa49ab6294e3ffd9, type: 3}
+  - {fileID: 2603322853499210278, guid: 239fdb6499c4f264fa49ab6294e3ffd9, type: 3}
   - {fileID: 21300000, guid: e4a05284ff97e60419331430a50cb219, type: 3}
   - {fileID: 21300000, guid: 432494848cd5fa4488c8f90069b0982e, type: 3}
   - {fileID: 21300000, guid: 1baf1884c8a27924582c2cbd55432e0e, type: 3}
@@ -649,6 +652,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: d4046a4e1e287214cb79894b9d7060c3, type: 3}
   - {fileID: 21300000, guid: 076d425e4c09f194b953432a5bca20cb, type: 3}
   - {fileID: 21300000, guid: cafb786ece3350b4f8429c143af4659b, type: 3}
+  - {fileID: 21300000, guid: 9b377ebe8326e3a49a4467ff5eea47b8, type: 3}
   - {fileID: 21300000, guid: c3f0b6dec2372bd4394a2827784ac5b0, type: 3}
   - {fileID: 21300000, guid: 2f6b58eef52cffa4fb2ac6fa387a2c9a, type: 3}
   - {fileID: 21300000, guid: f267d20f82a65da4cbee160660b4fd3e, type: 3}
@@ -957,6 +961,9 @@ SpriteAtlas:
   - Position_OK2_3
   - Position_OK2_0
   - Position_OK2_1
+  - StatStars_1
+  - StatStars_0
+  - StatStars_2
   - plains-sliced_63
   - plains-sliced_65
   - plains-sliced_06
@@ -1234,6 +1241,7 @@ SpriteAtlas:
   - skill_range_selected
   - plains-sliced_20
   - Palmon_thumbnail
+  - character_stat_detail
   - plains-sliced_15
   - plains-sliced_29
   - plains-sliced_09
