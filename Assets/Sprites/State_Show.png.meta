@@ -35,6 +35,9 @@ TextureImporter:
   - first:
       213: 8726670010516701119
     second: State_Show_10
+  - first:
+      213: -854847211595920939
+    second: State_Show_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -370,6 +373,27 @@ TextureImporter:
       bones: []
       spriteID: fbff6e0832c5b1970800000000000000
       internalID: 8726670010516701119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: State_Show_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9879f7df8f224f0800000000000000
+      internalID: -854847211595920939
       vertices: []
       indices: 
       edges: []

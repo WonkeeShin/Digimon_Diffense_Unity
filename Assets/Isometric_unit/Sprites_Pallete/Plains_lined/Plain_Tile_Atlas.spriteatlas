@@ -444,6 +444,7 @@ SpriteAtlas:
   - {fileID: 1461370288401090230, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
   - {fileID: 2011835740575894066, guid: 12db19a548c7ccf499c833b2a1ef22d0, type: 3}
   - {fileID: 21300000, guid: 47bc5da5257aeec4c83f3e63e642ea69, type: 3}
+  - {fileID: 21300000, guid: 967e47b5b2693fb4aabbeea933b23760, type: 3}
   - {fileID: 21300000, guid: 118036c5defc89e4fa5d5f49093e0702, type: 3}
   - {fileID: 21300000, guid: 142d9dd53225a7a49a24c45cc7250a8c, type: 3}
   - {fileID: 21300000, guid: 782f51e5a340510498a3204669e8dfc8, type: 3}
@@ -465,6 +466,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 4c5d6c26c79b6d546b6b99b422bdb648, type: 3}
   - {fileID: 21300000, guid: 2870f636fc0c02d45a7499c78eb70cbe, type: 3}
   - {fileID: 21300000, guid: 68396746cff380d418e59ac494066b2d, type: 3}
+  - {fileID: 21300000, guid: b7a87c46d943839468aaf8677796b26c, type: 3}
   - {fileID: 8050656719150563664, guid: b2aabfc674f023c4fb264a4c92c5d790, type: 3}
   - {fileID: -2430245910594893007, guid: b2aabfc674f023c4fb264a4c92c5d790, type: 3}
   - {fileID: 21300000, guid: b99a1717f0f3f33458800a9ca7120d80, type: 3}
@@ -596,6 +598,7 @@ SpriteAtlas:
   - {fileID: -724668510228265594, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: 2824174860422327081, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: 8726670010516701119, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
+  - {fileID: -854847211595920939, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: 21300000, guid: 5736f20c965479e408fa4d4fc8f191f1, type: 3}
   - {fileID: 21300000, guid: ec8ccc2cf6da86f4ab9b11f4a2ab3d2d, type: 3}
   - {fileID: -4351903193241551974, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
@@ -1033,6 +1036,7 @@ SpriteAtlas:
   - Yuramon_ALL_3
   - Yuramon_ALL_2
   - plains-sliced_19
+  - Botamon_Colide
   - sketch_character_selection
   - sketch_character_selection
   - plains-sliced_22
@@ -1054,6 +1058,7 @@ SpriteAtlas:
   - plains-sliced_59
   - plains-sliced_13
   - plains-sliced_26
+  - Botamon_NoColide
   - map_thumbnail_frame_1
   - map_thumbnail_frame_0
   - sketch_character_selection2
@@ -1185,6 +1190,7 @@ SpriteAtlas:
   - State_Show_9
   - State_Show_8
   - State_Show_10
+  - State_Show_11
   - map_level0_thumbnail
   - plains-sliced_69
   - Koromon_ALL_27
