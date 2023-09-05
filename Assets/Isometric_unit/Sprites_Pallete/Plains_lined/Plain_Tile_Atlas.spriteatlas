@@ -570,6 +570,7 @@ SpriteAtlas:
   - {fileID: -8677408509163802190, guid: 0720c0ea309050f44b45dc04401e703e, type: 3}
   - {fileID: 21300000, guid: d42223ea6c5a1b64ea3c5d0423709b7e, type: 3}
   - {fileID: 21300000, guid: 59cf1fea04ca91b408d72de8d50adf48, type: 3}
+  - {fileID: 1133103519897222673, guid: 5eea200bd1875a14cba2d25e61211cda, type: 3}
   - {fileID: -9112775053436431222, guid: 5eea200bd1875a14cba2d25e61211cda, type: 3}
   - {fileID: 3325320327817295875, guid: 5eea200bd1875a14cba2d25e61211cda, type: 3}
   - {fileID: 21300000, guid: c757761b08f64df4b93244d5ef737b76, type: 3}
@@ -1162,8 +1163,9 @@ SpriteAtlas:
   - Skill_Range_Many_0
   - plains-sliced_24
   - plains-sliced_22
+  - sketch_Card_Selection_2
   - sketch_Card_Selection_0
-  - sketch_Card_Selection_1
+  - sketch_Card_Selection_
   - plains-sliced_45
   - plains-sliced_08
   - plains-sliced_39
