@@ -578,6 +578,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 7593b02bb6bb66847878fab5b96bf06c, type: 3}
   - {fileID: 21300000, guid: 5bec3f2ba5a772646aca915a0ccb7851, type: 3}
   - {fileID: 21300000, guid: 4731543be03881342b2829610a82921a, type: 3}
+  - {fileID: 21300000, guid: ea4b5c8b53d1d6946b0729b53f83968a, type: 3}
   - {fileID: 21300000, guid: 0e175f8b3aba64e42aac438c4dae92ca, type: 3}
   - {fileID: -732643779629799578, guid: 1dddf8ab5bcd3d947a7c28941b55e698, type: 3}
   - {fileID: -5784282527597908653, guid: 1dddf8ab5bcd3d947a7c28941b55e698, type: 3}
@@ -659,6 +660,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 9b377ebe8326e3a49a4467ff5eea47b8, type: 3}
   - {fileID: 21300000, guid: c3f0b6dec2372bd4394a2827784ac5b0, type: 3}
   - {fileID: 21300000, guid: 2f6b58eef52cffa4fb2ac6fa387a2c9a, type: 3}
+  - {fileID: 21300000, guid: 4218210fc53044a49aea83fd5d75b9dd, type: 3}
   - {fileID: 21300000, guid: f267d20f82a65da4cbee160660b4fd3e, type: 3}
   - {fileID: 21300000, guid: 42fdd80f10d626f43b8eba626aaba010, type: 3}
   - {fileID: 21300000, guid: 20ba432f5a48c9644bfa97cc455bee96, type: 3}
@@ -694,6 +696,7 @@ SpriteAtlas:
   - {fileID: 3451555741999851631, guid: cfd5b26f0da24fa42baa42a65116ab06, type: 3}
   - {fileID: 21300000, guid: e192bd6fa109e474cab5c4258917e032, type: 3}
   - {fileID: 21300000, guid: ccbd2d8f216976f4a95374a71a0fe624, type: 3}
+  - {fileID: 21300000, guid: 874b81bf289cedd42be25034838695e7, type: 3}
   - {fileID: 21300000, guid: 958b56ffb75d3f7478feee28c6565159, type: 3}
   - {fileID: 21300000, guid: df3719ff2d9cf7048a0254d8f6414e1a, type: 3}
   - {fileID: -6180338439174103002, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
@@ -1171,6 +1174,7 @@ SpriteAtlas:
   - plains-sliced_39
   - plains-sliced_17
   - plains-sliced_47
+  - Agumon_IDLE
   - plains-sliced_33
   - Palmon_Skill 1_2
   - Palmon_Skill 1_3
@@ -1252,6 +1256,7 @@ SpriteAtlas:
   - character_stat_detail
   - plains-sliced_15
   - plains-sliced_29
+  - "\uB514\uC9C0\uBAAC\uC5B4\uB4DC\uBCA4\uCC98\uD45C\uC9C02"
   - plains-sliced_09
   - "\uB514\uC9C0\uBAAC \uC5B4\uB4DC\uBCA4\uCCD0_\uBC30\uACBD"
   - plains-sliced_06
@@ -1287,6 +1292,7 @@ SpriteAtlas:
   - Pyocomon_ALL_23
   - plains-sliced_62
   - plains-sliced_54
+  - "\uB514\uC9C0\uBAAC\uC5B4\uB4DC\uBCA4\uCC98\uD45C\uC9C0"
   - plains-sliced_30
   - plains-sliced_48
   - Bubbmon_ALL_18
