@@ -1,40 +1,52 @@
 fileFormatVersion: 2
-guid: 7e2cc9314962aa243b9126e906e646e0
+guid: ea5a7995cd6d1f94c970b4a13d3f28f6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4720890685331868120
-    second: Poyomon_All_0
+      213: 2336194705586009576
+    second: Pukamon_All_0
   - first:
-      213: 547988514355632455
-    second: Poyomon_All_1
+      213: -9008903795986117157
+    second: Pukamon_All_1
   - first:
-      213: 5599351017405936345
-    second: Poyomon_All_2
+      213: 1247133839169135618
+    second: Pukamon_All_2
   - first:
-      213: -926264402639574770
-    second: Poyomon_All_3
+      213: -8617346243549850579
+    second: Pukamon_All_3
   - first:
-      213: -6255871519517512103
-    second: Poyomon_All_4
+      213: -2361963356015334049
+    second: Pukamon_All_4
   - first:
-      213: -7542939041467051602
-    second: Poyomon_All_5
+      213: 6431238609202342243
+    second: Pukamon_All_5
   - first:
-      213: -8682337635146639238
-    second: Poyomon_All_6
+      213: -4381423383285464471
+    second: Pukamon_All_6
   - first:
-      213: 5243867367696083010
-    second: Poyomon_All_7
+      213: 5225404002723316270
+    second: Pukamon_All_7
   - first:
-      213: -6758040832220639452
-    second: Poyomon_All_8
+      213: 1213732676655627425
+    second: Pukamon_All_8
   - first:
-      213: -3085074933473414627
-    second: Poyomon_All_9
+      213: -7769763962453419360
+    second: Pukamon_All_9
   - first:
-      213: -3180920231994422400
-    second: Poyomon_All_10
+      213: -5794089211006727784
+    second: Pukamon_All_10
+  - first:
+      213: 7317141748755241202
+    second: Pukamon_All_11
+  - first:
+      213: 5533128091454545532
+    second: Pukamon_All_12
+  - first:
+      213: -5558440106343735995
+    second: Pukamon_All_13
+  - first:
+      213: 4190320926843590643
+    second: Pukamon_All_14
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -144,7 +156,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Poyomon_All_0
+      name: Pukamon_All_0
       rect:
         serializedVersion: 2
         x: 0
@@ -152,20 +164,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.5054175, y: 0.30903506}
+      pivot: {x: 0.5193814, y: 0.2221985}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d908a2e019f38140800000000000000
-      internalID: 4720890685331868120
+      spriteID: 8e53a9005b4db6020800000000000000
+      internalID: 2336194705586009576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poyomon_All_1
+      name: Pukamon_All_1
       rect:
         serializedVersion: 2
         x: 128
@@ -173,20 +185,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.5054175, y: 0.26298666}
+      pivot: {x: 0.5193814, y: 0.2221985}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 749592386a8da9700800000000000000
-      internalID: 547988514355632455
+      spriteID: bdd44909ab1f9f280800000000000000
+      internalID: -9008903795986117157
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poyomon_All_2
+      name: Pukamon_All_2
       rect:
         serializedVersion: 2
         x: 256
@@ -194,20 +206,41 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.5054175, y: 0.30691814}
+      pivot: {x: 0.3970175, y: 0.1829026}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d2f33d6514e4bd40800000000000000
-      internalID: 5599351017405936345
+      spriteID: 204ab0f7e95be4110800000000000000
+      internalID: 1247133839169135618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poyomon_All_3
+      name: Pukamon_All_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.3970175, y: 0.1829026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d241aa68f39096880800000000000000
+      internalID: -8617346243549850579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pukamon_All_4
       rect:
         serializedVersion: 2
         x: 0
@@ -215,20 +248,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.5054175, y: 0.30808067}
+      pivot: {x: 0.3970175, y: 0.1829026}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e092490fe6f3523f0800000000000000
-      internalID: -926264402639574770
+      spriteID: f5d673887de983fd0800000000000000
+      internalID: -2361963356015334049
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poyomon_All_4
+      name: Pukamon_All_5
       rect:
         serializedVersion: 2
         x: 128
@@ -236,20 +269,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.5054175, y: 0.30823255}
+      pivot: {x: 0.3970175, y: 0.1829026}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95eecae7ffdae29a0800000000000000
-      internalID: -6255871519517512103
+      spriteID: 369684fd079504950800000000000000
+      internalID: 6431238609202342243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poyomon_All_5
+      name: Pukamon_All_6
       rect:
         serializedVersion: 2
         x: 256
@@ -257,20 +290,41 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.5054175, y: 0.3083248}
+      pivot: {x: 0.5270953, y: 0.2150013}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea15eeee7e8125790800000000000000
-      internalID: -7542939041467051602
+      spriteID: 9620eac85ae0233c0800000000000000
+      internalID: -4381423383285464471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poyomon_All_6
+      name: Pukamon_All_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5270953, y: 0.2150013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e224a3e414d548840800000000000000
+      internalID: 5225404002723316270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pukamon_All_8
       rect:
         serializedVersion: 2
         x: 0
@@ -278,20 +332,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.5054175, y: 0.3075372}
+      pivot: {x: 0.5270953, y: 0.2150013}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a78541dfbe3228780800000000000000
-      internalID: -8682337635146639238
+      spriteID: 1acb754507b08d010800000000000000
+      internalID: 1213732676655627425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poyomon_All_7
+      name: Pukamon_All_9
       rect:
         serializedVersion: 2
         x: 128
@@ -299,20 +353,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.5054175, y: 0.28427994}
+      pivot: {x: 0.5270953, y: 0.2150013}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 248a9c47695f5c840800000000000000
-      internalID: 5243867367696083010
+      spriteID: 0aa155597d04c2490800000000000000
+      internalID: -7769763962453419360
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poyomon_All_8
+      name: Pukamon_All_10
       rect:
         serializedVersion: 2
         x: 256
@@ -320,20 +374,41 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.5054175, y: 0.26049316}
+      pivot: {x: 0.5270953, y: 0.2150013}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42f47e13bad9632a0800000000000000
-      internalID: -6758040832220639452
+      spriteID: 899450d9f82479fa0800000000000000
+      internalID: -5794089211006727784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poyomon_All_9
+      name: Pukamon_All_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5270953, y: 0.2150013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f89cb117a5bb8560800000000000000
+      internalID: 7317141748755241202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pukamon_All_12
       rect:
         serializedVersion: 2
         x: 0
@@ -341,20 +416,20 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.5731563, y: 0.30818257}
+      pivot: {x: 0.5270953, y: 0.2150013}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d12fad481bc9f25d0800000000000000
-      internalID: -3085074933473414627
+      spriteID: c7e12e3feae99cc40800000000000000
+      internalID: 5533128091454545532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poyomon_All_10
+      name: Pukamon_All_13
       rect:
         serializedVersion: 2
         x: 128
@@ -362,14 +437,35 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.57733023, y: 0.3073418}
+      pivot: {x: 0.5270953, y: 0.2150013}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08b8e19f6e91bd3d0800000000000000
-      internalID: -3180920231994422400
+      spriteID: 54dd8145c247cd2b0800000000000000
+      internalID: -5558440106343735995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pukamon_All_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5270953, y: 0.2150013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7d5638ea2072a30800000000000000
+      internalID: 4190320926843590643
       vertices: []
       indices: 
       edges: []
