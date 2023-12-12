@@ -4,58 +4,58 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 4172108864079841630
-    second: Tentomon_all_0
+    second: Tentomon_Move_0
   - first:
       213: -6360523430018840024
-    second: Tentomon_all_1
+    second: Tentomon_Move_1
   - first:
       213: -2683322919286269123
-    second: Tentomon_all_2
+    second: Tentomon_Idle_0
   - first:
       213: 54913174121047572
-    second: Tentomon_all_3
+    second: Tentomon_Idle_1
   - first:
       213: 1179417285467183581
-    second: Tentomon_all_4
+    second: Tentomon_Skill_0
   - first:
       213: 195910357858420114
-    second: Tentomon_all_5
+    second: Tentomon_Skill_1
   - first:
       213: 3276030996026414076
-    second: Tentomon_all_6
+    second: Tentomon_Skill_2
   - first:
       213: 1687715207670467832
-    second: Tentomon_all_7
+    second: Tentomon_Skill_3
   - first:
       213: -3949288304794937103
-    second: Tentomon_all_8
+    second: Tentomon_Skill_4
   - first:
       213: -5359855146219305923
-    second: Tentomon_all_9
+    second: Tentomon_Skill_5
   - first:
       213: -6563148999624651578
-    second: Tentomon_all_10
+    second: Tentomon_Attack_0
   - first:
       213: 2093048247997471040
-    second: Tentomon_all_11
+    second: Tentomon_Attack_1
   - first:
       213: 738902458051343739
-    second: Tentomon_all_12
+    second: Tentomon_Attack_2
   - first:
       213: 1380160058192419776
-    second: Tentomon_all_13
+    second: Tentomon_Attack_3
   - first:
       213: 6366598953485202285
-    second: Tentomon_all_14
+    second: Tentomon_Attack_4
   - first:
       213: 5733923970487809264
-    second: Tentomon_all_15
+    second: Tentomon_Attack_5
   - first:
       213: -6169995574417442853
-    second: Tentomon_all_16
+    second: Tentomon_Attack_6
   - first:
       213: 6366794740101197326
-    second: Tentomon_all_17
+    second: Tentomon_Attack_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -165,15 +165,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tentomon_all_0
+      name: Tentomon_Move_0
       rect:
         serializedVersion: 2
         x: 0
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.01}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -186,15 +186,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_1
+      name: Tentomon_Move_1
       rect:
         serializedVersion: 2
         x: 128
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -207,15 +207,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_2
+      name: Tentomon_Idle_0
       rect:
         serializedVersion: 2
         x: 256
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4966943, y: 0.1696482}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -228,15 +228,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_3
+      name: Tentomon_Idle_1
       rect:
         serializedVersion: 2
         x: 384
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4966943, y: 0.1696482}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -249,15 +249,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_4
+      name: Tentomon_Skill_0
       rect:
         serializedVersion: 2
         x: 0
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5241069, y: 0.1600916}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -270,15 +270,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_5
+      name: Tentomon_Skill_1
       rect:
         serializedVersion: 2
         x: 128
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5241069, y: 0.1600916}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -291,15 +291,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_6
+      name: Tentomon_Skill_2
       rect:
         serializedVersion: 2
         x: 256
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5241069, y: 0.1600916}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -312,15 +312,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_7
+      name: Tentomon_Skill_3
       rect:
         serializedVersion: 2
         x: 384
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5241069, y: 0.1600916}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -333,15 +333,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_8
+      name: Tentomon_Skill_4
       rect:
         serializedVersion: 2
         x: 0
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5241069, y: 0.1600916}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -354,15 +354,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_9
+      name: Tentomon_Skill_5
       rect:
         serializedVersion: 2
         x: 128
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5241069, y: 0.1600916}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -375,15 +375,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_10
+      name: Tentomon_Attack_0
       rect:
         serializedVersion: 2
         x: 256
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4124472, y: 0.1452558}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -396,15 +396,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_11
+      name: Tentomon_Attack_1
       rect:
         serializedVersion: 2
         x: 384
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4124472, y: 0.1452558}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -417,15 +417,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_12
+      name: Tentomon_Attack_2
       rect:
         serializedVersion: 2
         x: 0
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4124472, y: 0.1452558}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -438,15 +438,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_13
+      name: Tentomon_Attack_3
       rect:
         serializedVersion: 2
         x: 128
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4124472, y: 0.1452558}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -459,15 +459,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_14
+      name: Tentomon_Attack_4
       rect:
         serializedVersion: 2
         x: 256
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4124472, y: 0.1452558}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -480,15 +480,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_15
+      name: Tentomon_Attack_5
       rect:
         serializedVersion: 2
         x: 384
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4124472, y: 0.1452558}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -501,15 +501,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_16
+      name: Tentomon_Attack_6
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4124472, y: 0.1452558}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -522,15 +522,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tentomon_all_17
+      name: Tentomon_Attack_7
       rect:
         serializedVersion: 2
         x: 128
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4124472, y: 0.1452558}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

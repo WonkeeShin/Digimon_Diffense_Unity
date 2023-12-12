@@ -4,79 +4,79 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 5863900599381432713
-    second: Patamon_ALL_0
+    second: Patamon_Idle_0
   - first:
       213: 2539838302815495103
-    second: Patamon_ALL_1
+    second: Patamon_Idle_1
   - first:
       213: 7282695008597057930
-    second: Patamon_ALL_2
+    second: Patamon_Move_0
   - first:
       213: -567045344509091786
-    second: Patamon_ALL_3
+    second: Patamon_Move_1
   - first:
       213: -8731522673567274772
-    second: Patamon_ALL_4
+    second: Patamon_Move_2
   - first:
       213: -338645430942211797
-    second: Patamon_ALL_5
+    second: Patamon_Move_3
   - first:
       213: -2108835080299135231
-    second: Patamon_ALL_6
+    second: Patamon_Move_4
   - first:
       213: 6516721432217222469
-    second: Patamon_ALL_7
+    second: Patamon_Move_5
   - first:
       213: -3611778017363582899
-    second: Patamon_ALL_8
+    second: Patamon_Skill_0
   - first:
       213: -3403736676359995331
-    second: Patamon_ALL_9
+    second: Patamon_Skill_1
   - first:
       213: -4054330181311094726
-    second: Patamon_ALL_10
+    second: Patamon_Skill_2
   - first:
       213: -1092972266589519458
-    second: Patamon_ALL_11
+    second: Patamon_Skill_3
   - first:
       213: 2817230000289697550
-    second: Patamon_ALL_12
+    second: Patamon_Skill_4
   - first:
       213: -7606442711676254613
-    second: Patamon_ALL_13
+    second: Patamon_Skill_5
   - first:
       213: 5928935497225981354
-    second: Patamon_ALL_14
+    second: Patamon_Skill_6
   - first:
       213: 554583114473038588
-    second: Patamon_ALL_15
+    second: Patamon_Skill_7
   - first:
       213: 3842149499337606752
-    second: Patamon_ALL_16
+    second: Patamon_Skill_8
   - first:
       213: -2398405029629924946
-    second: Patamon_ALL_17
+    second: Patamon_Skill_9
   - first:
       213: -3599849340830090490
-    second: Patamon_ALL_18
+    second: Patamon_Attack_0
   - first:
       213: -6065286385825533171
-    second: Patamon_ALL_19
+    second: Patamon_Attack_1
   - first:
       213: 4267610788775084656
-    second: Patamon_ALL_20
+    second: Patamon_Attack_2
   - first:
       213: -772984377343219373
-    second: Patamon_ALL_21
+    second: Patamon_Attack_3
   - first:
       213: 1273233289148885041
-    second: Patamon_ALL_22
+    second: Patamon_Attack_4
   - first:
       213: 8682294479914921615
-    second: Patamon_ALL_23
+    second: Patamon_Attack_5
   - first:
       213: 8149139140189395871
-    second: Patamon_ALL_24
+    second: Patamon_Attack_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -186,15 +186,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Patamon_ALL_0
+      name: Patamon_Idle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -207,15 +207,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_1
+      name: Patamon_Idle_1
       rect:
         serializedVersion: 2
         x: 128
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -228,15 +228,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_2
+      name: Patamon_Move_0
       rect:
         serializedVersion: 2
         x: 256
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -249,15 +249,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_3
+      name: Patamon_Move_1
       rect:
         serializedVersion: 2
         x: 384
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -270,15 +270,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_4
+      name: Patamon_Move_2
       rect:
         serializedVersion: 2
         x: 512
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -291,15 +291,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_5
+      name: Patamon_Move_3
       rect:
         serializedVersion: 2
         x: 0
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -312,15 +312,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_6
+      name: Patamon_Move_4
       rect:
         serializedVersion: 2
         x: 128
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -333,15 +333,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_7
+      name: Patamon_Move_5
       rect:
         serializedVersion: 2
         x: 256
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -354,15 +354,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_8
+      name: Patamon_Skill_0
       rect:
         serializedVersion: 2
         x: 384
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.2614045, y: 0.339108}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -375,15 +375,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_9
+      name: Patamon_Skill_1
       rect:
         serializedVersion: 2
         x: 512
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.2614045, y: 0.339108}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -396,15 +396,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_10
+      name: Patamon_Skill_2
       rect:
         serializedVersion: 2
         x: 0
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.2614045, y: 0.339108}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -417,15 +417,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_11
+      name: Patamon_Skill_3
       rect:
         serializedVersion: 2
         x: 128
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.2614045, y: 0.339108}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -438,15 +438,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_12
+      name: Patamon_Skill_4
       rect:
         serializedVersion: 2
         x: 256
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.2614045, y: 0.339108}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -459,15 +459,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_13
+      name: Patamon_Skill_5
       rect:
         serializedVersion: 2
         x: 384
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.2614045, y: 0.339108}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -480,15 +480,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_14
+      name: Patamon_Skill_6
       rect:
         serializedVersion: 2
         x: 512
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.2614045, y: 0.339108}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -501,15 +501,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_15
+      name: Patamon_Skill_7
       rect:
         serializedVersion: 2
         x: 0
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.2614045, y: 0.339108}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -522,15 +522,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_16
+      name: Patamon_Skill_8
       rect:
         serializedVersion: 2
         x: 128
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.2614045, y: 0.339108}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -543,15 +543,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_17
+      name: Patamon_Skill_9
       rect:
         serializedVersion: 2
         x: 256
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.2614045, y: 0.339108}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -564,15 +564,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_18
+      name: Patamon_Attack_0
       rect:
         serializedVersion: 2
         x: 384
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -585,15 +585,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_19
+      name: Patamon_Attack_1
       rect:
         serializedVersion: 2
         x: 512
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -606,15 +606,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_20
+      name: Patamon_Attack_2
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -627,15 +627,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_21
+      name: Patamon_Attack_3
       rect:
         serializedVersion: 2
         x: 128
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -648,15 +648,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_22
+      name: Patamon_Attack_4
       rect:
         serializedVersion: 2
         x: 256
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -669,15 +669,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_23
+      name: Patamon_Attack_5
       rect:
         serializedVersion: 2
         x: 384
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -690,15 +690,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Patamon_ALL_24
+      name: Patamon_Attack_6
       rect:
         serializedVersion: 2
         x: 512
-        y: 0
+        y: 1
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4029198, y: 0.231287}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

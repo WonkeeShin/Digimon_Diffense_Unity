@@ -4,61 +4,61 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 6668216693306044563
-    second: Agumon_ALL_0
+    second: Agumon_idle_0
   - first:
       213: -3302927745083807319
-    second: Agumon_ALL_1
+    second: Agumon_Idle_1
   - first:
       213: -3999520035064808998
-    second: Agumon_ALL_2
+    second: Agumon_Move_0
   - first:
       213: -3679074902154372223
-    second: Agumon_ALL_3
+    second: Agumon_Move_1
   - first:
       213: -1362288042626572328
-    second: Agumon_ALL_4
+    second: Agumon_Move_2
   - first:
       213: 8821231641678317550
-    second: Agumon_ALL_5
+    second: Agumon_Move_3
   - first:
       213: -3952690585951597786
-    second: Agumon_ALL_6
+    second: Agumon_Attack_0
   - first:
       213: 5719058474987581734
-    second: Agumon_ALL_7
+    second: Agumon_Attack_1
   - first:
       213: 6157425795506996428
-    second: Agumon_ALL_8
+    second: Agumon_Attack_2
   - first:
       213: -4315638917238201009
-    second: Agumon_ALL_9
+    second: Agumon_Attack_3
   - first:
       213: 5729987247591703128
-    second: Agumon_ALL_10
+    second: Agumon_Skill_0
   - first:
       213: -4264374161908029715
-    second: Agumon_ALL_11
+    second: Agumon_Skill_1
   - first:
       213: -2650000594500012266
-    second: Agumon_ALL_12
+    second: Agumon_Skill_2
   - first:
       213: 8289120781833432427
-    second: Agumon_ALL_13
+    second: Agumon_Skill_3
   - first:
       213: -4736811612301964202
-    second: Agumon_ALL_14
+    second: Agumon_Skill_4
   - first:
       213: 5609856623572195992
-    second: Agumon_ALL_15
+    second: Agumon_Skill_5
   - first:
       213: -4019173778620719977
-    second: Agumon_ALL_16
+    second: Agumon_Skill_6
   - first:
       213: 296066260389460514
-    second: Agumon_ALL_17
+    second: Agumon_Skill_7
   - first:
       213: 132331062875862786
-    second: Agumon_ALL_18
+    second: Agumon_Skill_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -168,15 +168,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Agumon_ALL_0
+      name: Agumon_idle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,15 +189,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_1
+      name: Agumon_Idle_1
       rect:
         serializedVersion: 2
         x: 128
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,15 +210,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_2
+      name: Agumon_Move_0
       rect:
         serializedVersion: 2
         x: 256
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,15 +231,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_3
+      name: Agumon_Move_1
       rect:
         serializedVersion: 2
         x: 384
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,15 +252,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_4
+      name: Agumon_Move_2
       rect:
         serializedVersion: 2
         x: 0
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,15 +273,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_5
+      name: Agumon_Move_3
       rect:
         serializedVersion: 2
         x: 128
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -294,15 +294,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_6
+      name: Agumon_Attack_0
       rect:
         serializedVersion: 2
         x: 256
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -315,15 +315,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_7
+      name: Agumon_Attack_1
       rect:
         serializedVersion: 2
         x: 384
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -336,15 +336,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_8
+      name: Agumon_Attack_2
       rect:
         serializedVersion: 2
         x: 0
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -357,15 +357,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_9
+      name: Agumon_Attack_3
       rect:
         serializedVersion: 2
         x: 128
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -378,15 +378,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_10
+      name: Agumon_Skill_0
       rect:
         serializedVersion: 2
         x: 256
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -399,15 +399,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_11
+      name: Agumon_Skill_1
       rect:
         serializedVersion: 2
         x: 384
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -420,15 +420,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_12
+      name: Agumon_Skill_2
       rect:
         serializedVersion: 2
         x: 0
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -441,15 +441,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_13
+      name: Agumon_Skill_3
       rect:
         serializedVersion: 2
         x: 128
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -462,15 +462,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_14
+      name: Agumon_Skill_4
       rect:
         serializedVersion: 2
         x: 256
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -483,15 +483,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_15
+      name: Agumon_Skill_5
       rect:
         serializedVersion: 2
         x: 384
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -504,15 +504,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_16
+      name: Agumon_Skill_6
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -525,15 +525,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_17
+      name: Agumon_Skill_7
       rect:
         serializedVersion: 2
         x: 128
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -546,15 +546,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_ALL_18
+      name: Agumon_Skill_8
       rect:
         serializedVersion: 2
         x: 256
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4883395, y: 0.007723331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

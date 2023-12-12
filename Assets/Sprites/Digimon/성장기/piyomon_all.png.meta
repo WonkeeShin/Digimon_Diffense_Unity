@@ -4,67 +4,67 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -3052310133674641677
-    second: piyomon_all_0
+    second: Piyomon_Idle_0
   - first:
       213: -7528791585882367906
-    second: piyomon_all_1
+    second: Piyomon_Idle_1
   - first:
       213: -8873611899612719780
-    second: piyomon_all_2
+    second: Piyomon_Move_0
   - first:
       213: 5120120471846209654
-    second: piyomon_all_3
+    second: Piyomon_Move_1
   - first:
       213: 5128175348123477071
-    second: piyomon_all_4
+    second: Piyomon_Move_2
   - first:
       213: 9115673295863900177
-    second: piyomon_all_5
+    second: Piyomon_Move_3
   - first:
       213: -383933639487120714
-    second: piyomon_all_6
+    second: Piyomon_Move_4
   - first:
       213: 2761609443025993945
-    second: piyomon_all_7
+    second: Piyomon_Attack_0
   - first:
       213: -4503125172275319246
-    second: piyomon_all_8
+    second: Piyomon_Attack_1
   - first:
       213: -7213083616040439802
-    second: piyomon_all_9
+    second: Piyomon_Attack_2
   - first:
       213: 1497730409758676936
-    second: piyomon_all_10
+    second: Piyomon_Attack_3
   - first:
       213: 3670977778762842509
-    second: piyomon_all_11
+    second: Piyomon_Skill_0
   - first:
       213: -8198045767739934605
-    second: piyomon_all_12
+    second: Piyomon_Skill_1
   - first:
       213: -645869988291908334
-    second: piyomon_all_13
+    second: Piyomon_Skill_2
   - first:
       213: 3075530953394678429
-    second: piyomon_all_14
+    second: Piyomon_Skill_3
   - first:
       213: -5059169002006612299
-    second: piyomon_all_15
+    second: Piyomon_Skill_4
   - first:
       213: -3943991472722259637
-    second: piyomon_all_16
+    second: Piyomon_Skill_5
   - first:
       213: -5976739283701811534
-    second: piyomon_all_17
+    second: Piyomon_Skill_6
   - first:
       213: 4205561718039164422
-    second: piyomon_all_18
+    second: Piyomon_Skill_7
   - first:
       213: 2766531406731540951
-    second: piyomon_all_19
+    second: Piyomon_Skill_8
   - first:
       213: 3569792266689483140
-    second: piyomon_all_20
+    second: Piyomon_Skill_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -174,15 +174,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: piyomon_all_0
+      name: Piyomon_Idle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4693131, y: 0.07622814}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -195,15 +195,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_1
+      name: Piyomon_Idle_1
       rect:
         serializedVersion: 2
         x: 128
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4693131, y: 0.07622814}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -216,15 +216,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_2
+      name: Piyomon_Move_0
       rect:
         serializedVersion: 2
         x: 256
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4326167, y: 0.07622814}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -237,15 +237,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_3
+      name: Piyomon_Move_1
       rect:
         serializedVersion: 2
         x: 384
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4326167, y: 0.07622814}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -258,15 +258,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_4
+      name: Piyomon_Move_2
       rect:
         serializedVersion: 2
         x: 512
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4326167, y: 0.07622814}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -279,15 +279,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_5
+      name: Piyomon_Move_3
       rect:
         serializedVersion: 2
         x: 0
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4326167, y: 0.07622814}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -300,15 +300,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_6
+      name: Piyomon_Move_4
       rect:
         serializedVersion: 2
         x: 128
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4326167, y: 0.07622814}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -321,15 +321,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_7
+      name: Piyomon_Attack_0
       rect:
         serializedVersion: 2
         x: 256
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4830594, y: 0.07622814}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -342,15 +342,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_8
+      name: Piyomon_Attack_1
       rect:
         serializedVersion: 2
         x: 384
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4830594, y: 0.07622814}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -363,15 +363,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_9
+      name: Piyomon_Attack_2
       rect:
         serializedVersion: 2
         x: 512
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4830594, y: 0.07622814}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -384,15 +384,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_10
+      name: Piyomon_Attack_3
       rect:
         serializedVersion: 2
         x: 0
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4830594, y: 0.07622814}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -405,15 +405,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_11
+      name: Piyomon_Skill_0
       rect:
         serializedVersion: 2
         x: 128
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4624281, y: 0.08873868}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -426,15 +426,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_12
+      name: Piyomon_Skill_1
       rect:
         serializedVersion: 2
         x: 256
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4624281, y: 0.08873868}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -447,15 +447,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_13
+      name: Piyomon_Skill_2
       rect:
         serializedVersion: 2
         x: 384
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4624281, y: 0.08873868}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -468,15 +468,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_14
+      name: Piyomon_Skill_3
       rect:
         serializedVersion: 2
         x: 512
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4624281, y: 0.08873868}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -489,15 +489,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_15
+      name: Piyomon_Skill_4
       rect:
         serializedVersion: 2
         x: 0
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4624281, y: 0.08873868}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -510,15 +510,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_16
+      name: Piyomon_Skill_5
       rect:
         serializedVersion: 2
         x: 128
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4624281, y: 0.08873868}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -531,15 +531,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_17
+      name: Piyomon_Skill_6
       rect:
         serializedVersion: 2
         x: 256
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4624281, y: 0.08873868}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -552,15 +552,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_18
+      name: Piyomon_Skill_7
       rect:
         serializedVersion: 2
         x: 384
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4624281, y: 0.08873868}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -573,15 +573,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_19
+      name: Piyomon_Skill_8
       rect:
         serializedVersion: 2
         x: 512
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4624281, y: 0.08873868}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -594,15 +594,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: piyomon_all_20
+      name: Piyomon_Skill_9
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4624281, y: 0.08873868}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

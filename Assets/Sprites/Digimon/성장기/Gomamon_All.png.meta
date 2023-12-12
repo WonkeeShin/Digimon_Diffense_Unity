@@ -4,61 +4,61 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -1538135388732675069
-    second: Gomamon_All_0
+    second: Gomamon_Idle_0
   - first:
       213: -3730597639586466694
-    second: Gomamon_All_1
+    second: Gomamon_Idle_1
   - first:
       213: 8806082325913167907
-    second: Gomamon_All_2
+    second: Gomamon_Move_0
   - first:
       213: -9022648234078056383
-    second: Gomamon_All_3
+    second: Gomamon_Move_1
   - first:
       213: -2681561945961175368
-    second: Gomamon_All_4
+    second: Gomamon_Attack_0
   - first:
       213: -7099770535975473873
-    second: Gomamon_All_5
+    second: Gomamon_Attack_1
   - first:
       213: -8934896901832712516
-    second: Gomamon_All_6
+    second: Gomamon_Attack_2
   - first:
       213: -263204928638813657
-    second: Gomamon_All_7
+    second: Gomamon_Attack_3
   - first:
       213: -4831783411222441445
-    second: Gomamon_All_8
+    second: Gomamon_Attack_4
   - first:
       213: 1903263190053552959
-    second: Gomamon_All_9
+    second: Gomamon_Attack_5
   - first:
       213: -2725638661899653099
-    second: Gomamon_All_10
+    second: Gomamon_Attack_6
   - first:
       213: 4677280801916228457
-    second: Gomamon_All_11
+    second: Gomamon_Skill_0
   - first:
       213: -8085548155805641521
-    second: Gomamon_All_12
+    second: Gomamon_Skill_1
   - first:
       213: -4182187936963127629
-    second: Gomamon_All_13
+    second: Gomamon_Skill_2
   - first:
       213: 3809126065131758245
-    second: Gomamon_All_14
+    second: Gomamon_Skill_3
   - first:
       213: -2397798023158465652
-    second: Gomamon_All_15
+    second: Gomamon_Skill_4
   - first:
       213: -2853708439268808370
-    second: Gomamon_All_16
+    second: Gomamon_Skill_5
   - first:
       213: 3685872085435329630
-    second: Gomamon_All_17
+    second: Gomamon_Skill_6
   - first:
       213: 5650228835100079580
-    second: Gomamon_All_18
+    second: Gomamon_Skill_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -168,15 +168,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gomamon_All_0
+      name: Gomamon_Idle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4568601, y: 0.2150149}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,15 +189,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_1
+      name: Gomamon_Idle_1
       rect:
         serializedVersion: 2
         x: 128
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4568601, y: 0.2150149}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,15 +210,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_2
+      name: Gomamon_Move_0
       rect:
         serializedVersion: 2
         x: 256
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4373033, y: 0.2534876}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,15 +231,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_3
+      name: Gomamon_Move_1
       rect:
         serializedVersion: 2
         x: 384
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4373033, y: 0.2534876}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,15 +252,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_4
+      name: Gomamon_Attack_0
       rect:
         serializedVersion: 2
         x: 0
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5238825, y: 0.2359655}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,15 +273,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_5
+      name: Gomamon_Attack_1
       rect:
         serializedVersion: 2
         x: 128
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5238825, y: 0.2359655}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -294,15 +294,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_6
+      name: Gomamon_Attack_2
       rect:
         serializedVersion: 2
         x: 256
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5238825, y: 0.2359655}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -315,15 +315,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_7
+      name: Gomamon_Attack_3
       rect:
         serializedVersion: 2
         x: 384
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5238825, y: 0.2359655}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -336,15 +336,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_8
+      name: Gomamon_Attack_4
       rect:
         serializedVersion: 2
         x: 0
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5238825, y: 0.2359655}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -357,15 +357,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_9
+      name: Gomamon_Attack_5
       rect:
         serializedVersion: 2
         x: 128
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5238825, y: 0.2359655}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -378,15 +378,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_10
+      name: Gomamon_Attack_6
       rect:
         serializedVersion: 2
         x: 256
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5238825, y: 0.2359655}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -399,15 +399,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_11
+      name: Gomamon_Skill_0
       rect:
         serializedVersion: 2
         x: 384
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4568601, y: 0.2150149}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -420,15 +420,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_12
+      name: Gomamon_Skill_1
       rect:
         serializedVersion: 2
         x: 0
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4568601, y: 0.19719505}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -441,15 +441,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_13
+      name: Gomamon_Skill_2
       rect:
         serializedVersion: 2
         x: 128
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4568601, y: 0.1743027}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -462,15 +462,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_14
+      name: Gomamon_Skill_3
       rect:
         serializedVersion: 2
         x: 256
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4568601, y: 0.1520829}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -483,15 +483,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_15
+      name: Gomamon_Skill_4
       rect:
         serializedVersion: 2
         x: 384
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4568601, y: 0.1520829}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -504,15 +504,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_16
+      name: Gomamon_Skill_5
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4568601, y: 0.1520829}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -525,15 +525,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_17
+      name: Gomamon_Skill_6
       rect:
         serializedVersion: 2
         x: 128
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4568601, y: 0.1520829}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -546,15 +546,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gomamon_All_18
+      name: Gomamon_Skill_7
       rect:
         serializedVersion: 2
         x: 256
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4568601, y: 0.1520829}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

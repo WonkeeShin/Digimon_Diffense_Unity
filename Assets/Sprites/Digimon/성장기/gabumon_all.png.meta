@@ -4,73 +4,73 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 7112900777131430368
-    second: gabumon_all_0
+    second: Gabumon_Idle_0
   - first:
       213: -2845924252367374024
-    second: gabumon_all_1
+    second: Gabumon_Idle_1
   - first:
       213: -3094926836069535888
-    second: gabumon_all_2
+    second: Gabumon_Skill_0
   - first:
       213: 5806439261576683318
-    second: gabumon_all_3
+    second: Gabumon_Skill_1
   - first:
       213: -1208727735555391792
-    second: gabumon_all_4
+    second: Gabumon_Skill_2
   - first:
       213: -4099758892394409221
-    second: gabumon_all_5
+    second: Gabumon_Skill_3
   - first:
       213: -7743908239827480890
-    second: gabumon_all_6
+    second: Gabumon_Skill_4
   - first:
       213: -7078959476686306157
-    second: gabumon_all_7
+    second: Gabumon_Skill_5
   - first:
       213: 7256203911154148798
-    second: gabumon_all_8
+    second: Gabumon_Skill_6
   - first:
       213: -6530593380576435916
-    second: gabumon_all_9
+    second: Gabumon_Skill_7
   - first:
       213: -262185522036061346
-    second: gabumon_all_10
+    second: Gabumon_Skill_8
   - first:
       213: -3378898336614623084
-    second: gabumon_all_11
+    second: Gabumon_Skill_9
   - first:
       213: -2131480627111090004
-    second: gabumon_all_12
+    second: Gabumon_Skill_10
   - first:
       213: -7894652730194907870
-    second: gabumon_all_13
+    second: Gabumon_Skill_11
   - first:
       213: -96747043547837304
-    second: gabumon_all_14
+    second: Gabumon_Attack_0
   - first:
       213: 7379419756146355292
-    second: gabumon_all_15
+    second: Gabumon_Attack_1
   - first:
       213: -2101290877235726739
-    second: gabumon_all_16
+    second: Gabumon_Attack_2
   - first:
       213: -4390520612342145615
-    second: gabumon_all_17
+    second: Gabumon_Attack_3
   - first:
       213: -8718118841791349780
-    second: gabumon_all_18
+    second: Gabumon_Attack_4
   - first:
       213: -710622486763487917
-    second: gabumon_all_19
+    second: Gabumon_Move_0
   - first:
       213: 7043897846396734089
-    second: gabumon_all_20
+    second: Gabumon_Move_1
   - first:
       213: -7311288409734420531
-    second: gabumon_all_21
+    second: Gabumon_Move_2
   - first:
       213: 1151868053235252899
-    second: gabumon_all_22
+    second: Gabumon_Move_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -180,15 +180,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: gabumon_all_0
+      name: Gabumon_Idle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -201,15 +201,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_1
+      name: Gabumon_Idle_1
       rect:
         serializedVersion: 2
         x: 128
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -222,15 +222,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_2
+      name: Gabumon_Skill_0
       rect:
         serializedVersion: 2
         x: 256
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -243,15 +243,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_3
+      name: Gabumon_Skill_1
       rect:
         serializedVersion: 2
         x: 384
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -264,15 +264,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_4
+      name: Gabumon_Skill_2
       rect:
         serializedVersion: 2
         x: 512
         y: 512
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -285,15 +285,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_5
+      name: Gabumon_Skill_3
       rect:
         serializedVersion: 2
         x: 0
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -306,15 +306,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_6
+      name: Gabumon_Skill_4
       rect:
         serializedVersion: 2
         x: 128
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -327,15 +327,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_7
+      name: Gabumon_Skill_5
       rect:
         serializedVersion: 2
         x: 256
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -348,15 +348,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_8
+      name: Gabumon_Skill_6
       rect:
         serializedVersion: 2
         x: 384
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -369,15 +369,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_9
+      name: Gabumon_Skill_7
       rect:
         serializedVersion: 2
         x: 512
         y: 384
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -390,15 +390,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_10
+      name: Gabumon_Skill_8
       rect:
         serializedVersion: 2
         x: 0
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -411,15 +411,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_11
+      name: Gabumon_Skill_9
       rect:
         serializedVersion: 2
         x: 128
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -432,15 +432,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_12
+      name: Gabumon_Skill_10
       rect:
         serializedVersion: 2
         x: 256
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -453,15 +453,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_13
+      name: Gabumon_Skill_11
       rect:
         serializedVersion: 2
         x: 384
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -474,15 +474,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_14
+      name: Gabumon_Attack_0
       rect:
         serializedVersion: 2
         x: 512
         y: 256
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -495,15 +495,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_15
+      name: Gabumon_Attack_1
       rect:
         serializedVersion: 2
         x: 0
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -516,15 +516,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_16
+      name: Gabumon_Attack_2
       rect:
         serializedVersion: 2
         x: 128
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -537,15 +537,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_17
+      name: Gabumon_Attack_3
       rect:
         serializedVersion: 2
         x: 256
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -558,15 +558,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_18
+      name: Gabumon_Attack_4
       rect:
         serializedVersion: 2
         x: 384
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4291179, y: 0.1131859}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -579,15 +579,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_19
+      name: Gabumon_Move_0
       rect:
         serializedVersion: 2
         x: 512
         y: 128
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4785604, y: 0.09281353}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -600,15 +600,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_20
+      name: Gabumon_Move_1
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4785604, y: 0.09281353}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -621,15 +621,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_21
+      name: Gabumon_Move_2
       rect:
         serializedVersion: 2
         x: 128
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4785604, y: 0.09281353}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -642,15 +642,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gabumon_all_22
+      name: Gabumon_Move_3
       rect:
         serializedVersion: 2
         x: 256
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4785604, y: 0.09281353}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
