@@ -17,10 +17,7 @@ AnimatorStateMachine:
     m_Position: {x: 520, y: 150, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 196644597844795712}
-    m_Position: {x: 600, y: -110, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 3539686904328907101}
-    m_Position: {x: 320, y: -160, z: 0}
+    m_Position: {x: 520, y: -100, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -131,7 +128,6 @@ AnimatorState:
   m_Transitions:
   - {fileID: 3069142193422422828}
   - {fileID: 4074184193165020968}
-  - {fileID: -4325559877987160435}
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
@@ -193,9 +189,15 @@ AnimatorController:
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: Down
-    m_Type: 4
-    m_DefaultFloat: 0
+  - m_Name: Move_Speed
+    m_Type: 1
+    m_DefaultFloat: 1
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
+  - m_Name: Attack_Speed
+    m_Type: 1
+    m_DefaultFloat: 1
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
@@ -278,9 +280,6 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 1
     m_ConditionEvent: Attack
-    m_EventTreshold: 0
-  - m_ConditionMode: 2
-    m_ConditionEvent: Down
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 196644597844795712}
@@ -387,7 +386,6 @@ AnimatorState:
   m_Transitions:
   - {fileID: 7659947631239697372}
   - {fileID: 5415537242767079578}
-  - {fileID: -4160914401452250716}
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
@@ -416,9 +414,6 @@ AnimatorStateTransition:
     m_EventTreshold: 0
   - m_ConditionMode: 2
     m_ConditionEvent: Move
-    m_EventTreshold: 0
-  - m_ConditionMode: 2
-    m_ConditionEvent: Down
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 196644597844795712}
