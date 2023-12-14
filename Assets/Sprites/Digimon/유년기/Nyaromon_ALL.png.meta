@@ -37,55 +37,55 @@ TextureImporter:
     second: Nyaromon_ALL_10
   - first:
       213: -7782828700021204353
-    second: Nyaromon_ALL_11
+    second: Nyaromon_Skill_0
   - first:
       213: -6008503231596254104
-    second: Nyaromon_ALL_12
+    second: Nyaromon_Skill_1
   - first:
       213: -2566496692945887225
-    second: Nyaromon_ALL_13
+    second: Nyaromon_Skill_2
   - first:
       213: 1783989157178965818
-    second: Nyaromon_ALL_14
+    second: Nyaromon_Skill_3
   - first:
       213: -208738110953480181
-    second: Nyaromon_ALL_15
+    second: Nyaromon_Skill_4
   - first:
       213: -604748189615107994
-    second: Nyaromon_ALL_16
+    second: Nyaromon_Skill_5
   - first:
       213: 1081880220658198300
-    second: Nyaromon_ALL_17
+    second: Nyaromon_Skill_6
   - first:
       213: -1424976963841823005
-    second: Nyaromon_ALL_18
+    second: Nyaromon_Skill_7
   - first:
       213: -7217847990211244443
-    second: Nyaromon_ALL_19
+    second: Nyaromon_Skill_8
   - first:
       213: -7030519434879036429
-    second: Nyaromon_ALL_20
+    second: Nyaromon_Move_0
   - first:
       213: 3361128571697147858
-    second: Nyaromon_ALL_21
+    second: Nyaromon_Move_1
   - first:
       213: -2051075201918333353
-    second: Nyaromon_ALL_22
+    second: Nyaromon_Move_2
   - first:
       213: -6805341079953404989
-    second: Nyaromon_ALL_23
+    second: Nyaromon_Move_3
   - first:
       213: -4162219278500282211
-    second: Nyaromon_ALL_24
+    second: Nyaromon_Move_4
   - first:
       213: 2787025240318387436
-    second: Nyaromon_ALL_25
+    second: Nyaromon_Move_5
   - first:
       213: 1052875154165421185
-    second: Nyaromon_ALL_26
+    second: Nyaromon_Move_6
   - first:
       213: -7256397325088501524
-    second: Nyaromon_ALL_27
+    second: Nyaromon_Move_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -426,7 +426,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_11
+      name: Nyaromon_Skill_0
       rect:
         serializedVersion: 2
         x: 128
@@ -447,7 +447,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_12
+      name: Nyaromon_Skill_1
       rect:
         serializedVersion: 2
         x: 256
@@ -468,7 +468,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_13
+      name: Nyaromon_Skill_2
       rect:
         serializedVersion: 2
         x: 384
@@ -489,7 +489,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_14
+      name: Nyaromon_Skill_3
       rect:
         serializedVersion: 2
         x: 512
@@ -510,7 +510,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_15
+      name: Nyaromon_Skill_4
       rect:
         serializedVersion: 2
         x: 0
@@ -531,7 +531,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_16
+      name: Nyaromon_Skill_5
       rect:
         serializedVersion: 2
         x: 128
@@ -552,7 +552,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_17
+      name: Nyaromon_Skill_6
       rect:
         serializedVersion: 2
         x: 256
@@ -573,7 +573,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_18
+      name: Nyaromon_Skill_7
       rect:
         serializedVersion: 2
         x: 384
@@ -594,7 +594,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_19
+      name: Nyaromon_Skill_8
       rect:
         serializedVersion: 2
         x: 512
@@ -615,7 +615,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_20
+      name: Nyaromon_Move_0
       rect:
         serializedVersion: 2
         x: 0
@@ -636,7 +636,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_21
+      name: Nyaromon_Move_1
       rect:
         serializedVersion: 2
         x: 128
@@ -657,7 +657,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_22
+      name: Nyaromon_Move_2
       rect:
         serializedVersion: 2
         x: 256
@@ -678,7 +678,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_23
+      name: Nyaromon_Move_3
       rect:
         serializedVersion: 2
         x: 384
@@ -699,7 +699,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_24
+      name: Nyaromon_Move_4
       rect:
         serializedVersion: 2
         x: 512
@@ -720,7 +720,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_25
+      name: Nyaromon_Move_5
       rect:
         serializedVersion: 2
         x: 0
@@ -741,7 +741,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_26
+      name: Nyaromon_Move_6
       rect:
         serializedVersion: 2
         x: 128
@@ -762,7 +762,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nyaromon_ALL_27
+      name: Nyaromon_Move_7
       rect:
         serializedVersion: 2
         x: 256

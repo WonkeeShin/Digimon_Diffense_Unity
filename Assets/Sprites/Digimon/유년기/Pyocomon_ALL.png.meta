@@ -37,52 +37,52 @@ TextureImporter:
     second: Pyocomon_ALL_10
   - first:
       213: 2601708469063174225
-    second: Pyocomon_ALL_11
+    second: Pyocomon_Skill_0
   - first:
       213: 7214039062304430878
-    second: Pyocomon_ALL_12
+    second: Pyocomon_Skill_1
   - first:
       213: -5206836021992730254
-    second: Pyocomon_ALL_13
+    second: Pyocomon_Skill_2
   - first:
       213: 5893092298030323095
-    second: Pyocomon_ALL_14
+    second: Pyocomon_Skill_3
   - first:
       213: 3409019144764266797
-    second: Pyocomon_ALL_15
+    second: Pyocomon_Skill_4
   - first:
       213: 4237772191597195916
-    second: Pyocomon_ALL_16
+    second: Pyocomon_Skill_5
   - first:
       213: 6978252106652881571
-    second: Pyocomon_ALL_17
+    second: Pyocomon_Move_0
   - first:
       213: -3743533649949013708
-    second: Pyocomon_ALL_18
+    second: Pyocomon_Move_1
   - first:
       213: 8872330714981885216
-    second: Pyocomon_ALL_19
+    second: Pyocomon_Move_2
   - first:
       213: 9192022462436539525
-    second: Pyocomon_ALL_20
+    second: Pyocomon_Move_3
   - first:
       213: 8580134766549357464
-    second: Pyocomon_ALL_21
+    second: Pyocomon_Move_4
   - first:
       213: -8745297436350744273
-    second: Pyocomon_ALL_22
+    second: Pyocomon_Move_5
   - first:
       213: 3451555741999851631
-    second: Pyocomon_ALL_23
+    second: Pyocomon_Move_6
   - first:
       213: -3145829357919832104
-    second: Pyocomon_ALL_24
+    second: Pyocomon_Move_7
   - first:
       213: -7517436081945434822
-    second: Pyocomon_ALL_25
+    second: Pyocomon_Move_8
   - first:
       213: 4842822296835185065
-    second: Pyocomon_ALL_26
+    second: Pyocomon_Move_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -423,7 +423,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_11
+      name: Pyocomon_Skill_0
       rect:
         serializedVersion: 2
         x: 128
@@ -444,7 +444,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_12
+      name: Pyocomon_Skill_1
       rect:
         serializedVersion: 2
         x: 256
@@ -465,7 +465,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_13
+      name: Pyocomon_Skill_2
       rect:
         serializedVersion: 2
         x: 384
@@ -486,7 +486,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_14
+      name: Pyocomon_Skill_3
       rect:
         serializedVersion: 2
         x: 512
@@ -507,7 +507,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_15
+      name: Pyocomon_Skill_4
       rect:
         serializedVersion: 2
         x: 0
@@ -528,7 +528,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_16
+      name: Pyocomon_Skill_5
       rect:
         serializedVersion: 2
         x: 128
@@ -549,7 +549,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_17
+      name: Pyocomon_Move_0
       rect:
         serializedVersion: 2
         x: 256
@@ -570,7 +570,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_18
+      name: Pyocomon_Move_1
       rect:
         serializedVersion: 2
         x: 384
@@ -591,7 +591,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_19
+      name: Pyocomon_Move_2
       rect:
         serializedVersion: 2
         x: 512
@@ -612,7 +612,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_20
+      name: Pyocomon_Move_3
       rect:
         serializedVersion: 2
         x: 0
@@ -633,7 +633,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_21
+      name: Pyocomon_Move_4
       rect:
         serializedVersion: 2
         x: 128
@@ -654,7 +654,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_22
+      name: Pyocomon_Move_5
       rect:
         serializedVersion: 2
         x: 256
@@ -675,7 +675,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_23
+      name: Pyocomon_Move_6
       rect:
         serializedVersion: 2
         x: 384
@@ -696,7 +696,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_24
+      name: Pyocomon_Move_7
       rect:
         serializedVersion: 2
         x: 512
@@ -717,7 +717,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_25
+      name: Pyocomon_Move_8
       rect:
         serializedVersion: 2
         x: 0
@@ -738,7 +738,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pyocomon_ALL_26
+      name: Pyocomon_Move_9
       rect:
         serializedVersion: 2
         x: 128

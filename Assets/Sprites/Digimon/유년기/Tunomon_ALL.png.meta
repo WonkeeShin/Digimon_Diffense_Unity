@@ -4,22 +4,22 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 4140561354913970840
-    second: Tunomon_ALL_0
+    second: Tunomon_Attack_0
   - first:
       213: -5806973429499987401
-    second: Tunomon_ALL_1
+    second: Tunomon_Attack_1
   - first:
       213: -2703056967593606174
-    second: Tunomon_ALL_2
+    second: Tunomon_Attack_2
   - first:
       213: 7349417955671164677
-    second: Tunomon_ALL_3
+    second: Tunomon_Attack_3
   - first:
       213: 2913096149800947495
-    second: Tunomon_ALL_4
+    second: Tunomon_Attack_4
   - first:
       213: -2249121074727672431
-    second: Tunomon_ALL_5
+    second: Tunomon_Attack_5
   - first:
       213: -7711798398750426506
     second: Tunomon_ALL_6
@@ -28,52 +28,52 @@ TextureImporter:
     second: Tunomon_ALL_7
   - first:
       213: -5244698199660019516
-    second: Tunomon_ALL_8
+    second: Tunomon_Skill_0
   - first:
       213: -3347431787120734592
-    second: Tunomon_ALL_9
+    second: Tunomon_Skill_1
   - first:
       213: -8288772237320204517
-    second: Tunomon_ALL_10
+    second: Tunomon_Skill_2
   - first:
       213: 2224899599750555695
-    second: Tunomon_ALL_11
+    second: Tunomon_Skill_3
   - first:
       213: 3696296166659680488
-    second: Tunomon_ALL_12
+    second: Tunomon_Skill_4
   - first:
       213: -4251947309887987417
-    second: Tunomon_ALL_13
+    second: Tunomon_Skill_5
   - first:
       213: 6523180697939476357
-    second: Tunomon_ALL_14
+    second: Tunomon_Skill_6
   - first:
       213: 4623892102938558549
-    second: Tunomon_ALL_15
+    second: Tunomon_Move_0
   - first:
       213: 4742256003128980352
-    second: Tunomon_ALL_16
+    second: Tunomon_Move_1
   - first:
       213: -637562618447520361
-    second: Tunomon_ALL_17
+    second: Tunomon_Move_2
   - first:
       213: 4412930814543886608
-    second: Tunomon_ALL_18
+    second: Tunomon_Move_3
   - first:
       213: -6415128688942360490
-    second: Tunomon_ALL_19
+    second: Tunomon_Move_4
   - first:
       213: 3735473382063902506
-    second: Tunomon_ALL_20
+    second: Tunomon_Move_5
   - first:
       213: -2109741055964721803
-    second: Tunomon_ALL_21
+    second: Tunomon_Move_6
   - first:
       213: 4489631052443325770
-    second: Tunomon_ALL_22
+    second: Tunomon_Move_7
   - first:
       213: 2971768643350908952
-    second: Tunomon_ALL_23
+    second: Tunomon_Move_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -183,7 +183,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tunomon_ALL_0
+      name: Tunomon_Attack_0
       rect:
         serializedVersion: 2
         x: 0
@@ -204,7 +204,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_1
+      name: Tunomon_Attack_1
       rect:
         serializedVersion: 2
         x: 128
@@ -225,7 +225,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_2
+      name: Tunomon_Attack_2
       rect:
         serializedVersion: 2
         x: 256
@@ -246,7 +246,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_3
+      name: Tunomon_Attack_3
       rect:
         serializedVersion: 2
         x: 384
@@ -267,7 +267,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_4
+      name: Tunomon_Attack_4
       rect:
         serializedVersion: 2
         x: 512
@@ -288,7 +288,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_5
+      name: Tunomon_Attack_5
       rect:
         serializedVersion: 2
         x: 0
@@ -351,7 +351,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_8
+      name: Tunomon_Skill_0
       rect:
         serializedVersion: 2
         x: 384
@@ -372,7 +372,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_9
+      name: Tunomon_Skill_1
       rect:
         serializedVersion: 2
         x: 512
@@ -393,7 +393,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_10
+      name: Tunomon_Skill_2
       rect:
         serializedVersion: 2
         x: 0
@@ -414,7 +414,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_11
+      name: Tunomon_Skill_3
       rect:
         serializedVersion: 2
         x: 128
@@ -435,7 +435,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_12
+      name: Tunomon_Skill_4
       rect:
         serializedVersion: 2
         x: 256
@@ -456,7 +456,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_13
+      name: Tunomon_Skill_5
       rect:
         serializedVersion: 2
         x: 384
@@ -477,7 +477,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_14
+      name: Tunomon_Skill_6
       rect:
         serializedVersion: 2
         x: 512
@@ -498,7 +498,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_15
+      name: Tunomon_Move_0
       rect:
         serializedVersion: 2
         x: 0
@@ -519,7 +519,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_16
+      name: Tunomon_Move_1
       rect:
         serializedVersion: 2
         x: 128
@@ -540,7 +540,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_17
+      name: Tunomon_Move_2
       rect:
         serializedVersion: 2
         x: 256
@@ -561,7 +561,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_18
+      name: Tunomon_Move_3
       rect:
         serializedVersion: 2
         x: 384
@@ -582,7 +582,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_19
+      name: Tunomon_Move_4
       rect:
         serializedVersion: 2
         x: 512
@@ -603,7 +603,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_20
+      name: Tunomon_Move_5
       rect:
         serializedVersion: 2
         x: 0
@@ -624,7 +624,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_21
+      name: Tunomon_Move_6
       rect:
         serializedVersion: 2
         x: 128
@@ -645,7 +645,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_22
+      name: Tunomon_Move_7
       rect:
         serializedVersion: 2
         x: 256
@@ -666,7 +666,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tunomon_ALL_23
+      name: Tunomon_Move_8
       rect:
         serializedVersion: 2
         x: 384
