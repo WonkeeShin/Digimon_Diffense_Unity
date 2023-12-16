@@ -4,10 +4,10 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -5113874746934473267
-    second: Koromon_ALL_0
+    second: Koromon_Idle_0
   - first:
       213: -3410547856047136884
-    second: Koromon_ALL_1
+    second: Koromon_Idle_1
   - first:
       213: -6112756104296121228
     second: Koromon_ALL_2
@@ -40,22 +40,22 @@ TextureImporter:
     second: Koromon_ALL_11
   - first:
       213: -1168178907952434610
-    second: Koromon_ALL_12
+    second: Koromon_Skill_0
   - first:
       213: -7235824988381679407
-    second: Koromon_ALL_13
+    second: Koromon_Skill_1
   - first:
       213: -4328567350678265987
-    second: Koromon_ALL_14
+    second: Koromon_Skill_2
   - first:
       213: 5312773312389264929
-    second: Koromon_ALL_15
+    second: Koromon_Skill_3
   - first:
       213: 536264625543442189
-    second: Koromon_ALL_16
+    second: Koromon_Skill_4
   - first:
       213: -6908120343145521996
-    second: Koromon_ALL_17
+    second: Koromon_Skill_5
   - first:
       213: -5272389169882030763
     second: Koromon_ALL_18
@@ -213,7 +213,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Koromon_ALL_0
+      name: Koromon_Idle_0
       rect:
         serializedVersion: 2
         x: 0
@@ -234,7 +234,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Koromon_ALL_1
+      name: Koromon_Idle_1
       rect:
         serializedVersion: 2
         x: 128
@@ -242,7 +242,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.4533421, y: 0.1336484}
+      pivot: {x: 0.4533421, y: 0.1590867}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -465,7 +465,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Koromon_ALL_12
+      name: Koromon_Skill_0
       rect:
         serializedVersion: 2
         x: 0
@@ -486,7 +486,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Koromon_ALL_13
+      name: Koromon_Skill_1
       rect:
         serializedVersion: 2
         x: 128
@@ -507,7 +507,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Koromon_ALL_14
+      name: Koromon_Skill_2
       rect:
         serializedVersion: 2
         x: 256
@@ -528,7 +528,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Koromon_ALL_15
+      name: Koromon_Skill_3
       rect:
         serializedVersion: 2
         x: 384
@@ -549,7 +549,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Koromon_ALL_16
+      name: Koromon_Skill_4
       rect:
         serializedVersion: 2
         x: 512
@@ -570,7 +570,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Koromon_ALL_17
+      name: Koromon_Skill_5
       rect:
         serializedVersion: 2
         x: 640

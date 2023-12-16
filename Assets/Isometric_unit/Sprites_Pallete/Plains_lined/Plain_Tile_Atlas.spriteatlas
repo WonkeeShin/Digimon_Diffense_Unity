@@ -901,6 +901,12 @@ SpriteAtlas:
   - {fileID: -854847211595920939, guid: 71d1b00c2a9d1214eb7f1438f7585b56, type: 3}
   - {fileID: 21300000, guid: 5736f20c965479e408fa4d4fc8f191f1, type: 3}
   - {fileID: 21300000, guid: ec8ccc2cf6da86f4ab9b11f4a2ab3d2d, type: 3}
+  - {fileID: -7235824988381679407, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -1168178907952434610, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 5312773312389264929, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -4328567350678265987, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -6908120343145521996, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 536264625543442189, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: -4351903193241551974, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: -7523894590654354016, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: 1442815264012704781, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
@@ -915,16 +921,10 @@ SpriteAtlas:
   - {fileID: -1450055615228765671, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: 1824776669286882313, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: 3748103218025175745, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
-  - {fileID: -1168178907952434610, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
-  - {fileID: -7235824988381679407, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: -6809563469076354758, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: 4094884405738963702, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: -8869591117129723544, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: 6642495270744479191, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
-  - {fileID: 536264625543442189, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
-  - {fileID: -6908120343145521996, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
-  - {fileID: -4328567350678265987, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
-  - {fileID: 5312773312389264929, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: 7614927487254442888, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: -2652833120763681166, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: 4675727311048767390, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
@@ -933,8 +933,8 @@ SpriteAtlas:
   - {fileID: -4057461927882727429, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: 5580900374168048687, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: -6112756104296121228, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
-  - {fileID: -3410547856047136884, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: -5113874746934473267, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: -3410547856047136884, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: 21300000, guid: fc35b99c608814a459c8fcca6569bb7c, type: 3}
   - {fileID: 1151868053235252899, guid: 1637e6ac80383ab4b86723988f921a1e, type: 3}
   - {fileID: -7311288409734420531, guid: 1637e6ac80383ab4b86723988f921a1e, type: 3}
@@ -1818,6 +1818,12 @@ SpriteAtlas:
   - State_Show_11
   - map_level0_thumbnail
   - plains-sliced_69
+  - Koromon_Skill_1
+  - Koromon_Skill_0
+  - Koromon_Skill_3
+  - Koromon_Skill_2
+  - Koromon_Skill_5
+  - Koromon_Skill_4
   - Koromon_ALL_27
   - Koromon_ALL_30
   - Koromon_ALL_26
@@ -1832,16 +1838,10 @@ SpriteAtlas:
   - Koromon_ALL_21
   - Koromon_ALL_19
   - Koromon_ALL_20
-  - Koromon_ALL_12
-  - Koromon_ALL_13
   - Koromon_ALL_10
   - Koromon_ALL_29
   - Koromon_ALL_11
   - Koromon_ALL_28
-  - Koromon_ALL_16
-  - Koromon_ALL_17
-  - Koromon_ALL_14
-  - Koromon_ALL_15
   - Koromon_ALL_9
   - Koromon_ALL_8
   - Koromon_ALL_7
@@ -1850,8 +1850,8 @@ SpriteAtlas:
   - Koromon_ALL_4
   - Koromon_ALL_3
   - Koromon_ALL_2
-  - Koromon_ALL_1
-  - Koromon_ALL_0
+  - Koromon_Idle_0
+  - Koromon_Idle_1
   - plains-sliced_66
   - Gabumon_Move_3
   - Gabumon_Move_2
