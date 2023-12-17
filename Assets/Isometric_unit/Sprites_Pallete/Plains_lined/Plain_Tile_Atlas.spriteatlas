@@ -176,6 +176,81 @@ SpriteAtlas:
   - {fileID: -7711798398750426506, guid: b70fda5098820924ca3ff85ea1de6081, type: 3}
   - {fileID: -1676702508122541645, guid: b70fda5098820924ca3ff85ea1de6081, type: 3}
   - {fileID: 21300000, guid: 9486ec60703db824bab9034b5ff4d4e5, type: 3}
+  - {fileID: 8380299958286582158, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -5751283506276016112, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -530051539933242020, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 7998815648976982247, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -3874865677294453571, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -7230265361999262459, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 4006017082665017373, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 7776557609352888151, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 5912488562977620502, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -8149866102403343631, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 1549745211255592314, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 8270665527302338166, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 5350732748072579545, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -4591480843589861749, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -6811255205845785738, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 1576504284279398559, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -2373310711671067871, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -8429264189513959225, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 7298025459417685709, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 2950296777574198467, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 6140723391900208402, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -3672904028447276578, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -4120243340164651855, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 2272297979570213994, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -2523412124459419441, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 1341102155822288082, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 7211208261115698595, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -972616614254499487, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -1969240815434497440, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -2767201823895629068, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -8935478262260277379, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 3444213915018777849, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -3562207074803274876, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 1851553317344419669, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 5025049963200367529, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 737665679291190974, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -8911966122802157845, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 9111133911089940623, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 420511499606946863, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -7863949398009098900, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 5827343422336673714, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -9962665034797045, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -677119781796245633, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -8426588382219323611, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 6577554205902361951, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 4790562027324257259, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -4833485538135910989, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -7405189466639546271, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -2108319747583315358, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -271814848236032158, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -3998783509405698245, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -1381634667198017736, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -4696346599055216662, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 3557318477126853961, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -2301883759573027815, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 7357989577311925040, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -6627623693571321795, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -2804061435497040600, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -5253556600697165666, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 670313723256301698, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -1765505122232643904, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 3493712082435245192, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -8450012877049157660, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 7398677223276143303, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -4566489067332141820, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -8669277784959676219, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -7325979791820305438, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -2172999731247280984, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: 4653547701841134135, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -1566057982042299630, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -5284893208331796924, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -3818886283577754220, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -4053707638501932762, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -2050723460550290527, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
+  - {fileID: -5966111320976164950, guid: 02b57f6002f441a4086281ee46e009f2, type: 3}
   - {fileID: 21300000, guid: 4433e7708318fea4b9fc06309189d754, type: 3}
   - {fileID: -9019345175075704313, guid: 59a8f79084996b74788a2ba6651a5c2c, type: 3}
   - {fileID: -5779470453562590, guid: 59a8f79084996b74788a2ba6651a5c2c, type: 3}
@@ -1093,6 +1168,81 @@ SpriteAtlas:
   - Tunomon_ALL_6
   - Tunomon_ALL_7
   - plains-sliced_12
+  - SkillThumbnails_0
+  - SkillThumbnails_1
+  - SkillThumbnails_2
+  - SkillThumbnails_3
+  - SkillThumbnails_4
+  - SkillThumbnails_5
+  - SkillThumbnails_6
+  - SkillThumbnails_7
+  - SkillThumbnails_19
+  - SkillThumbnails_18
+  - SkillThumbnails_13
+  - SkillThumbnails_12
+  - SkillThumbnails_28
+  - SkillThumbnails_11
+  - SkillThumbnails_29
+  - SkillThumbnails_10
+  - SkillThumbnails_26
+  - SkillThumbnails_74
+  - SkillThumbnails_17
+  - SkillThumbnails_27
+  - SkillThumbnails_16
+  - SkillThumbnails_24
+  - SkillThumbnails_15
+  - SkillThumbnails_25
+  - SkillThumbnails_71
+  - SkillThumbnails_14
+  - SkillThumbnails_22
+  - SkillThumbnails_70
+  - SkillThumbnails_23
+  - SkillThumbnails_73
+  - SkillThumbnails_20
+  - SkillThumbnails_72
+  - SkillThumbnails_21
+  - SkillThumbnails_31
+  - SkillThumbnails_30
+  - SkillThumbnails_33
+  - SkillThumbnails_32
+  - SkillThumbnails_44
+  - SkillThumbnails_35
+  - SkillThumbnails_45
+  - SkillThumbnails_34
+  - SkillThumbnails_46
+  - SkillThumbnails_37
+  - SkillThumbnails_47
+  - SkillThumbnails_57
+  - SkillThumbnails_36
+  - SkillThumbnails_40
+  - SkillThumbnails_56
+  - SkillThumbnails_39
+  - SkillThumbnails_41
+  - SkillThumbnails_55
+  - SkillThumbnails_38
+  - SkillThumbnails_42
+  - SkillThumbnails_54
+  - SkillThumbnails_43
+  - SkillThumbnails_53
+  - SkillThumbnails_52
+  - SkillThumbnails_68
+  - SkillThumbnails_51
+  - SkillThumbnails_69
+  - SkillThumbnails_50
+  - SkillThumbnails_48
+  - SkillThumbnails_49
+  - SkillThumbnails_62
+  - SkillThumbnails_63
+  - SkillThumbnails_60
+  - SkillThumbnails_59
+  - SkillThumbnails_61
+  - SkillThumbnails_58
+  - SkillThumbnails_66
+  - SkillThumbnails_67
+  - SkillThumbnails_64
+  - SkillThumbnails_65
+  - SkillThumbnails_8
+  - SkillThumbnails_9
   - plains-sliced_04
   - Thumbnails_SpritesSheets_13
   - Thumbnails_SpritesSheets_40

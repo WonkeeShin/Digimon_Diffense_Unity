@@ -93,14 +93,14 @@ AnimationClip:
   m_Events:
   - time: 0.75
     functionName: TriggerUnityEvent
-    data: Digi_Attack_RangeBullet
+    data: Digi_Attack
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
   - time: 0.78333336
     functionName: TriggerUnityEvent
-    data: Audio_Attack_RangeBullet
+    data: Audio_Attack
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0

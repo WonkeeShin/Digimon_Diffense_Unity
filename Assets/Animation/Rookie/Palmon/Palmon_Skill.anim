@@ -259,14 +259,14 @@ AnimationClip:
   m_Events:
   - time: 0.7
     functionName: TriggerUnityEvent
-    data: Hit_Skill
+    data: Digi_Skill
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
   - time: 0.9166667
     functionName: TriggerUnityEvent
-    data: Audio
+    data: Skill_Audio
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
