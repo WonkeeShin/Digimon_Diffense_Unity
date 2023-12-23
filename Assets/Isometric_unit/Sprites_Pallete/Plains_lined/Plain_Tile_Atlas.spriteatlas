@@ -556,6 +556,7 @@ SpriteAtlas:
   - {fileID: 1567149026625390447, guid: 9d009d023f1db12419391c67b120f3bb, type: 3}
   - {fileID: 3742715210537763610, guid: 9d009d023f1db12419391c67b120f3bb, type: 3}
   - {fileID: 21300000, guid: 559cfe0279a15f7458045773d59f8946, type: 3}
+  - {fileID: 3606880064019735722, guid: 74c3633254a6cf54c883963aa24ecb56, type: 3}
   - {fileID: -3120908901888593041, guid: 74c3633254a6cf54c883963aa24ecb56, type: 3}
   - {fileID: -8111967794206481599, guid: 74c3633254a6cf54c883963aa24ecb56, type: 3}
   - {fileID: -8258144251412518906, guid: 74c3633254a6cf54c883963aa24ecb56, type: 3}
@@ -686,6 +687,7 @@ SpriteAtlas:
   - {fileID: 3007967902332942480, guid: bdc3c0d4128c59344a413c44ec62311d, type: 3}
   - {fileID: 540722224278878453, guid: bdc3c0d4128c59344a413c44ec62311d, type: 3}
   - {fileID: -157218627090334961, guid: bdc3c0d4128c59344a413c44ec62311d, type: 3}
+  - {fileID: 4215105018827989323, guid: bdc3c0d4128c59344a413c44ec62311d, type: 3}
   - {fileID: -7076027680534818471, guid: 79b004d440398bc44915ea9c0aa429de, type: 3}
   - {fileID: -2450077156906529064, guid: 79b004d440398bc44915ea9c0aa429de, type: 3}
   - {fileID: 21300000, guid: f77b6ad4814d7df4e87c18c6152477f4, type: 3}
@@ -1548,6 +1550,7 @@ SpriteAtlas:
   - HP_Bar_Blue_Red_3
   - HP_Bar_Blue_Red_2
   - plains-sliced_28
+  - Skill_Panel_4
   - Skill_Panel_0
   - Skill_Panel_1
   - Skill_Panel_2
@@ -1678,6 +1681,7 @@ SpriteAtlas:
   - Position_OK_3
   - Position_OK_0
   - Position_OK_1
+  - Position_OK_4
   - "\uB514\uC9C0\uBAAC \uC5B4\uB4DC\uBCA4\uCCD0_\uBC30\uACBD2_0"
   - "\uB514\uC9C0\uBAAC \uC5B4\uB4DC\uBCA4\uCCD0_\uBC30\uACBD2_1"
   - Loading_Background
