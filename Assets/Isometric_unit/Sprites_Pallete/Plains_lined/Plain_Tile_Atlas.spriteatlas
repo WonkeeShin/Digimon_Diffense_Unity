@@ -603,6 +603,9 @@ SpriteAtlas:
   - {fileID: 3459638882771395991, guid: 015d9882231d23f4686cbe78dcae6e72, type: 3}
   - {fileID: -2842942500345043624, guid: 015d9882231d23f4686cbe78dcae6e72, type: 3}
   - {fileID: 21300000, guid: 72f632c26479c4b4d8aaebab7de81240, type: 3}
+  - {fileID: 4752743768534162971, guid: c2c2501321d97ae41b0078aceb24cb72, type: 3}
+  - {fileID: 5001709895323133139, guid: c2c2501321d97ae41b0078aceb24cb72, type: 3}
+  - {fileID: -6564258841572736062, guid: c2c2501321d97ae41b0078aceb24cb72, type: 3}
   - {fileID: -7554221869274001308, guid: c99ef033dbabfae4c82ab163bd2ad0af, type: 3}
   - {fileID: -6713630249523876266, guid: c99ef033dbabfae4c82ab163bd2ad0af, type: 3}
   - {fileID: -7835373046700226276, guid: c99ef033dbabfae4c82ab163bd2ad0af, type: 3}
@@ -845,6 +848,18 @@ SpriteAtlas:
   - {fileID: 21300000, guid: c2a5db47a6072cb498764ff46857fe89, type: 3}
   - {fileID: 21300000, guid: 6199e367306afba4fb2b434ada112692, type: 3}
   - {fileID: 21300000, guid: d34898d776bf97247845ce31835224c6, type: 3}
+  - {fileID: -2320569589657566064, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
+  - {fileID: -7533722279181260429, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
+  - {fileID: 5481052502604446445, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
+  - {fileID: 9052419364158482285, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
+  - {fileID: 4110202659742674586, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
+  - {fileID: -2931791329864757026, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
+  - {fileID: 6892104368735941856, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
+  - {fileID: -6073849430201388376, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
+  - {fileID: -369349228679788013, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
+  - {fileID: 3750675473997233458, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
+  - {fileID: 1410199423971459542, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
+  - {fileID: 2780842128334528912, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
   - {fileID: 21300000, guid: 92e813087e0aa6c4fbddcf016a89438b, type: 3}
   - {fileID: 21300000, guid: 97e92c08b5c6b7741ac496f2063b16ac, type: 3}
   - {fileID: 21300000, guid: af70b1281179b934a96a54cabe36734d, type: 3}
@@ -1597,6 +1612,9 @@ SpriteAtlas:
   - Tanemon_ALL_2
   - Tanemon_ALL_3
   - plains-sliced_20
+  - "\uAC8C\uC784\uC2DC\uC791\uBC84\uD2BC"
+  - "dictionary\uBC84\uD2BC_2"
+  - store_button
   - Kuramon_All_3
   - Kuramon_All_2
   - Kuramon_All_1
@@ -1839,6 +1857,18 @@ SpriteAtlas:
   - Palmon_thumbnail_selected
   - plains-sliced_67
   - plains-sliced_25
+  - Digimon_Stone_NO_2
+  - Digimon_Stone_8
+  - Digimon_Stone_3
+  - Digimon_Stone_2
+  - Digimon_Stone_1
+  - Digimon_Stone_7
+  - Digimon_Stone_6
+  - Digimon_Stone_5
+  - Digimon_Stone_4
+  - Digimon_Stone_ALL
+  - Digimon_Stone_NO_LIGHT
+  - Digimon_Stone_NO_HOPE
   - map_level1_thumbnail
   - plains-sliced_19
   - plains-sliced_14
