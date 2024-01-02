@@ -22,11 +22,6 @@ public class GameStartButton : MonoBehaviour
 
     void OnMouseDown()
     {
-        MapOkBool = (bool)Variables.Object(Next_Scene).Get("Map_Go_Ok_Bool");
-        if (MapOkBool)
-        {
-            SceneLoader.Instance.LoadScene("Map_Select_Menu");
-        }
 
 
 
@@ -36,6 +31,12 @@ public class GameStartButton : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        MapOkBool = (bool)Variables.Object(Next_Scene).Get("Map_Go_Ok_Bool");
+        if (MapOkBool)
+        {
+            SceneLoader.Instance.LoadScene("Map_Select_Menu");
+            Variables.Object(Next_Scene).Set("Map_Go_Ok_Bool", false);
+        }
 
     }
 }

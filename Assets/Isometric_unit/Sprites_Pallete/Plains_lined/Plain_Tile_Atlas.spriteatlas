@@ -782,6 +782,24 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 5142ba26d97d3414e83111f3e2baba28, type: 3}
   - {fileID: 21300000, guid: 4c5d6c26c79b6d546b6b99b422bdb648, type: 3}
   - {fileID: 21300000, guid: 2870f636fc0c02d45a7499c78eb70cbe, type: 3}
+  - {fileID: 4883405258779688627, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: 672756685899628062, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: -5609047331047041808, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: -4267401369167060305, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: 5543291204119890125, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: -8886057800482412035, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: -7232032569159961065, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: -5321477141552796300, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: 3830820610198433131, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: 398882221972496116, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: 7633504764308488291, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: 890342232832240089, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: 1744474997182023452, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: 6979930321336747299, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: -5934579584311857771, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: -4922271003104271608, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: 8283337854626060140, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: 823347980583336560, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
   - {fileID: 21300000, guid: 68396746cff380d418e59ac494066b2d, type: 3}
   - {fileID: 21300000, guid: b7a87c46d943839468aaf8677796b26c, type: 3}
   - {fileID: 8050656719150563664, guid: b2aabfc674f023c4fb264a4c92c5d790, type: 3}
@@ -1791,6 +1809,24 @@ SpriteAtlas:
   - skill_range
   - plains-sliced_59
   - plains-sliced_13
+  - Store4
+  - Store5
+  - Store2
+  - Store3
+  - Store0
+  - Store1
+  - GameStart_4
+  - GameStart_5
+  - GameStart_2
+  - GameStart_3
+  - GameStart_0
+  - GameStart_1
+  - Book0
+  - Book1
+  - Book2
+  - Book3
+  - Book4
+  - Book5
   - plains-sliced_26
   - Botamon_NoColide
   - map_thumbnail_frame_1
