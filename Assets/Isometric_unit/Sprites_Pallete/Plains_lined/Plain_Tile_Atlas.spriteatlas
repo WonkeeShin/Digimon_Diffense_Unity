@@ -1095,6 +1095,14 @@ SpriteAtlas:
   - {fileID: 21300000, guid: f267d20f82a65da4cbee160660b4fd3e, type: 3}
   - {fileID: 21300000, guid: 42fdd80f10d626f43b8eba626aaba010, type: 3}
   - {fileID: 21300000, guid: 20ba432f5a48c9644bfa97cc455bee96, type: 3}
+  - {fileID: -2747881243376208308, guid: 9f2c553ff005fee47be3e6ad0d33da44, type: 3}
+  - {fileID: -1598928403757754207, guid: 9f2c553ff005fee47be3e6ad0d33da44, type: 3}
+  - {fileID: 1667391367555923783, guid: 9f2c553ff005fee47be3e6ad0d33da44, type: 3}
+  - {fileID: 5576130828016669491, guid: 9f2c553ff005fee47be3e6ad0d33da44, type: 3}
+  - {fileID: 7767031824654558794, guid: 9f2c553ff005fee47be3e6ad0d33da44, type: 3}
+  - {fileID: 7283164562251548501, guid: 9f2c553ff005fee47be3e6ad0d33da44, type: 3}
+  - {fileID: 6974197376549479716, guid: 9f2c553ff005fee47be3e6ad0d33da44, type: 3}
+  - {fileID: -1640028522436731292, guid: 9f2c553ff005fee47be3e6ad0d33da44, type: 3}
   - {fileID: 21300000, guid: c136e63f4d472cb4087d99948c211288, type: 3}
   - {fileID: 21300000, guid: 47b5725ff292d4640b9d51ef4c74a00c, type: 3}
   - {fileID: 21300000, guid: e303435fb8d0a984db593aaa7975cb51, type: 3}
@@ -2122,6 +2130,14 @@ SpriteAtlas:
   - plains-sliced_09
   - "\uB514\uC9C0\uBAAC \uC5B4\uB4DC\uBCA4\uCCD0_\uBC30\uACBD"
   - plains-sliced_06
+  - Choromon_Idle_0
+  - Choromon_Idle_1
+  - Choromon_Attack3
+  - Choromon_Attack2
+  - Choromon_Attack1
+  - Choromon_Attack0
+  - Choromon_Move0
+  - Choromon_Move1
   - plains-sliced_37
   - plains-sliced_68
   - plains-sliced_01
