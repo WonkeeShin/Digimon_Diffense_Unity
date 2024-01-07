@@ -124,6 +124,11 @@ SpriteAtlas:
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: 32e921203e689254cbd121cdd3fe73d3, type: 3}
+  - {fileID: 1526361588599706752, guid: 43b40840d063efe4588b9b66c2762049, type: 3}
+  - {fileID: 3910127740365804044, guid: 43b40840d063efe4588b9b66c2762049, type: 3}
+  - {fileID: 1090510013700092071, guid: 43b40840d063efe4588b9b66c2762049, type: 3}
+  - {fileID: 5947488357058584259, guid: 43b40840d063efe4588b9b66c2762049, type: 3}
+  - {fileID: 123001377119840297, guid: 43b40840d063efe4588b9b66c2762049, type: 3}
   - {fileID: 37388687572987326, guid: 28b70e40262bc4d47a6d90baae9551e7, type: 3}
   - {fileID: -4419192724689468039, guid: 28b70e40262bc4d47a6d90baae9551e7, type: 3}
   - {fileID: 1599059488010774885, guid: 28b70e40262bc4d47a6d90baae9551e7, type: 3}
@@ -1045,6 +1050,7 @@ SpriteAtlas:
   - {fileID: -6112756104296121228, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: -5113874746934473267, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
   - {fileID: -3410547856047136884, guid: a5cdf84cf5d009146b7e37dc31e88a7f, type: 3}
+  - {fileID: 21300000, guid: ad5ba59c9c7d0db48bdb55be7fae0ff0, type: 3}
   - {fileID: 21300000, guid: fc35b99c608814a459c8fcca6569bb7c, type: 3}
   - {fileID: 1151868053235252899, guid: 1637e6ac80383ab4b86723988f921a1e, type: 3}
   - {fileID: -7311288409734420531, guid: 1637e6ac80383ab4b86723988f921a1e, type: 3}
@@ -1089,6 +1095,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 076d425e4c09f194b953432a5bca20cb, type: 3}
   - {fileID: 21300000, guid: cafb786ece3350b4f8429c143af4659b, type: 3}
   - {fileID: 21300000, guid: 9b377ebe8326e3a49a4467ff5eea47b8, type: 3}
+  - {fileID: 21300000, guid: d2218fce52733054487109f5dba7357d, type: 3}
   - {fileID: 21300000, guid: c3f0b6dec2372bd4394a2827784ac5b0, type: 3}
   - {fileID: 21300000, guid: 2f6b58eef52cffa4fb2ac6fa387a2c9a, type: 3}
   - {fileID: 21300000, guid: 4218210fc53044a49aea83fd5d75b9dd, type: 3}
@@ -1159,6 +1166,11 @@ SpriteAtlas:
   - {fileID: 8373501815286838688, guid: 3d126effe3b84134c9a4a647fd349cff, type: 3}
   m_PackedSpriteNamesToIndex:
   - plains-sliced_43
+  - Talk_Box_2
+  - Talk_Box_3
+  - Talk_Box_0
+  - Talk_Box_1
+  - Talk_Box_4
   - Botamon_Attack_3
   - Botamon_Attack_2
   - Botamon_Attack_1
@@ -2080,6 +2092,7 @@ SpriteAtlas:
   - Koromon_ALL_2
   - Koromon_Idle_0
   - Koromon_Idle_1
+  - Digimon_Stage&Stone_Background
   - plains-sliced_66
   - Gabumon_Move_3
   - Gabumon_Move_2
@@ -2124,6 +2137,7 @@ SpriteAtlas:
   - plains-sliced_20
   - Palmon_thumbnail
   - character_stat_detail
+  - Digimon_Stage&Stone_Background2
   - plains-sliced_15
   - plains-sliced_29
   - "\uB514\uC9C0\uBAAC\uC5B4\uB4DC\uBCA4\uCC98\uD45C\uC9C02"
