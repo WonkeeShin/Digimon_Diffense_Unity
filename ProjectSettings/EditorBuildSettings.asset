@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/START_LOBBY.unity
     guid: 568dd9001ec9c6a449b9498386f49792
   - enabled: 1
+    path: Assets/Scenes/Stage_Stone.unity
+    guid: 30d95c0176d522440904c6f191df0858
+  - enabled: 1
     path: Assets/Scenes/Map_Select_Menu.unity
     guid: 20c007a3769437c409e50a1358cc8179
   - enabled: 1
