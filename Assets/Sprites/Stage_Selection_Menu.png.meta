@@ -1,37 +1,25 @@
 fileFormatVersion: 2
-guid: 43b40840d063efe4588b9b66c2762049
+guid: 77cc19e764bc9884098c9a6f243d10aa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1090510013700092071
-    second: Talk_Box_0
+      213: -4860874086959802175
+    second: Stage_Selection_Menu_0
   - first:
-      213: 5947488357058584259
-    second: Talk_Box_1
+      213: 2368463485022755053
+    second: GO_Button
   - first:
-      213: 1526361588599706752
-    second: Talk_Box_2
+      213: 6439335969601394087
+    second: Stage_Selection_Menu_2
   - first:
-      213: 3910127740365804044
-    second: Talk_Box_3
+      213: 6337458537521807481
+    second: Stage_Selection_Menu_3
   - first:
-      213: 123001377119840297
-    second: Talk_Box_4
+      213: 3833636330678658394
+    second: Stage_Selection_Menu_4
   - first:
-      213: 2864701010689599477
-    second: Talk_Box_5
-  - first:
-      213: 3708205761555885942
-    second: Talk_Box_6
-  - first:
-      213: -6694631450644908535
-    second: Talk_Box_7
-  - first:
-      213: -7480829516878904968
-    second: Talk_Box_8
-  - first:
-      213: 349796608822844739
-    second: Talk_Box_9
+      213: -8300677888718430435
+    second: Stage_Selection_Menu_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -75,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 128
+  spritePixelsToUnits: 256
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -141,97 +129,97 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Talk_Box_0
+      name: Stage_Selection_Menu_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 428
-        width: 91
-        height: 41
+        x: 35
+        y: 329
+        width: 186
+        height: 110
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a0b9966415422f00800000000000000
-      internalID: 1090510013700092071
+      spriteID: 1c81cdc95c4ba8cb0800000000000000
+      internalID: -4860874086959802175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Talk_Box_1
+      name: GO_Button
       rect:
         serializedVersion: 2
-        x: 146
-        y: 428
-        width: 91
-        height: 41
+        x: 183
+        y: 79
+        width: 32
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ce9f3c4629b98250800000000000000
-      internalID: 5947488357058584259
+      spriteID: de8d340bdf87ed020800000000000000
+      internalID: 2368463485022755053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Talk_Box_2
+      name: Stage_Selection_Menu_2
       rect:
         serializedVersion: 2
-        x: 274
-        y: 428
-        width: 91
-        height: 41
+        x: 183
+        y: 335
+        width: 32
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 084594f17c9be2510800000000000000
-      internalID: 1526361588599706752
+      spriteID: 7a59c7182fd1d5950800000000000000
+      internalID: 6439335969601394087
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Talk_Box_3
+      name: Stage_Selection_Menu_3
       rect:
         serializedVersion: 2
-        x: 18
-        y: 300
-        width: 91
-        height: 41
+        x: 35
+        y: 73
+        width: 186
+        height: 110
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0297ee8670934630800000000000000
-      internalID: 3910127740365804044
+      spriteID: 97001cb66fc23f750800000000000000
+      internalID: 6337458537521807481
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Talk_Box_4
+      name: Stage_Selection_Menu_4
       rect:
         serializedVersion: 2
-        x: 146
-        y: 300
-        width: 91
-        height: 41
+        x: 41
+        y: 390
+        width: 4
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,113 +227,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 928ac1ec91df4b100800000000000000
-      internalID: 123001377119840297
+      spriteID: a5522286eefc33530800000000000000
+      internalID: 3833636330678658394
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Talk_Box_5
+      name: Stage_Selection_Menu_5
       rect:
         serializedVersion: 2
-        x: 274
-        y: 300
-        width: 91
-        height: 41
-      alignment: 0
+        x: 128
+        y: 390
+        width: 4
+        height: 8
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f72bd1346671c720800000000000000
-      internalID: 2864701010689599477
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Talk_Box_6
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 172
-        width: 91
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 67f68934e71367330800000000000000
-      internalID: 3708205761555885942
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Talk_Box_7
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 172
-        width: 91
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 906f6225a24e713a0800000000000000
-      internalID: -6694631450644908535
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Talk_Box_8
-      rect:
-        serializedVersion: 2
-        x: 274
-        y: 172
-        width: 91
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8710d258031ce2890800000000000000
-      internalID: -7480829516878904968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Talk_Box_9
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 44
-        width: 91
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 34d9584992abad400800000000000000
-      internalID: 349796608822844739
+      spriteID: d1f9ff760711ecc80800000000000000
+      internalID: -8300677888718430435
       vertices: []
       indices: 
       edges: []

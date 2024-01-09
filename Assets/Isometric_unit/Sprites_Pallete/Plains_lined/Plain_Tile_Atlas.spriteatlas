@@ -128,7 +128,12 @@ SpriteAtlas:
   - {fileID: 3910127740365804044, guid: 43b40840d063efe4588b9b66c2762049, type: 3}
   - {fileID: 1090510013700092071, guid: 43b40840d063efe4588b9b66c2762049, type: 3}
   - {fileID: 5947488357058584259, guid: 43b40840d063efe4588b9b66c2762049, type: 3}
+  - {fileID: 3708205761555885942, guid: 43b40840d063efe4588b9b66c2762049, type: 3}
+  - {fileID: -6694631450644908535, guid: 43b40840d063efe4588b9b66c2762049, type: 3}
   - {fileID: 123001377119840297, guid: 43b40840d063efe4588b9b66c2762049, type: 3}
+  - {fileID: 2864701010689599477, guid: 43b40840d063efe4588b9b66c2762049, type: 3}
+  - {fileID: -7480829516878904968, guid: 43b40840d063efe4588b9b66c2762049, type: 3}
+  - {fileID: 349796608822844739, guid: 43b40840d063efe4588b9b66c2762049, type: 3}
   - {fileID: 37388687572987326, guid: 28b70e40262bc4d47a6d90baae9551e7, type: 3}
   - {fileID: -4419192724689468039, guid: 28b70e40262bc4d47a6d90baae9551e7, type: 3}
   - {fileID: 1599059488010774885, guid: 28b70e40262bc4d47a6d90baae9551e7, type: 3}
@@ -805,6 +810,21 @@ SpriteAtlas:
   - {fileID: -4922271003104271608, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
   - {fileID: 8283337854626060140, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
   - {fileID: 823347980583336560, guid: 02eaf736c02a380448b82f1bb80bc323, type: 3}
+  - {fileID: -7373422068816801073, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
+  - {fileID: -3864282944888390677, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
+  - {fileID: 6635479284207297112, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
+  - {fileID: 7945868410381959381, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
+  - {fileID: -4762928387449990171, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
+  - {fileID: -984590667403337462, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
+  - {fileID: 6981670327889925147, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
+  - {fileID: -4078295038766274138, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
+  - {fileID: -4341811636461390329, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
+  - {fileID: 2431353710742385240, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
+  - {fileID: 8576102649588908344, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
+  - {fileID: 1129040890372756007, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
+  - {fileID: -7579747164402930903, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
+  - {fileID: 5105248191213983293, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
+  - {fileID: -285298349181438657, guid: 0cc6de367c6046442bda9a28fa3af519, type: 3}
   - {fileID: 21300000, guid: 68396746cff380d418e59ac494066b2d, type: 3}
   - {fileID: 21300000, guid: b7a87c46d943839468aaf8677796b26c, type: 3}
   - {fileID: 8050656719150563664, guid: b2aabfc674f023c4fb264a4c92c5d790, type: 3}
@@ -871,6 +891,12 @@ SpriteAtlas:
   - {fileID: 21300000, guid: c2a5db47a6072cb498764ff46857fe89, type: 3}
   - {fileID: 21300000, guid: 6199e367306afba4fb2b434ada112692, type: 3}
   - {fileID: 21300000, guid: d34898d776bf97247845ce31835224c6, type: 3}
+  - {fileID: 2368463485022755053, guid: 77cc19e764bc9884098c9a6f243d10aa, type: 3}
+  - {fileID: -8300677888718430435, guid: 77cc19e764bc9884098c9a6f243d10aa, type: 3}
+  - {fileID: 3833636330678658394, guid: 77cc19e764bc9884098c9a6f243d10aa, type: 3}
+  - {fileID: 6337458537521807481, guid: 77cc19e764bc9884098c9a6f243d10aa, type: 3}
+  - {fileID: 6439335969601394087, guid: 77cc19e764bc9884098c9a6f243d10aa, type: 3}
+  - {fileID: -4860874086959802175, guid: 77cc19e764bc9884098c9a6f243d10aa, type: 3}
   - {fileID: -2320569589657566064, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
   - {fileID: -7533722279181260429, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
   - {fileID: 5481052502604446445, guid: 482b8bf75bbafd14e82efd1fedbbc576, type: 3}
@@ -1170,7 +1196,12 @@ SpriteAtlas:
   - Talk_Box_3
   - Talk_Box_0
   - Talk_Box_1
+  - Talk_Box_6
+  - Talk_Box_7
   - Talk_Box_4
+  - Talk_Box_5
+  - Talk_Box_8
+  - Talk_Box_9
   - Botamon_Attack_3
   - Botamon_Attack_2
   - Botamon_Attack_1
@@ -1847,6 +1878,21 @@ SpriteAtlas:
   - Book3
   - Book4
   - Book5
+  - Stage_Image_14
+  - Stage_Image_13
+  - Stage_Image_12
+  - Stage_Image_11
+  - Stage_Image_10
+  - Stage_Image_8
+  - Stage_Image_9
+  - Stage_Image_4
+  - Stage_Image_5
+  - Stage_Image_6
+  - Stage_Image_7
+  - Stage_Image_0
+  - Stage_Image_1
+  - Stage_Image_2
+  - Stage_Image_3
   - plains-sliced_26
   - Botamon_NoColide
   - map_thumbnail_frame_1
@@ -1913,6 +1959,12 @@ SpriteAtlas:
   - Palmon_thumbnail_selected
   - plains-sliced_67
   - plains-sliced_25
+  - GO_Button
+  - Stage_Selection_Menu_5
+  - Stage_Selection_Menu_4
+  - Stage_Selection_Menu_3
+  - Stage_Selection_Menu_2
+  - Stage_Selection_Menu_0
   - Digimon_Stone_NO_2
   - Digimon_Stone_8
   - Digimon_Stone_3
