@@ -153,7 +153,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 6882d19ddf9c1054d80060f993cae557, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.17
+  m_Volume: 0.1
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -250,9 +250,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"MAIN_FLOW","summary":null,"pan":{"x":101.4968,"y":-85.81312},"zoom":0.8,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-299.0,"y":-202.0},"guid":"c127c778-e2ec-4fde-a804-d24ca2c4ba08","$version":"A","$type":"Bolt.OnEnable","$id":"10"},{"chainable":false,"member":{"name":"Play","parameterTypes":[],"targetType":"UnityEngine.AudioSource","targetTypeName":"UnityEngine.AudioSource","$version":"A"},"defaultValues":{"target":null},"position":{"x":214.0,"y":-171.0},"guid":"9bf0fcbf-8b27-4146-9ece-2734a99e58c4","$version":"A","$type":"Bolt.InvokeMember","$id":"12"},{"chainable":false,"member":{"name":"clip","parameterTypes":null,"targetType":"UnityEngine.AudioSource","targetTypeName":"UnityEngine.AudioSource","$version":"A"},"defaultValues":{"target":null,"input":{"$content":0,"$type":"UnityEngine.Object"}},"position":{"x":-93.0,"y":-178.0},"guid":"c57c77f6-0e53-4c33-857d-15e39eb70a89","$version":"A","$type":"Bolt.SetMember","$id":"15"},{"sourceUnit":{"$ref":"10"},"sourceKey":"trigger","destinationUnit":{"$ref":"15"},"destinationKey":"assign","guid":"b90779ff-6fa2-4753-8d0a-e8e14b8cb613","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"assigned","destinationUnit":{"$ref":"12"},"destinationKey":"enter","guid":"0e96aa16-5c56-4fc4-a886-8d8e5f2f3935","$type":"Bolt.ControlConnection"}],"$version":"A"}}}'
+    _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"MAIN_FLOW","summary":null,"pan":{"x":349.9502,"y":-61.0894},"zoom":0.9,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-299.0,"y":-202.0},"guid":"c127c778-e2ec-4fde-a804-d24ca2c4ba08","$version":"A","$type":"Bolt.OnEnable","$id":"10"},{"chainable":false,"member":{"name":"Play","parameterTypes":[],"targetType":"UnityEngine.AudioSource","targetTypeName":"UnityEngine.AudioSource","$version":"A"},"defaultValues":{"target":null},"position":{"x":214.0,"y":-171.0},"guid":"9bf0fcbf-8b27-4146-9ece-2734a99e58c4","$version":"A","$type":"Bolt.InvokeMember","$id":"12"},{"chainable":false,"member":{"name":"clip","parameterTypes":null,"targetType":"UnityEngine.AudioSource","targetTypeName":"UnityEngine.AudioSource","$version":"A"},"defaultValues":{"target":null,"input":{"$content":0,"$type":"UnityEngine.Object"}},"position":{"x":-93.0,"y":-178.0},"guid":"c57c77f6-0e53-4c33-857d-15e39eb70a89","$version":"A","$type":"Bolt.SetMember","$id":"15"},{"chainable":false,"member":{"name":"DontDestroyOnLoad","parameterTypes":["UnityEngine.Object"],"targetType":"UnityEngine.GameObject","targetTypeName":"UnityEngine.GameObject","$version":"A"},"defaultValues":{"%target":null},"position":{"x":526.0,"y":-183.0},"guid":"61942224-ae9f-475e-9306-e8bea996c2a2","$version":"A","$type":"Bolt.InvokeMember","$id":"18"},{"type":"UnityEngine.GameObject","value":{"$content":1,"$type":"UnityEngine.Object"},"defaultValues":{},"position":{"x":219.0,"y":-25.0},"guid":"5e890844-729b-4735-b23e-e470c4ed2824","$version":"A","$type":"Bolt.Literal","$id":"21"},{"argumentCount":0,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"Next_Stage","$type":"System.String"}},"position":{"x":191.0,"y":191.0},"guid":"cf79e3fe-f9b7-4356-8991-2a112e253d65","$version":"A","$type":"Bolt.CustomEvent","$id":"23"},{"chainable":false,"member":{"name":"enabled","parameterTypes":null,"targetType":"UnityEngine.SpriteRenderer","targetTypeName":"UnityEngine.SpriteRenderer","$version":"A"},"defaultValues":{"target":null,"input":{"$content":false,"$type":"System.Boolean"}},"position":{"x":392.0,"y":213.0},"guid":"37395b01-d92c-4f2c-ba46-768850e35b21","$version":"A","$type":"Bolt.SetMember","$id":"25"},{"sourceUnit":{"$ref":"10"},"sourceKey":"trigger","destinationUnit":{"$ref":"15"},"destinationKey":"assign","guid":"b90779ff-6fa2-4753-8d0a-e8e14b8cb613","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"assigned","destinationUnit":{"$ref":"12"},"destinationKey":"enter","guid":"0e96aa16-5c56-4fc4-a886-8d8e5f2f3935","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"exit","destinationUnit":{"$ref":"18"},"destinationKey":"enter","guid":"e1701f8c-819d-4edc-b535-6d460ff85536","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"23"},"sourceKey":"trigger","destinationUnit":{"$ref":"25"},"destinationKey":"assign","guid":"58852d3b-c801-4423-8084-d09ceb0afc46","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"21"},"sourceKey":"output","destinationUnit":{"$ref":"18"},"destinationKey":"%target","guid":"4b7bc00a-0814-4e40-ad01-d7b5734f771c","$type":"Bolt.ValueConnection"}],"$version":"A"}}}'
     _objectReferences:
     - {fileID: 8300000, guid: 6882d19ddf9c1054d80060f993cae557, type: 3}
+    - {fileID: 246969215}
 --- !u!114 &246969218
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -306,7 +307,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -10
   m_Sprite: {fileID: 21300000, guid: 4218210fc53044a49aea83fd5d75b9dd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -758,6 +759,7 @@ GameObject:
   - component: {fileID: 1823158240}
   - component: {fileID: 1823158243}
   - component: {fileID: 1823158242}
+  - component: {fileID: 1823158244}
   m_Layer: 0
   m_Name: Game_Start_button
   m_TagString: Untagged
@@ -897,7 +899,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"GameStart_Button","summary":null,"pan":{"x":206.6583,"y":80.17223},"zoom":1.0,"elements":[{"chainable":false,"member":{"name":"SetBool","parameterTypes":["System.String","System.Boolean"],"targetType":"UnityEngine.Animator","targetTypeName":"UnityEngine.Animator","$version":"A"},"defaultValues":{"target":null,"%name":{"$content":"StartButton_On","$type":"System.String"},"%value":{"$content":true,"$type":"System.Boolean"}},"position":{"x":73.0,"y":-142.0},"guid":"057da612-9827-4b3d-8a4a-ed7fa649ea91","$version":"A","$type":"Bolt.InvokeMember","$id":"10"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-172.0,"y":-135.0},"guid":"d8f2134b-80ad-4adc-a537-e84f5c458b3d","$version":"A","$type":"Bolt.OnMouseDown","$id":"13"},{"kind":"Object","defaultValues":{"name":{"$content":"Map_Go_Ok_Bool","$type":"System.String"},"object":null},"position":{"x":116.0,"y":51.0},"guid":"816c241f-cb72-4abd-828d-6a6df5c2292d","$version":"A","$type":"Bolt.SetVariable","$id":"15"},{"type":"System.Boolean","value":{"$content":true,"$type":"System.Boolean"},"defaultValues":{},"position":{"x":-82.0,"y":157.0},"guid":"df1d45c4-15bf-4d9f-80b4-507a7af422cc","$version":"A","$type":"Bolt.Literal","$id":"17"},{"coroutine":false,"defaultValues":{"name":{"$content":"GameStart_ON","$type":"System.String"}},"position":{"x":-112.0,"y":24.0},"guid":"2d73e3ed-e2bb-4803-8943-acdc683e961f","$version":"A","$type":"Bolt.BoltUnityEvent","$id":"19"},{"sourceUnit":{"$ref":"13"},"sourceKey":"trigger","destinationUnit":{"$ref":"10"},"destinationKey":"enter","guid":"45bb9405-0369-4fec-bdb3-69cfe8ffd762","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"19"},"sourceKey":"trigger","destinationUnit":{"$ref":"15"},"destinationKey":"assign","guid":"f0f93346-c589-419f-83af-ef712ebedc75","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"output","destinationUnit":{"$ref":"15"},"destinationKey":"input","guid":"b9d242a0-0d32-4718-bb33-224acbf1b746","$type":"Bolt.ValueConnection"}],"$version":"A"}}}'
+    _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"GameStart_Button","summary":null,"pan":{"x":206.6583,"y":80.17223},"zoom":1.0,"elements":[{"chainable":false,"member":{"name":"SetBool","parameterTypes":["System.String","System.Boolean"],"targetType":"UnityEngine.Animator","targetTypeName":"UnityEngine.Animator","$version":"A"},"defaultValues":{"target":null,"%name":{"$content":"StartButton_On","$type":"System.String"},"%value":{"$content":true,"$type":"System.Boolean"}},"position":{"x":73.0,"y":-142.0},"guid":"057da612-9827-4b3d-8a4a-ed7fa649ea91","$version":"A","$type":"Bolt.InvokeMember","$id":"10"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-172.0,"y":-135.0},"guid":"d8f2134b-80ad-4adc-a537-e84f5c458b3d","$version":"A","$type":"Bolt.OnMouseDown","$id":"13"},{"kind":"Object","defaultValues":{"name":{"$content":"Map_Go_Ok_Bool","$type":"System.String"},"object":null},"position":{"x":430.0,"y":113.0},"guid":"816c241f-cb72-4abd-828d-6a6df5c2292d","$version":"A","$type":"Bolt.SetVariable","$id":"15"},{"type":"System.Boolean","value":{"$content":true,"$type":"System.Boolean"},"defaultValues":{},"position":{"x":232.0,"y":219.0},"guid":"df1d45c4-15bf-4d9f-80b4-507a7af422cc","$version":"A","$type":"Bolt.Literal","$id":"17"},{"coroutine":false,"defaultValues":{"name":{"$content":"GameStart_ON","$type":"System.String"}},"position":{"x":-179.0,"y":100.0},"guid":"2d73e3ed-e2bb-4803-8943-acdc683e961f","$version":"A","$type":"Bolt.BoltUnityEvent","$id":"19"},{"chainable":false,"member":{"name":"Play","parameterTypes":[],"targetType":"UnityEngine.AudioSource","targetTypeName":"UnityEngine.AudioSource","$version":"A"},"defaultValues":{"target":null},"position":{"x":334.0,"y":-145.0},"guid":"b2bcd05a-7bb2-4055-b836-f60ef5740f8c","$version":"A","$type":"Bolt.InvokeMember","$id":"21"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"bgm_object","$type":"System.String"}},"position":{"x":-113.0,"y":210.0},"guid":"3f092521-3d88-4c97-8277-15acd4088063","$version":"A","$type":"Bolt.GetVariable","$id":"24"},{"argumentCount":0,"defaultValues":{"name":{"$content":"Next_Stage","$type":"System.String"},"target":null},"position":{"x":108.0,"y":85.0},"guid":"9d4ba79f-c35d-437e-9a1a-6a13635ec1a9","$version":"A","$type":"Bolt.TriggerCustomEvent","$id":"26"},{"sourceUnit":{"$ref":"13"},"sourceKey":"trigger","destinationUnit":{"$ref":"10"},"destinationKey":"enter","guid":"45bb9405-0369-4fec-bdb3-69cfe8ffd762","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"10"},"sourceKey":"exit","destinationUnit":{"$ref":"21"},"destinationKey":"enter","guid":"fa7f7122-78e7-45e0-9cb1-43f71db0e752","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"19"},"sourceKey":"trigger","destinationUnit":{"$ref":"26"},"destinationKey":"enter","guid":"9ac31b16-5f73-4030-8631-0814493d739e","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"26"},"sourceKey":"exit","destinationUnit":{"$ref":"15"},"destinationKey":"assign","guid":"6a1e5b03-f8d7-4a61-8544-e815ea9ddc91","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"output","destinationUnit":{"$ref":"15"},"destinationKey":"input","guid":"b9d242a0-0d32-4718-bb33-224acbf1b746","$type":"Bolt.ValueConnection"},{"sourceUnit":{"$ref":"24"},"sourceKey":"value","destinationUnit":{"$ref":"26"},"destinationKey":"target","guid":"55cd94f8-6601-4bb6-b9fc-695a9eebcb53","$type":"Bolt.ValueConnection"}],"$version":"A"}}}'
     _objectReferences: []
 --- !u!95 &1823158243
 Animator:
@@ -918,6 +920,102 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!82 &1823158244
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1823158236}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: ffb159a21c8a04135a5616979c828fab, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.35
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1839213402
 GameObject:
   m_ObjectHideFlags: 0
@@ -961,8 +1059,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"collection":{"$content":[{"name":"bgm_object","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 246969215}
 --- !u!4 &1839213405
 Transform:
   m_ObjectHideFlags: 0

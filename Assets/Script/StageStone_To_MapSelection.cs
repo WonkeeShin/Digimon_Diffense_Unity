@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Bolt;
 
-public class GameStartButton : MonoBehaviour
+public class StageStone_To_MapSelection : MonoBehaviour
 {
     private GameObject Next_Scene;
     public bool MapOkBool;
@@ -34,7 +34,7 @@ public class GameStartButton : MonoBehaviour
         MapOkBool = (bool)Variables.Object(Next_Scene).Get("Map_Go_Ok_Bool");
         if (MapOkBool)
         {
-            SceneLoader.Instance.LoadScene("Stage_Stone");
+            SceneLoader.Instance.LoadScene("Map_Select_Menu");
             Variables.Object(Next_Scene).Set("Map_Go_Ok_Bool", false);
         }
 
