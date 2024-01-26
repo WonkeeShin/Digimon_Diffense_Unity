@@ -431,6 +431,7 @@ SpriteAtlas:
   - {fileID: 392397862046829717, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
   - {fileID: 1649371055674196232, guid: 16e9289076b7da04db1bdcc928e204f6, type: 3}
   - {fileID: 21300000, guid: 24db3a90fe1f89647af1a1c14c8ff84f, type: 3}
+  - {fileID: 21300000, guid: 772f53a0a64fa754dbf94cd3be2b28cd, type: 3}
   - {fileID: 21300000, guid: 6551e5b0d0ea09e4184e35443b2b8e92, type: 3}
   - {fileID: 21300000, guid: bb2649c0ced558045bad8f7afb0456d3, type: 3}
   - {fileID: 21300000, guid: 639d29d0411cf5948a5891dafe546fed, type: 3}
@@ -646,6 +647,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 5249d05363536d54ab5e25b8c26019f0, type: 3}
   - {fileID: 21300000, guid: ebce2c7316bfddc438f97fa34fdd7233, type: 3}
   - {fileID: 21300000, guid: 1962779388652fc47a5dfba5a13e0106, type: 3}
+  - {fileID: 21300000, guid: 22fae0a317c383f4d9e931655f735aef, type: 3}
   - {fileID: 21300000, guid: 27af87b3fd5e1e04d8ac6a41d26b3b5d, type: 3}
   - {fileID: 21300000, guid: a7b1cbb3da7c77c4fb3f4d6605928741, type: 3}
   - {fileID: 21300000, guid: 79b777c326641904b9edfb23eb2d55ec, type: 3}
@@ -925,6 +927,12 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 0b3a77c811ef8cc4b9793f55d3f2ebca, type: 3}
   - {fileID: 21300000, guid: e0df95e8ce8172145afb5967040ac7c5, type: 3}
   - {fileID: 21300000, guid: d782e0f8324e47c4aadd41980284201f, type: 3}
+  - {fileID: 7929413335796163047, guid: 26bf08198a6a3ef4e8d4f2c573ddb097, type: 3}
+  - {fileID: 1872072970978034150, guid: 26bf08198a6a3ef4e8d4f2c573ddb097, type: 3}
+  - {fileID: 4160627074718809115, guid: 26bf08198a6a3ef4e8d4f2c573ddb097, type: 3}
+  - {fileID: -2097350699102065350, guid: 26bf08198a6a3ef4e8d4f2c573ddb097, type: 3}
+  - {fileID: 1898774181840159526, guid: 26bf08198a6a3ef4e8d4f2c573ddb097, type: 3}
+  - {fileID: 3208013896530347569, guid: 26bf08198a6a3ef4e8d4f2c573ddb097, type: 3}
   - {fileID: 4339053858180053106, guid: e24f8349c5348034b82ee19deffd99a9, type: 3}
   - {fileID: 2817396023558804120, guid: e24f8349c5348034b82ee19deffd99a9, type: 3}
   - {fileID: 4097140973920270648, guid: e24f8349c5348034b82ee19deffd99a9, type: 3}
@@ -1499,6 +1507,7 @@ SpriteAtlas:
   - Pichimon_ALL_14
   - Pichimon_ALL_15
   - map_level1_thumbnail256
+  - Digimon_Generation
   - plains-sliced_38
   - plains-sliced_28
   - plains-sliced_27
@@ -1714,6 +1723,7 @@ SpriteAtlas:
   - plains-sliced_55
   - plains-sliced_40
   - plains-sliced_10
+  - Stage_Selection_Menu_notriangle
   - plains-sliced_44
   - plains-sliced_52
   - plains-sliced_56
@@ -1993,6 +2003,12 @@ SpriteAtlas:
   - plains-sliced_10
   - plains-sliced_64
   - plains-sliced_03
+  - Digimon_Generation_4
+  - Digimon_Generation_5
+  - Digimon_Generation_0
+  - Digimon_Generation_1
+  - Digimon_Generation_2
+  - Digimon_Generation_3
   - Yukibotamon_ALL_5
   - Yukibotamon_ALL_6
   - Yukibotamon_ALL_7
