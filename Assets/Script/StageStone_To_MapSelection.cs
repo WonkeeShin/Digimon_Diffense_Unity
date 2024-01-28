@@ -16,7 +16,7 @@ public class StageStone_To_MapSelection : MonoBehaviour
 
     void Awake()
     {
-        Next_Scene = GameObject.Find("Game_Start_button");
+        Next_Scene = GameObject.Find("Game_Start_button2");
         MapOkBool = (bool)Variables.Object(Next_Scene).Get("Map_Go_Ok_Bool");
     }
 

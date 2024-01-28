@@ -1,16 +1,19 @@
 fileFormatVersion: 2
-guid: 22fae0a317c383f4d9e931655f735aef
+guid: 0cadfeb8d534f14488afdf4c82ae7ce1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7793083805266395706
-    second: Stage_Selection_Menu_notriangle_0
+      213: 8063029509866693048
+    second: Map_Line_Background_0
   - first:
-      213: -3357477979224324540
-    second: Stage_Selection_Menu_notriangle_1
+      213: -7488402106021260393
+    second: Map_Line_Background_1
   - first:
-      213: 4297503119831093740
-    second: Stage_Selection_Menu_notriangle_2
+      213: -5490481853385174472
+    second: Map_Line_Background_2
+  - first:
+      213: 7013536676579519610
+    second: Map_Line_Background_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -54,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 256
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -120,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Stage_Selection_Menu_notriangle_0
+      name: Map_Line_Background_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 256
-        width: 256
-        height: 256
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a32c0cd6e68962c60800000000000000
-      internalID: 7793083805266395706
+      spriteID: 8b1a8159e92a5ef60800000000000000
+      internalID: 8063029509866693048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Stage_Selection_Menu_notriangle_1
+      name: Map_Line_Background_1
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
-        width: 256
-        height: 256
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 446432b0197d761d0800000000000000
-      internalID: -3357477979224324540
+      spriteID: 793d057b5f9d31890800000000000000
+      internalID: -7488402106021260393
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Stage_Selection_Menu_notriangle_2
+      name: Map_Line_Background_2
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 256
-        height: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,8 +179,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce15aae715cc3ab30800000000000000
-      internalID: 4297503119831093740
+      spriteID: 8329f3b18d3edc3b0800000000000000
+      internalID: -5490481853385174472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Line_Background_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c22b2b276155160800000000000000
+      internalID: 7013536676579519610
       vertices: []
       indices: 
       edges: []
