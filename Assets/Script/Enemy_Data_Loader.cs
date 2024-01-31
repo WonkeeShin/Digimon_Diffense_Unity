@@ -25,12 +25,15 @@ public class Enemy_Data_Loader : MonoBehaviour
 		List<Dictionary<string, object>> data = CSVReader.Read("Enemy_Data2");
 
 		list.Add("Botamon");
-		list.Add("Bubbmon");
-		list.Add("Nyokimon");
-		list.Add("Yuramon");
 		list.Add("Punimon");
+		list.Add("Nyokimon");
+		list.Add("Bubbmon");
+		list.Add("Yuramon");
 		list.Add("Pichimon");
+		list.Add("Poyomon");
 		list.Add("Yukibotamon");
+		list.Add("Choromon");
+		list.Add("Kuramon");
 		list.Add("Koromon");
 		list.Add("Mochimon");
 		list.Add("Tunomon");
@@ -43,7 +46,7 @@ public class Enemy_Data_Loader : MonoBehaviour
 		list.Add("Patamon");
 		list.Add("Palmon");
 
-		for (int i = 0; i < 18; i++)
+		for (int i = 0; i < 21; i++)
 		{
 			Digi_NO = (int)data[i]["Number"];
 			Digi_Name = (string)data[i]["Name"];

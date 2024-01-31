@@ -17,6 +17,9 @@ public class Main2 : MonoBehaviour
 	public int Digi_Retime;
 	public float Digi_Speed;
 	public int Digi_Skill;
+	public string Digi_Tag;
+	public int Digi_Technique;
+	public int Digi_Target;
 	private List<string> list = new List<string>();
 
 	void Awake()
@@ -66,6 +69,9 @@ public class Main2 : MonoBehaviour
 			Digi_Retime = (int)data[i]["ReTime"];
 			Digi_Speed = (int)data[i]["Speed"];
 			Digi_Skill = (int)data[i]["Skill"];
+			Digi_Tag = (string)data[i]["Tag"];
+			Digi_Technique = (int)data[i]["Technique"];
+			Digi_Target = (int)data[i]["Target"];
 
 			Variables.Object(Digimon).Set(list[i], data[i]);
 		}
