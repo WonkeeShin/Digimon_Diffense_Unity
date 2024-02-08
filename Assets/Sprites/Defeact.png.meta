@@ -8,6 +8,12 @@ TextureImporter:
   - first:
       213: 74920627701062464
     second: Defeact_1
+  - first:
+      213: 145517185173026819
+    second: Defeact_1
+  - first:
+      213: -7837066052850681606
+    second: Defeact_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -138,11 +144,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Defeact_1
+      name: Defeact_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 384
+        y: 384
         width: 384
         height: 384
       alignment: 0
@@ -154,6 +160,48 @@ TextureImporter:
       bones: []
       spriteID: 04b9878f9eb2a0100800000000000000
       internalID: 74920627701062464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defeact_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308f3f2eb1bf40200800000000000000
+      internalID: 145517185173026819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defeact_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8ff8e82f52d3390800000000000000
+      internalID: -7837066052850681606
       vertices: []
       indices: 
       edges: []
