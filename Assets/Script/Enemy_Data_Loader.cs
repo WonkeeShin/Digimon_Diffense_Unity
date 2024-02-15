@@ -16,6 +16,7 @@ public class Enemy_Data_Loader : MonoBehaviour
 	public float Digi_Speed;
 	public int Digi_Position;
 	public int Digi_Skill;
+	public string Digi_ATK_Type;
 	private List<string> list = new List<string>();
 
 	void Awake()
@@ -56,6 +57,7 @@ public class Enemy_Data_Loader : MonoBehaviour
 			Digi_Colli_NO = (int)data[i]["Colli_No"];
 			Digi_Position = (int)data[i]["Position"];
 			Digi_Skill = (int)data[i]["Skill"];
+			Digi_ATK_Type = (string)data[i]["AttackType"];
 
 			Variables.Object(Digimon).Set(list[i], data[i]);
 		}
