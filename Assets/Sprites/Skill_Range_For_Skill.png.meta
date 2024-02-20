@@ -20,6 +20,30 @@ TextureImporter:
   - first:
       213: -6068941345044714208
     second: Skill_Range_For_Skill_5
+  - first:
+      213: 7061186912185120762
+    second: Skill_Range_For_Skill_6
+  - first:
+      213: -7561633219999296551
+    second: Skill_Range_For_Skill_7
+  - first:
+      213: 1029135945660239434
+    second: Skill_Range_For_Skill_8
+  - first:
+      213: -6304023438837623418
+    second: Skill_Range_For_Skill_9
+  - first:
+      213: -7700501688014985756
+    second: Skill_Range_For_Skill_10
+  - first:
+      213: 2229441793116434446
+    second: Skill_Range_For_Skill_11
+  - first:
+      213: 2583231116535603658
+    second: Skill_Range_For_Skill_12
+  - first:
+      213: 6671781781948091954
+    second: Skill_Range_For_Skill_13
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -133,11 +157,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 512
+        y: 768
         width: 96
         height: 48
-      alignment: 9
-      pivot: {x: 0.33333334, y: 0.33333334}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -154,11 +178,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 512
+        y: 768
         width: 128
         height: 64
-      alignment: 9
-      pivot: {x: 0.25, y: 0.25}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -174,12 +198,12 @@ TextureImporter:
       name: Skill_Range_For_Skill_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 256
+        x: 512
+        y: 768
         width: 128
         height: 64
-      alignment: 9
-      pivot: {x: 0.25, y: 0.25}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -195,12 +219,12 @@ TextureImporter:
       name: Skill_Range_For_Skill_3
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
+        x: 768
+        y: 768
         width: 128
         height: 64
-      alignment: 9
-      pivot: {x: 0.25, y: 0.25}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -217,11 +241,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 512
         width: 160
         height: 80
-      alignment: 9
-      pivot: {x: 0.2, y: 0.2}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -238,11 +262,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 0
+        y: 512
         width: 192
         height: 96
-      alignment: 9
-      pivot: {x: 0.16666667, y: 0.16666667}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -250,6 +274,174 @@ TextureImporter:
       bones: []
       spriteID: 02dade5500ac6cba0800000000000000
       internalID: -6068941345044714208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Range_For_Skill_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 96
+        height: 48
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af77e69b5106ef160800000000000000
+      internalID: 7061186912185120762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Range_For_Skill_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3162056aeaf0790800000000000000
+      internalID: -7561633219999296551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Range_For_Skill_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e0aa2a0b9384e00800000000000000
+      internalID: 1029135945660239434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Range_For_Skill_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 96
+        height: 48
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685d850251c9388a0800000000000000
+      internalID: -6304023438837623418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Range_For_Skill_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e522958382522590800000000000000
+      internalID: -7700501688014985756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Range_For_Skill_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e007d1eaf7190fe10800000000000000
+      internalID: 2229441793116434446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Range_For_Skill_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac127d1930b79d320800000000000000
+      internalID: 2583231116535603658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Range_For_Skill_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e40fb9e2ee69c50800000000000000
+      internalID: 6671781781948091954
       vertices: []
       indices: 
       edges: []

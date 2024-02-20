@@ -722,10 +722,18 @@ SpriteAtlas:
   - {fileID: -157218627090334961, guid: bdc3c0d4128c59344a413c44ec62311d, type: 3}
   - {fileID: 4215105018827989323, guid: bdc3c0d4128c59344a413c44ec62311d, type: 3}
   - {fileID: 21300000, guid: f77b6ad4814d7df4e87c18c6152477f4, type: 3}
+  - {fileID: 2583231116535603658, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
+  - {fileID: 6671781781948091954, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
+  - {fileID: -7700501688014985756, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
+  - {fileID: 2229441793116434446, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
+  - {fileID: -6304023438837623418, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
+  - {fileID: 1029135945660239434, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
   - {fileID: 3095577653994469292, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
   - {fileID: 4122625582437477308, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
   - {fileID: 4820536792549349835, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
   - {fileID: -6325316158490397443, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
+  - {fileID: -7561633219999296551, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
+  - {fileID: 7061186912185120762, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
   - {fileID: -6068941345044714208, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
   - {fileID: -8203871244064039714, guid: 6ffa9ae4583ba2740926ebb9da2b3ae3, type: 3}
   - {fileID: -8868761091211716206, guid: 0f26a2f485786db4bb7bd47de110dfb6, type: 3}
@@ -1839,10 +1847,18 @@ SpriteAtlas:
   - Position_OK_1
   - Position_OK_4
   - Loading_Background
+  - Skill_Range_For_Skill_12
+  - Skill_Range_For_Skill_13
+  - Skill_Range_For_Skill_10
+  - Skill_Range_For_Skill_11
+  - Skill_Range_For_Skill_9
+  - Skill_Range_For_Skill_8
   - Skill_Range_For_Skill_3
   - Skill_Range_For_Skill_2
   - Skill_Range_For_Skill_1
   - Skill_Range_For_Skill_0
+  - Skill_Range_For_Skill_7
+  - Skill_Range_For_Skill_6
   - Skill_Range_For_Skill_5
   - Skill_Range_For_Skill_4
   - Palmon_Idle_0
