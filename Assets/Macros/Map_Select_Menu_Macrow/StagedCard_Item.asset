@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: StagedCard_Item
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"argumentCount":0,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"Having_Item","$type":"System.String"}},"position":{"x":-161.0,"y":-198.0},"guid":"d1cf7008-e589-4640-a7a0-35095bf8b042","$version":"A","$type":"Bolt.CustomEvent","$id":"9"},{"chainable":false,"member":{"name":"color","parameterTypes":null,"targetType":"UnityEngine.SpriteRenderer","targetTypeName":"UnityEngine.SpriteRenderer","$version":"A"},"defaultValues":{"target":null,"input":{"r":1.0,"g":1.0,"b":1.0,"a":1.0,"$type":"UnityEngine.Color"}},"position":{"x":112.0,"y":-193.0},"guid":"a9261a50-a241-4af8-aaed-bb2bea3dd277","$version":"A","$type":"Bolt.SetMember","$id":"11"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"assign","guid":"90c9c021-910c-426e-a34c-3709d0396c4d","$type":"Bolt.ControlConnection"}],"$version":"A"}}'
+    _objectReferences: []

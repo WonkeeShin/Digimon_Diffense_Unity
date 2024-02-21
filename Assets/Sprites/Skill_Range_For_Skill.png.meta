@@ -44,6 +44,9 @@ TextureImporter:
   - first:
       213: 6671781781948091954
     second: Skill_Range_For_Skill_13
+  - first:
+      213: -3632834400342260939
+    second: Skill_Range_For_Skill_14
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -442,6 +445,27 @@ TextureImporter:
       bones: []
       spriteID: 23e40fb9e2ee69c50800000000000000
       internalID: 6671781781948091954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Range_For_Skill_14
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 521
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533c7c74c54959dc0800000000000000
+      internalID: -3632834400342260939
       vertices: []
       indices: 
       edges: []

@@ -15,6 +15,7 @@ public class Map_Data_Loader_C : MonoBehaviour
 	public int Map_Hard;
 	private List<string> list = new List<string>();
 	public bool Map_Data_Loader_Bool;
+	public string Map_Clear_Item;
 
 	void Awake()
 	{
@@ -47,6 +48,7 @@ public class Map_Data_Loader_C : MonoBehaviour
 			Map_Special = (int)data[i]["Special"];
 			Map_UpDown = (int)data[i]["Up"];
 			Map_Hard = (int)data[i]["Hard"];
+			Map_Clear_Item = (string)data[i]["Item"];
 
 			Variables.Object(Map_Loader).Set(list[i], data[i]);
 		}
