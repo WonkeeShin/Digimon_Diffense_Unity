@@ -35,6 +35,15 @@ public class SceneLoadTester : MonoBehaviour
         
     }
 
+    public void NextScene()
+    {
+        MapOkBool = (bool)Variables.Object(Next_Scene).Get("Map_Go_Ok_Bool");
+        Number_Level = (string)Variables.Object(Next_Scene).Get("Determined_Stage_Name");
+        if (MapOkBool)
+        {
+            SceneLoader.Instance.LoadScene("Map" + Number_Level);
+        }
+    }
 
     // Update is called once per frame
     void Update()

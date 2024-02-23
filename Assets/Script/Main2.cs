@@ -53,10 +53,13 @@ public class Main2 : MonoBehaviour
 		list.Add("Gomamon");
 		list.Add("Patamon");
 		list.Add("Plotmon");
+		list.Add("Kunuemon");
+		list.Add("Dokunemon");
+		list.Add("Heal1");
 
 
 
-		for (int i = 0; i < 25; i++)
+		for (int i = 0; i < 28; i++)
 		{
 			Digi_NO = (int)data[i]["Number"];
 			Digi_Name = (string)data[i]["Name"];
