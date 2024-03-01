@@ -918,6 +918,7 @@ SpriteAtlas:
   - {fileID: -4276427041017489574, guid: 112a1d37349df0642bb064946ef77f27, type: 3}
   - {fileID: 21300000, guid: c2a5db47a6072cb498764ff46857fe89, type: 3}
   - {fileID: 21300000, guid: 6199e367306afba4fb2b434ada112692, type: 3}
+  - {fileID: 21300000, guid: bce944a73723cf44abce33114f6c83fa, type: 3}
   - {fileID: 21300000, guid: d34898d776bf97247845ce31835224c6, type: 3}
   - {fileID: 2368463485022755053, guid: 77cc19e764bc9884098c9a6f243d10aa, type: 3}
   - {fileID: -8300677888718430435, guid: 77cc19e764bc9884098c9a6f243d10aa, type: 3}
@@ -1060,6 +1061,7 @@ SpriteAtlas:
   - {fileID: 8289120781833432427, guid: bdbda75b69b3acb4a94587eaceca9b27, type: 3}
   - {fileID: -2650000594500012266, guid: bdbda75b69b3acb4a94587eaceca9b27, type: 3}
   - {fileID: 6668216693306044563, guid: bdbda75b69b3acb4a94587eaceca9b27, type: 3}
+  - {fileID: 21300000, guid: 68f6887b14e54e24786e0d91f48e49ef, type: 3}
   - {fileID: 21300000, guid: 0e175f8b3aba64e42aac438c4dae92ca, type: 3}
   - {fileID: 1380160058192419776, guid: dc375f9bfae733a4eb41433ddf3691e0, type: 3}
   - {fileID: 738902458051343739, guid: dc375f9bfae733a4eb41433ddf3691e0, type: 3}
@@ -2044,6 +2046,7 @@ SpriteAtlas:
   - Character_Direction_Arrow2_0
   - Palmon_thumbnail_selected
   - plains-sliced_67
+  - Enemy_path_guider
   - plains-sliced_25
   - GO_Button
   - Stage_Selection_Menu_5
@@ -2186,6 +2189,7 @@ SpriteAtlas:
   - Agumon_Skill_3
   - Agumon_Skill_2
   - Agumon_idle_0
+  - digicore
   - plains-sliced_33
   - Tentomon_Attack_3
   - Tentomon_Attack_2
